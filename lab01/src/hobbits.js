@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "name, surname, residence, class, height, weight, gender, age, adventure", (err) => {if (err) console.log(err);});
+fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "id, name, surname, residence, class, height, weight, gender, age, adventure", (err) => {if (err) console.log(err);});
 
 const possibleResidences = [
     "Shire",
@@ -36,6 +36,8 @@ const possibleClasses = [
     "Fallohide"
 ];
 
+let id = 1;
+
 function writeHobbit(name, surname, gender) {
     let residence = possibleResidences[Math.floor(Math.random()*possibleResidences.length)];
     let hobbitClass = possibleClasses[Math.floor(Math.random()*possibleClasses.length)];
@@ -45,6 +47,7 @@ function writeHobbit(name, surname, gender) {
     let adventure = (Math.floor(Math.random() * 10) + 1).toString();
     let hobbit = String.prototype.concat(
         "\n",
+        id, ", ",
         name, ", ",
         surname, ", ",
         residence, ", ",
@@ -55,6 +58,7 @@ function writeHobbit(name, surname, gender) {
         age, ", ",
         adventure
     );
+    id++;
     fs.appendFile(`${csvDirectory}/${hobbitsFilename}`, hobbit , (err) => {if (err) console.log(err);});
 }
 
