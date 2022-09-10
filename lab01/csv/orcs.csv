@@ -1,1011 +1,1010 @@
-id, name, master, danger, endurance, bravery
-1, Geggur, Azog, 7, 8, 10
-4, Gruthrig, Saruman, 9, 2, 4
-5, Kraurzel, Saruman, 2, 1, 2
-7, Ucrad, Morgoth, 9, 5, 1
-6, Uglid, Nazguls, 7, 6, 1
-11, Srocrarg, Azog, 4, 2, 7
-9, Addeg, Azog, 10, 4, 10
-12, Shigdat, Morgoth, 2, 1, 1
-10, Aulfakh, Azog, 9, 9, 8
-8, Ulgugh, Saruman, 6, 5, 5
-16, Authrudh, Morgoth, 1, 8, 5
-17, Urdug, Nazguls, 10, 1, 7
-15, Ghauggor, Saruman, 10, 8, 3
-13, Shauzrarg, Saruman, 8, 6, 6
-19, Uggar, Nazguls, 5, 5, 5
-21, Suhag, Sauron, 8, 5, 9
-18, Acrer, Nazguls, 6, 1, 5
-23, Sirgaush, Morgoth, 6, 6, 8
-24, Caugga, Nazguls, 6, 1, 9
-25, Cehuf, Morgoth, 8, 1, 10
-26, Augduf, Sauron, 1, 2, 4
-27, Agguf, Nazguls, 6, 3, 5
-28, Argu, Nazguls, 7, 1, 6
-29, Ugif, Nazguls, 2, 10, 4
-3, Dregzag, Azog, 5, 4, 8
-22, Cregush, Azog, 2, 8, 3
-32, Daldof, Sauron, 6, 7, 10
-14, Dirzauc, Sauron, 7, 5, 5
-33, Cracder, Nazguls, 4, 1, 9
-31, Crigded, Morgoth, 7, 1, 1
-20, Auglud, Morgoth, 10, 7, 4
-34, Ghogir, Nazguls, 9, 10, 2
-37, Ugzaf, Azog, 4, 9, 6
-35, Shuggau, Nazguls, 4, 8, 4
-38, Orcel, Sauron, 4, 6, 1
-41, Baushnudh, Azog, 6, 9, 5
-39, Ohir, Saruman, 7, 6, 8
-2, Kaldec, Morgoth, 7, 8, 4
-40, Ocbil, Azog, 10, 9, 10
-42, Doddat, Morgoth, 1, 7, 9
-44, Kerbirg, Saruman, 3, 4, 9
-45, Gerzi, Sauron, 6, 8, 8
-46, Aftha, Morgoth, 5, 8, 10
-47, Agdir, Sauron, 9, 3, 7
-48, Azrush, Azog, 4, 10, 9
-52, Cazguc, Morgoth, 3, 6, 6
-49, Ugir, Sauron, 6, 9, 6
-54, Macreg, Azog, 5, 2, 5
-51, Srauzad, Sauron, 8, 8, 4
-53, Ducbuc, Saruman, 8, 4, 9
-50, Oshna, Sauron, 5, 8, 7
-57, Ulgac, Sauron, 2, 4, 10
-55, Buzzidh, Sauron, 8, 1, 2
-60, Othrid, Saruman, 8, 1, 1
-61, Srugzuf, Nazguls, 1, 4, 7
-56, Ocraf, Sauron, 2, 9, 5
-62, Marcog, Sauron, 8, 3, 5
-59, Ocrogh, Saruman, 6, 3, 7
-63, Brigra, Azog, 4, 3, 8
-64, Srazgit, Saruman, 10, 2, 8
-65, Crogba, Morgoth, 9, 1, 7
-58, Agdauth, Morgoth, 2, 1, 2
-30, Augdaur, Azog, 10, 5, 2
-67, Urbaukh, Sauron, 10, 9, 6
-68, Arzodh, Saruman, 8, 3, 2
-70, Arzadh, Nazguls, 5, 2, 2
-69, Ugbal, Saruman, 3, 4, 3
-71, Shircaurg, Azog, 5, 7, 5
-73, Cozzu, Nazguls, 4, 2, 10
-72, Crecdag, Azog, 10, 3, 8
-75, Razit, Nazguls, 6, 3, 9
-74, Kuzbirg, Azog, 3, 4, 1
-76, Ozzeg, Saruman, 6, 4, 6
-77, Argod, Saruman, 2, 3, 10
-79, Ucrudh, Sauron, 1, 1, 1
-78, Agedh, Nazguls, 6, 7, 8
-81, Kozric, Nazguls, 5, 7, 8
-80, Odbaurg, Morgoth, 6, 4, 7
-82, Kathre, Nazguls, 2, 7, 3
-83, Mushnod, Saruman, 2, 2, 8
-84, Crecbag, Azog, 9, 7, 4
-85, Bigdash, Nazguls, 6, 7, 7
-87, Aurdu, Nazguls, 4, 1, 3
-86, Azgag, Morgoth, 2, 2, 8
-88, Ugrel, Saruman, 3, 10, 1
-90, Ugrugh, Nazguls, 8, 3, 4
-89, Olgod, Azog, 3, 8, 4
-91, Broglut, Saruman, 7, 6, 6
-92, Koldi, Morgoth, 2, 1, 4
-94, Gerzith, Azog, 10, 8, 2
-95, Reshna, Sauron, 9, 8, 5
-93, Dezzaush, Morgoth, 9, 2, 7
-96, Aurgug, Morgoth, 4, 4, 8
-98, Ofded, Azog, 3, 2, 9
-97, Aurcar, Saruman, 6, 9, 6
-36, Ucde, Morgoth, 10, 9, 8
-101, Shehec, Morgoth, 2, 6, 1
-100, Aldol, Morgoth, 9, 1, 6
-103, Saurbu, Morgoth, 1, 3, 6
-102, Ghehaugh, Sauron, 3, 9, 9
-104, Rizzir, Azog, 9, 8, 1
-107, Auzuf, Azog, 9, 9, 5
-106, Uddikh, Sauron, 2, 4, 2
-108, Odbeth, Sauron, 8, 8, 7
-105, Krordaush, Morgoth, 2, 9, 6
-109, Auggef, Nazguls, 7, 9, 3
-111, Regig, Azog, 9, 2, 3
-110, Oshnegh, Nazguls, 5, 4, 10
-112, Brauggat, Sauron, 10, 7, 3
-113, Cracdaudh, Sauron, 4, 2, 3
-114, Keggash, Azog, 5, 10, 8
-115, Kruzza, Morgoth, 2, 8, 9
-116, Auzbagh, Nazguls, 9, 6, 2
-118, Azze, Morgoth, 7, 5, 9
-117, Uldig, Nazguls, 10, 1, 6
-119, Aufdudh, Morgoth, 2, 3, 2
-121, Dizra, Nazguls, 6, 3, 9
-43, Cegbif, Nazguls, 2, 3, 7
-99, Uzref, Nazguls, 1, 5, 7
-66, Ucbof, Saruman, 2, 7, 2
-124, Rurgud, Azog, 6, 10, 3
-120, Aucbuth, Nazguls, 7, 4, 7
-125, Cirbud, Morgoth, 6, 2, 9
-127, Ago, Saruman, 1, 4, 7
-129, Ulgokh, Sauron, 10, 6, 7
-128, Azgoth, Nazguls, 4, 8, 3
-130, Ogdul, Nazguls, 1, 1, 2
-122, Gulgesh, Sauron, 3, 3, 3
-133, Recbid, Saruman, 7, 1, 9
-134, Broha, Sauron, 2, 3, 6
-135, Krogegh, Nazguls, 10, 8, 2
-131, Macbuc, Nazguls, 3, 1, 10
-136, Orbed, Nazguls, 3, 6, 1
-137, Auddo, Nazguls, 6, 1, 9
-138, Aufthac, Nazguls, 1, 5, 4
-132, Sregdaur, Sauron, 7, 5, 1
-139, Arcirg, Azog, 4, 6, 1
-123, Sherge, Morgoth, 7, 5, 2
-143, Cerzuth, Nazguls, 3, 2, 8
-126, Olguc, Nazguls, 4, 1, 10
-141, Sucbish, Azog, 7, 10, 4
-145, Shofthur, Sauron, 5, 1, 10
-147, Uzeth, Sauron, 1, 4, 6
-148, Azot, Saruman, 3, 3, 4
-146, Ulcmeth, Saruman, 9, 2, 7
-149, Azradh, Saruman, 1, 9, 7
-150, Urbeg, Nazguls, 8, 2, 6
-152, Bruzbegh, Saruman, 1, 10, 4
-153, Rurgarg, Nazguls, 10, 4, 1
-156, Uzbut, Sauron, 6, 8, 9
-155, Brilcmat, Azog, 2, 10, 10
-142, Cirbash, Nazguls, 8, 5, 1
-151, Krucresh, Nazguls, 7, 9, 8
-159, Auldal, Nazguls, 7, 7, 9
-144, Bazgi, Saruman, 5, 5, 5
-157, Orgedh, Saruman, 3, 9, 4
-154, Solgaf, Saruman, 1, 8, 6
-162, Cegdath, Nazguls, 4, 5, 9
-160, Uzof, Azog, 8, 8, 3
-165, Grugbegh, Saruman, 7, 7, 4
-161, Gegde, Saruman, 4, 7, 7
-140, Ocdoc, Azog, 4, 6, 1
-164, Suzir, Sauron, 2, 2, 10
-168, Aulfot, Nazguls, 10, 9, 2
-167, Ozbo, Saruman, 2, 8, 7
-163, Srafdic, Morgoth, 3, 6, 8
-169, Azikh, Morgoth, 3, 8, 1
-171, Kruzro, Morgoth, 9, 10, 10
-172, Cruzbaush, Azog, 6, 7, 2
-174, Ghogradh, Azog, 3, 3, 1
-175, Laglof, Nazguls, 2, 3, 4
-166, Auzikh, Morgoth, 9, 10, 8
-158, Ogbish, Saruman, 1, 4, 7
-177, Augded, Sauron, 6, 4, 10
-179, Uthrash, Saruman, 8, 6, 4
-180, Othred, Azog, 10, 5, 8
-181, Dagrar, Sauron, 8, 7, 2
-170, Authrogh, Saruman, 8, 7, 6
-182, Doglorg, Nazguls, 9, 4, 6
-184, Cezgogh, Morgoth, 6, 10, 4
-185, Docdush, Saruman, 1, 7, 1
-183, Drerbur, Azog, 9, 2, 1
-187, Augladh, Nazguls, 9, 1, 1
-176, Oftho, Morgoth, 9, 1, 8
-186, Ugut, Saruman, 2, 7, 9
-188, Azot, Morgoth, 6, 1, 5
-178, Oldi, Saruman, 7, 8, 7
-192, Sharcel, Azog, 8, 6, 1
-191, Gege, Morgoth, 5, 4, 5
-195, Grudbugh, Saruman, 5, 1, 7
-193, Rolcmidh, Nazguls, 6, 1, 5
-196, Uthredh, Azog, 1, 8, 8
-194, Srudbidh, Azog, 6, 5, 8
-199, Auzzi, Morgoth, 1, 1, 4
-200, Auddur, Morgoth, 4, 3, 2
-201, Sauzrokh, Azog, 3, 3, 7
-197, Authraur, Saruman, 10, 1, 7
-203, Craulgig, Saruman, 7, 10, 3
-198, Urgau, Azog, 5, 7, 4
-202, Girzif, Saruman, 3, 10, 6
-204, Srurcau, Saruman, 1, 2, 3
-205, Rolgal, Morgoth, 6, 4, 3
-207, Oga, Azog, 10, 8, 5
-190, Augba, Azog, 6, 1, 1
-206, Orcul, Nazguls, 6, 7, 5
-209, Uthrug, Azog, 4, 1, 8
-210, Orgidh, Sauron, 9, 2, 4
-212, Dalfi, Azog, 1, 6, 4
-211, Raucbef, Azog, 1, 2, 1
-214, Srugauf, Morgoth, 5, 6, 9
-215, Kauhith, Nazguls, 5, 7, 10
-213, Srerdaukh, Azog, 9, 7, 1
-217, Azboth, Sauron, 9, 2, 8
-218, Ushnel, Sauron, 5, 1, 2
-216, Authrof, Nazguls, 9, 10, 1
-189, Ocret, Morgoth, 3, 2, 7
-220, Ardu, Sauron, 8, 4, 3
-219, Ardash, Azog, 6, 1, 4
-222, Gazgau, Saruman, 10, 3, 8
-223, Geglo, Azog, 9, 2, 6
-221, Rudbeg, Nazguls, 8, 4, 5
-224, Carger, Nazguls, 6, 2, 2
-225, Rurga, Morgoth, 10, 8, 7
-227, Olda, Morgoth, 4, 6, 2
-226, Ugdod, Nazguls, 5, 2, 10
-228, Azzut, Nazguls, 5, 7, 1
-232, Saurzigh, Sauron, 9, 10, 5
-230, Acrid, Azog, 2, 1, 2
-229, Aufdeg, Nazguls, 1, 6, 8
-231, Sogduf, Azog, 8, 10, 8
-233, Sagzad, Morgoth, 5, 3, 9
-208, Afdadh, Nazguls, 7, 2, 10
-236, Oza, Nazguls, 1, 7, 9
-238, Othrerg, Morgoth, 5, 2, 5
-237, Aushnigh, Sauron, 10, 4, 9
-240, Agzel, Morgoth, 3, 3, 6
-239, Augdarg, Sauron, 1, 5, 9
-241, Lathrul, Morgoth, 7, 4, 5
-243, Gicdud, Saruman, 5, 3, 5
-245, Gricragh, Morgoth, 4, 9, 8
-242, Greddet, Nazguls, 8, 6, 9
-246, Ufthag, Nazguls, 6, 2, 1
-244, Draufdukh, Morgoth, 8, 9, 6
-247, Ordesh, Nazguls, 7, 4, 10
-249, Aushnau, Azog, 4, 9, 6
-248, Oglagh, Sauron, 10, 6, 6
-250, Aulge, Morgoth, 2, 10, 8
-251, Braggaud, Azog, 3, 10, 2
-252, Drauzboc, Azog, 8, 9, 6
-173, Kadber, Azog, 9, 9, 2
-257, Arcec, Azog, 2, 2, 6
-256, Olcmar, Morgoth, 9, 5, 5
-255, Moldoc, Nazguls, 2, 2, 8
-253, Kaugbaug, Morgoth, 4, 2, 5
-258, Auldac, Saruman, 6, 9, 9
-260, Ufdosh, Azog, 10, 9, 3
-259, Aufdol, Azog, 8, 2, 9
-262, Brathro, Sauron, 7, 5, 7
-261, Roddash, Sauron, 8, 7, 5
-264, Legla, Saruman, 8, 1, 5
-263, Ghezu, Azog, 5, 8, 3
-266, Ahaush, Azog, 8, 2, 5
-265, Githroth, Saruman, 10, 3, 1
-268, Udbuf, Sauron, 6, 10, 8
-267, Aurgush, Sauron, 1, 3, 2
-269, Olcmaush, Morgoth, 4, 1, 7
-270, Ushnad, Sauron, 2, 10, 8
-271, Bigridh, Morgoth, 4, 5, 9
-272, Crergagh, Azog, 6, 5, 6
-275, Cogrec, Nazguls, 1, 10, 7
-234, Kralfigh, Nazguls, 4, 3, 5
-274, Grigraul, Morgoth, 9, 8, 7
-276, Ordef, Saruman, 5, 2, 2
-235, Lilcmush, Nazguls, 7, 7, 5
-254, Sharderg, Saruman, 8, 2, 5
-279, Aggagh, Azog, 1, 10, 8
-278, Odbet, Nazguls, 5, 9, 9
-282, Sothraush, Saruman, 1, 9, 3
-284, Srazbigh, Sauron, 7, 1, 7
-281, Kraulga, Nazguls, 1, 2, 7
-283, Brulfadh, Saruman, 5, 1, 5
-285, Ghifthel, Saruman, 3, 3, 2
-286, Ogdif, Saruman, 9, 3, 4
-287, Arcur, Nazguls, 4, 4, 3
-288, Aulcmikh, Azog, 8, 5, 8
-291, Krithrac, Morgoth, 6, 4, 3
-289, Augo, Azog, 10, 7, 1
-290, Aulcmol, Nazguls, 10, 9, 1
-292, Ralcmigh, Nazguls, 9, 7, 9
-277, Ugzoth, Morgoth, 6, 10, 3
-293, Dicro, Nazguls, 3, 2, 4
-294, Ludberg, Sauron, 1, 9, 9
-297, Auldu, Nazguls, 4, 5, 8
-295, Grofther, Azog, 1, 1, 9
-299, Uhekh, Sauron, 4, 4, 10
-300, Auze, Sauron, 5, 9, 9
-298, Aulfaush, Morgoth, 4, 8, 8
-301, Drethrurg, Nazguls, 5, 9, 3
-303, Crizzudh, Sauron, 10, 10, 7
-280, Ucbirg, Nazguls, 6, 8, 5
-302, Crurdo, Saruman, 10, 10, 3
-306, Ozraf, Morgoth, 9, 5, 4
-305, Shiglagh, Morgoth, 2, 5, 2
-296, Uzzug, Morgoth, 10, 5, 5
-273, Braurzul, Sauron, 3, 4, 4
-310, Ocrigh, Morgoth, 10, 3, 8
-307, Addug, Morgoth, 1, 3, 6
-308, Augzush, Sauron, 5, 10, 10
-311, Krucdud, Nazguls, 5, 9, 3
-309, Urgodh, Azog, 8, 2, 7
-313, Draldug, Sauron, 4, 10, 1
-314, Cithraud, Nazguls, 8, 10, 6
-315, Cruhodh, Nazguls, 6, 2, 1
-318, Aulcmal, Nazguls, 8, 8, 7
-319, Ordu, Sauron, 9, 8, 1
-317, Ogdul, Nazguls, 6, 5, 10
-320, Othrath, Azog, 8, 4, 10
-321, Sirzorg, Nazguls, 5, 2, 2
-322, Duzgad, Morgoth, 6, 4, 10
-323, Kocbarg, Sauron, 5, 8, 8
-324, Sricbaf, Saruman, 3, 1, 2
-304, Sergikh, Azog, 9, 3, 3
-327, Augre, Sauron, 4, 1, 5
-326, Orbigh, Saruman, 2, 7, 10
-329, Aurdaush, Sauron, 6, 4, 5
-328, Orzauth, Morgoth, 8, 9, 6
-330, Udbash, Saruman, 7, 5, 5
-331, Krocdot, Saruman, 3, 4, 1
-332, Kuzudh, Azog, 5, 3, 3
-316, Aulfeth, Sauron, 6, 9, 6
-334, Cezarg, Nazguls, 6, 7, 5
-335, Kozzudh, Azog, 2, 6, 6
-337, Augdush, Sauron, 5, 4, 2
-338, Audbeth, Saruman, 5, 2, 6
-336, Aucrof, Morgoth, 3, 8, 6
-312, Kraugdi, Morgoth, 3, 10, 6
-341, Rehor, Saruman, 5, 9, 3
-342, Bazbut, Azog, 4, 7, 5
-340, Olgol, Sauron, 8, 1, 6
-343, Greshnec, Nazguls, 9, 4, 1
-344, Cegrikh, Morgoth, 7, 5, 9
-333, Rogir, Azog, 3, 5, 1
-345, Docdagh, Nazguls, 7, 9, 6
-349, Uthrogh, Sauron, 10, 7, 3
-339, Olgi, Morgoth, 9, 7, 5
-346, Ufdesh, Saruman, 2, 5, 8
-325, Saulcmokh, Azog, 3, 1, 5
-347, Orzug, Sauron, 5, 8, 2
-348, Auzbig, Sauron, 9, 8, 5
-351, Gerzush, Nazguls, 4, 8, 8
-353, Krucbugh, Morgoth, 6, 9, 5
-356, Ozre, Azog, 3, 3, 5
-355, Caddu, Morgoth, 10, 1, 1
-357, Ocderg, Morgoth, 4, 2, 3
-358, Azze, Saruman, 5, 2, 9
-359, Argu, Nazguls, 4, 6, 10
-360, Urbu, Saruman, 10, 7, 4
-362, Mothro, Morgoth, 4, 5, 3
-361, Sefdau, Nazguls, 2, 8, 8
-363, Rilduf, Nazguls, 2, 9, 5
-365, Krugdokh, Morgoth, 2, 8, 7
-367, Ozrath, Saruman, 10, 5, 6
-366, Arbaudh, Saruman, 3, 4, 7
-364, Ghugri, Morgoth, 2, 5, 1
-368, Auggag, Nazguls, 7, 6, 5
-369, Aulfec, Nazguls, 4, 9, 4
-370, Azzat, Morgoth, 9, 10, 4
-372, Broglol, Nazguls, 1, 10, 7
-373, Croher, Morgoth, 8, 10, 6
-371, Shurci, Nazguls, 3, 1, 2
-374, Cragbesh, Nazguls, 2, 7, 5
-375, Kacrot, Saruman, 8, 3, 1
-377, Aucdoc, Saruman, 4, 6, 4
-376, Olgikh, Nazguls, 2, 4, 9
-379, Ulgur, Nazguls, 7, 7, 5
-378, Arcidh, Azog, 7, 10, 8
-380, Uzgar, Azog, 4, 4, 2
-381, Ghozzig, Nazguls, 6, 5, 9
-383, Mecdud, Saruman, 6, 4, 3
-382, Maushnogh, Sauron, 9, 2, 8
-384, Shogul, Saruman, 10, 8, 1
-385, Suzzugh, Nazguls, 9, 2, 4
-387, Ugdo, Nazguls, 9, 3, 2
-386, Ahi, Morgoth, 2, 4, 1
-389, Aurdol, Morgoth, 3, 1, 2
-388, Aurgut, Nazguls, 6, 3, 2
-390, Arzuc, Morgoth, 5, 8, 9
-393, Srugaudh, Saruman, 6, 9, 4
-391, Crudbo, Saruman, 10, 6, 2
-392, Lerdo, Nazguls, 8, 5, 7
-395, Grorgel, Morgoth, 4, 7, 2
-394, Drergigh, Sauron, 4, 6, 4
-397, Aulcmeth, Saruman, 2, 2, 4
-350, Athrekh, Nazguls, 10, 7, 2
-398, Ucboc, Morgoth, 8, 6, 7
-399, Ufdit, Sauron, 5, 4, 4
-400, Ozget, Sauron, 6, 2, 8
-402, Ghaucbo, Sauron, 9, 10, 5
-401, Kulgurg, Saruman, 10, 9, 3
-403, Ghuzgor, Morgoth, 6, 8, 5
-352, Luhogh, Morgoth, 3, 2, 5
-406, Aurdoc, Sauron, 8, 4, 6
-405, Sracrorg, Morgoth, 10, 7, 7
-408, Agru, Nazguls, 1, 1, 1
-407, Uzror, Azog, 8, 2, 6
-396, Acdash, Saruman, 4, 9, 6
-404, Kruzith, Azog, 1, 3, 9
-409, Addadh, Nazguls, 4, 9, 4
-354, Moddadh, Morgoth, 5, 4, 4
-411, Kograud, Azog, 7, 9, 5
-414, Ghelgath, Nazguls, 3, 5, 8
-415, Sraurcedh, Nazguls, 2, 3, 6
-417, Aurdof, Azog, 10, 5, 6
-416, Aurbau, Nazguls, 2, 4, 7
-418, Ozrur, Azog, 6, 2, 4
-419, Ahit, Morgoth, 2, 9, 10
-413, Calcmoc, Azog, 2, 7, 10
-422, Baurzel, Saruman, 7, 9, 9
-424, Sicdu, Sauron, 10, 3, 2
-421, Rorbau, Saruman, 4, 1, 3
-423, Graulcmi, Morgoth, 8, 1, 1
-427, Augbau, Nazguls, 9, 4, 3
-425, Suzo, Morgoth, 10, 2, 10
-426, Ofthirg, Sauron, 2, 5, 4
-412, Shuddudh, Azog, 2, 6, 2
-429, Ugruc, Sauron, 5, 10, 10
-431, Culcmol, Morgoth, 3, 10, 6
-430, Uzic, Saruman, 4, 10, 7
-428, Aucregh, Azog, 1, 7, 10
-410, Ozba, Saruman, 3, 10, 1
-432, Shuzekh, Saruman, 8, 5, 1
-435, Cugzol, Nazguls, 7, 4, 2
-436, Auzbesh, Sauron, 1, 3, 7
-438, Adboth, Nazguls, 5, 1, 3
-439, Ozrel, Sauron, 4, 3, 6
-440, Olfagh, Saruman, 6, 2, 10
-437, Augdidh, Sauron, 4, 3, 8
-442, Laurgerg, Morgoth, 9, 7, 10
-443, Shuzid, Saruman, 10, 4, 10
-444, Srigzot, Nazguls, 7, 9, 5
-420, Aulfe, Morgoth, 3, 3, 7
-445, Dafthed, Sauron, 10, 9, 6
-447, Ogdikh, Azog, 5, 10, 10
-449, Ahod, Morgoth, 10, 9, 8
-446, Adbo, Morgoth, 4, 6, 1
-448, Aglig, Saruman, 5, 5, 2
-450, Agug, Saruman, 5, 2, 3
-434, Brauzi, Morgoth, 2, 10, 1
-451, Shirzidh, Sauron, 5, 5, 10
-453, Siggugh, Nazguls, 8, 10, 6
-456, Uzzau, Morgoth, 3, 10, 7
-455, Grazre, Saruman, 1, 3, 10
-441, Krurbat, Morgoth, 2, 6, 9
-457, Aurderg, Sauron, 7, 5, 4
-458, Auglush, Azog, 9, 8, 7
-461, Kaucbe, Saruman, 8, 4, 4
-459, Othrud, Sauron, 4, 4, 2
-460, Afdic, Morgoth, 5, 8, 4
-463, Shagzagh, Morgoth, 6, 3, 9
-452, Draugluc, Nazguls, 2, 3, 1
-433, Maushni, Morgoth, 4, 7, 5
-465, Dodbugh, Saruman, 6, 4, 8
-467, Aufthosh, Sauron, 9, 5, 5
-466, Azbu, Morgoth, 2, 7, 2
-469, Olgudh, Azog, 1, 2, 5
-470, Agzegh, Saruman, 2, 6, 10
-468, Ogra, Morgoth, 5, 2, 3
-472, Kagli, Saruman, 8, 10, 8
-471, Ruzgat, Azog, 5, 7, 5
-473, Grefthi, Sauron, 1, 4, 9
-475, Ghilcmif, Sauron, 1, 6, 10
-464, Logli, Azog, 9, 2, 8
-476, Ozul, Sauron, 9, 2, 2
-477, Uggidh, Sauron, 1, 4, 7
-478, Auhau, Morgoth, 10, 8, 1
-480, Aurdud, Morgoth, 7, 3, 6
-479, Arzul, Azog, 3, 8, 4
-481, Crugedh, Morgoth, 5, 4, 3
-482, Gregdoc, Nazguls, 4, 8, 6
-483, Kauzzogh, Azog, 7, 8, 7
-474, Krarcid, Azog, 3, 2, 2
-484, Rocdudh, Saruman, 8, 4, 2
-486, Afdad, Sauron, 7, 10, 3
-485, Drizuth, Morgoth, 4, 8, 3
-490, Ozbod, Nazguls, 10, 7, 9
-489, Othraur, Nazguls, 10, 10, 5
-491, Kolger, Sauron, 6, 2, 1
-488, Ulfugh, Saruman, 1, 7, 6
-493, Gracdol, Nazguls, 4, 9, 10
-492, Shaufdugh, Azog, 8, 4, 5
-494, Dizgodh, Sauron, 9, 4, 10
-497, Aufthu, Sauron, 2, 1, 9
-487, Algo, Saruman, 6, 1, 10
-495, Difthau, Morgoth, 7, 4, 1
-498, Ulgath, Morgoth, 7, 6, 1
-499, Agrorg, Sauron, 4, 9, 4
-501, Cizbaul, Nazguls, 5, 7, 2
-500, Ugrosh, Sauron, 10, 8, 2
-502, Mugge, Azog, 10, 2, 6
-503, Bofdaut, Nazguls, 8, 6, 4
-504, Lazgo, Morgoth, 10, 5, 6
-506, Uglaukh, Sauron, 8, 8, 10
-507, Addal, Sauron, 8, 4, 4
-505, Crolcmesh, Morgoth, 2, 2, 6
-496, Aulcmef, Nazguls, 3, 1, 8
-509, Auzzagh, Saruman, 7, 2, 1
-511, Dreglot, Azog, 1, 10, 2
-512, Drugdush, Nazguls, 4, 10, 9
-513, Dreggigh, Morgoth, 3, 8, 3
-510, Addaud, Nazguls, 6, 9, 1
-514, Digdi, Azog, 7, 1, 10
-516, Aglad, Sauron, 6, 8, 7
-517, Ogru, Sauron, 3, 5, 2
-508, Augdorg, Saruman, 4, 8, 10
-519, Ozbo, Sauron, 4, 7, 6
-518, Arcet, Saruman, 3, 1, 5
-520, Ugbu, Saruman, 5, 5, 7
-521, Grorzo, Morgoth, 5, 2, 1
-522, Bildugh, Morgoth, 10, 6, 3
-525, Draucre, Sauron, 1, 4, 4
-523, Brigze, Morgoth, 6, 5, 1
-526, Aushnid, Morgoth, 2, 7, 7
-524, Rugrurg, Azog, 3, 5, 9
-527, Ofda, Sauron, 8, 8, 8
-529, Ahudh, Sauron, 7, 4, 3
-528, Ugeth, Azog, 2, 8, 2
-531, Dihec, Nazguls, 9, 3, 7
-530, Ozoc, Morgoth, 2, 8, 2
-533, Malfel, Morgoth, 5, 7, 2
-534, Girbar, Nazguls, 3, 8, 10
-532, Dralcmaur, Saruman, 10, 10, 7
-535, Megroth, Sauron, 2, 3, 9
-536, Odber, Morgoth, 4, 8, 5
-537, Agrikh, Sauron, 1, 10, 7
-538, Uzbodh, Morgoth, 2, 5, 8
-539, Urzof, Azog, 8, 7, 3
-540, Uglith, Nazguls, 4, 2, 6
-543, Suglig, Morgoth, 1, 9, 8
-541, Shozgerg, Azog, 3, 10, 6
-544, Middokh, Sauron, 10, 4, 1
-545, Rolcmo, Nazguls, 7, 3, 4
-542, Sraushnauth, Nazguls, 3, 7, 1
-546, Ocdau, Saruman, 2, 2, 9
-549, Acrir, Nazguls, 5, 9, 4
-548, Uzzikh, Saruman, 7, 7, 5
-547, Aulcmogh, Sauron, 6, 10, 1
-550, Ofdur, Azog, 1, 1, 5
-553, Sruthrid, Morgoth, 1, 4, 7
-551, Biggadh, Saruman, 7, 2, 7
-515, Rifdi, Nazguls, 8, 10, 6
-462, Baulgad, Morgoth, 3, 2, 8
-555, Cregre, Sauron, 10, 8, 5
-556, Auggi, Morgoth, 10, 10, 5
-557, Alfel, Sauron, 10, 7, 4
-558, Azzerg, Azog, 5, 2, 3
-560, Augzi, Azog, 8, 2, 8
-559, Ardurg, Morgoth, 4, 5, 7
-562, Bilga, Saruman, 10, 7, 10
-561, Miglul, Morgoth, 2, 1, 1
-564, Cregba, Nazguls, 10, 2, 4
-563, Logbo, Sauron, 7, 2, 2
-565, Surzac, Azog, 1, 3, 8
-567, Algif, Sauron, 5, 9, 8
-566, Aurgel, Azog, 4, 5, 8
-569, Ulcmo, Saruman, 1, 6, 9
-568, Urdokh, Morgoth, 10, 8, 10
-570, Ushnut, Saruman, 9, 9, 3
-572, Shorcau, Azog, 1, 1, 1
-571, Shirza, Morgoth, 7, 6, 6
-573, Magaur, Sauron, 3, 5, 5
-575, Cagbe, Morgoth, 7, 1, 2
-574, Gicde, Nazguls, 8, 9, 3
-577, Ocdish, Azog, 5, 6, 6
-578, Ofde, Sauron, 7, 7, 4
-576, Othrosh, Nazguls, 9, 7, 6
-579, Ushnir, Nazguls, 9, 5, 8
-580, Oggud, Nazguls, 7, 3, 8
-581, Mocburg, Nazguls, 1, 5, 5
-582, Gofdef, Nazguls, 4, 2, 2
-585, Ghofdaud, Saruman, 1, 10, 2
-583, Cruddish, Nazguls, 1, 1, 7
-584, Siddi, Morgoth, 8, 5, 6
-586, Audbot, Saruman, 7, 10, 1
-588, Algel, Azog, 5, 4, 8
-587, Olgec, Azog, 6, 10, 6
-589, Ucbo, Morgoth, 6, 9, 5
-590, Agbil, Sauron, 3, 5, 2
-591, Shirdec, Sauron, 9, 10, 1
-592, Saggerg, Morgoth, 10, 4, 3
-593, Shushnol, Azog, 5, 7, 10
-596, Urbaul, Nazguls, 7, 10, 10
-595, Kacba, Saruman, 1, 8, 7
-594, Dralfod, Nazguls, 10, 4, 2
-597, Agdic, Sauron, 3, 6, 4
-598, Azzeth, Nazguls, 2, 9, 4
-601, Dedbirg, Morgoth, 7, 4, 6
-600, Ugbot, Morgoth, 10, 7, 5
-599, Uhir, Morgoth, 2, 8, 6
-602, Crozrit, Saruman, 4, 1, 1
-603, Graurdic, Saruman, 4, 1, 6
-604, Recda, Azog, 5, 5, 8
-605, Crizra, Saruman, 1, 5, 7
-606, Addat, Sauron, 7, 5, 8
-607, Augzir, Azog, 2, 6, 10
-609, Aucref, Saruman, 6, 7, 6
-610, Ofdish, Saruman, 9, 1, 10
-608, Auggau, Nazguls, 2, 8, 8
-611, Gidda, Morgoth, 7, 9, 5
-612, Srozag, Sauron, 6, 7, 7
-614, Dolfukh, Sauron, 2, 9, 1
-613, Rirdur, Azog, 1, 7, 6
-616, Ofdigh, Sauron, 6, 10, 8
-617, Agbeth, Nazguls, 4, 10, 3
-615, Ghothradh, Saruman, 3, 8, 2
-619, Ogadh, Nazguls, 5, 10, 1
-618, Ardu, Nazguls, 5, 5, 4
-620, Ofdef, Azog, 3, 9, 3
-622, Shothra, Morgoth, 10, 8, 10
-621, Ceggauc, Azog, 7, 9, 1
-623, Lirbegh, Sauron, 8, 10, 5
-624, Kirdal, Saruman, 5, 10, 10
-627, Urgeth, Sauron, 3, 6, 3
-625, Braufdat, Nazguls, 6, 1, 2
-628, Aurzoc, Nazguls, 10, 10, 10
-626, Odbau, Saruman, 5, 2, 1
-629, Augdurg, Saruman, 10, 6, 2
-631, Deggit, Saruman, 9, 3, 6
-630, Augdorg, Saruman, 5, 9, 8
-633, Mizosh, Sauron, 7, 10, 7
-632, Cagdel, Morgoth, 5, 4, 6
-552, Ligbet, Nazguls, 7, 10, 2
-554, Shulgor, Azog, 3, 1, 3
-637, Orbef, Sauron, 2, 10, 5
-634, Dothrugh, Saruman, 5, 3, 10
-638, Ulcmuc, Nazguls, 2, 9, 1
-454, Srudbeg, Saruman, 9, 9, 3
-639, Ugdekh, Morgoth, 4, 2, 6
-636, Ogur, Nazguls, 5, 3, 7
-642, Kridbish, Sauron, 4, 10, 10
-643, Ghirzagh, Morgoth, 10, 6, 2
-645, Sogdau, Saruman, 2, 1, 1
-644, Krardaush, Morgoth, 2, 8, 3
-646, Aulgaugh, Nazguls, 3, 10, 4
-647, Agbot, Sauron, 7, 4, 6
-649, Aglet, Nazguls, 1, 8, 7
-648, Arzec, Sauron, 2, 2, 7
-650, Acrudh, Azog, 9, 5, 6
-651, Krithra, Sauron, 5, 10, 2
-653, Kurcakh, Nazguls, 3, 5, 3
-654, Dozuc, Saruman, 4, 5, 10
-656, Ucbar, Saruman, 4, 4, 6
-635, Rezzurg, Saruman, 4, 8, 2
-655, Shuzgeg, Azog, 5, 8, 4
-658, Aucbic, Morgoth, 1, 7, 4
-657, Athrauc, Saruman, 1, 7, 2
-659, Oshnedh, Sauron, 4, 8, 2
-660, Auldet, Morgoth, 9, 10, 8
-661, Krurdat, Saruman, 2, 1, 2
-662, Bashnath, Morgoth, 8, 10, 1
-663, Rirduf, Morgoth, 8, 6, 5
-664, Shirdad, Morgoth, 3, 8, 1
-666, Ogukh, Azog, 6, 10, 9
-665, Dreddo, Sauron, 5, 4, 6
-668, Aurzarg, Sauron, 10, 7, 2
-641, Kothrorg, Azog, 7, 6, 2
-669, Aufdod, Nazguls, 8, 10, 8
-670, Uggokh, Azog, 2, 3, 9
-672, Bugaul, Nazguls, 4, 2, 8
-640, Ordic, Saruman, 8, 7, 5
-674, Gheshnakh, Saruman, 2, 1, 7
-673, Koshnaul, Nazguls, 5, 8, 1
-675, Brucradh, Saruman, 6, 10, 1
-652, Sucdauf, Azog, 7, 9, 7
-667, Agbu, Sauron, 4, 8, 6
-679, Agdil, Azog, 4, 3, 2
-678, Ushnog, Nazguls, 9, 8, 3
-681, Brordedh, Azog, 3, 1, 6
-680, Ogbikh, Morgoth, 9, 3, 5
-683, Shacdu, Sauron, 1, 4, 3
-682, Brugru, Saruman, 3, 10, 5
-684, Drargudh, Morgoth, 10, 3, 4
-686, Aulduf, Morgoth, 4, 4, 7
-685, Ghercigh, Morgoth, 8, 10, 10
-687, Augroc, Azog, 1, 8, 8
-688, Ushnosh, Saruman, 2, 4, 2
-689, Aufdud, Azog, 4, 8, 1
-690, Ahug, Azog, 10, 10, 3
-693, Raurgof, Saruman, 5, 9, 2
-691, Sufdodh, Morgoth, 8, 1, 10
-692, Gulfadh, Saruman, 5, 7, 3
-694, Culfodh, Sauron, 5, 3, 2
-695, Sragbi, Saruman, 7, 8, 4
-696, Ocborg, Azog, 9, 4, 5
-697, Aurbith, Azog, 3, 10, 5
-699, Azau, Azog, 5, 5, 5
-700, Aulfakh, Saruman, 10, 10, 3
-698, Ogo, Azog, 5, 5, 3
-701, Dufthegh, Saruman, 9, 3, 5
-702, Ghezzoc, Azog, 3, 9, 3
-704, Lurcut, Nazguls, 10, 10, 4
-703, Bucradh, Nazguls, 6, 3, 5
-705, Mergo, Azog, 7, 8, 3
-706, Udberg, Sauron, 6, 8, 9
-708, Ufthith, Morgoth, 4, 5, 2
-709, Azru, Saruman, 2, 10, 1
-707, Acdodh, Saruman, 10, 7, 10
-710, Alfaudh, Nazguls, 2, 7, 1
-711, Ghogrul, Azog, 9, 10, 6
-713, Mildodh, Sauron, 8, 9, 6
-712, Molcmegh, Nazguls, 10, 10, 2
-714, Kurgog, Saruman, 10, 4, 8
-717, Aldosh, Morgoth, 4, 4, 7
-716, Augzoth, Azog, 1, 6, 9
-715, Saglir, Morgoth, 1, 5, 5
-718, Audbaukh, Azog, 2, 10, 7
-719, Udbaf, Nazguls, 1, 4, 9
-721, Crecrug, Saruman, 10, 4, 2
-720, Acbac, Sauron, 7, 6, 3
-723, Dalfugh, Saruman, 5, 3, 5
-722, Brugug, Nazguls, 10, 7, 4
-724, Soglo, Nazguls, 4, 2, 5
-725, Migdoc, Azog, 6, 6, 2
-727, Auldadh, Sauron, 1, 2, 4
-728, Aharg, Nazguls, 2, 8, 5
-726, Ogloc, Sauron, 9, 9, 3
-729, Ugdash, Sauron, 7, 10, 8
-676, Ogdug, Nazguls, 5, 1, 3
-732, Bercegh, Morgoth, 7, 6, 10
-671, Bigdat, Saruman, 7, 8, 8
-730, Orze, Nazguls, 7, 5, 8
-735, Crilcmet, Nazguls, 6, 10, 3
-736, Azif, Sauron, 10, 10, 3
-733, Shaggo, Nazguls, 10, 9, 6
-677, Olfir, Morgoth, 1, 8, 4
-738, Urdaf, Azog, 4, 6, 2
-739, Aglish, Morgoth, 7, 10, 9
-741, Crezbaukh, Sauron, 3, 8, 8
-742, Bruzgaud, Sauron, 6, 6, 4
-740, Ulfaut, Saruman, 1, 5, 3
-743, Bulgul, Saruman, 1, 8, 5
-744, Drigor, Azog, 10, 4, 6
-734, Brigrau, Nazguls, 10, 2, 5
-737, Azzith, Sauron, 6, 5, 10
-747, Ozbudh, Morgoth, 9, 5, 5
-749, Ogdo, Azog, 6, 7, 9
-748, Agdu, Morgoth, 10, 10, 10
-750, Ocbat, Sauron, 8, 8, 9
-751, Rarzurg, Saruman, 5, 4, 3
-753, Duthrif, Nazguls, 2, 10, 3
-731, Mocri, Saruman, 9, 10, 10
-745, Bogdirg, Nazguls, 10, 5, 8
-746, Ardol, Morgoth, 2, 8, 2
-754, Krargaut, Nazguls, 3, 7, 1
-757, Ogbekh, Sauron, 6, 8, 3
-756, Ofdir, Morgoth, 1, 8, 5
-758, Ozbarg, Sauron, 1, 4, 3
-760, Aucrugh, Morgoth, 8, 3, 5
-762, Recbug, Saruman, 2, 2, 8
-761, Gucra, Morgoth, 6, 4, 7
-763, Brifthogh, Morgoth, 8, 2, 7
-764, Radbadh, Sauron, 8, 3, 8
-752, Sogur, Saruman, 7, 6, 4
-768, Aucrag, Morgoth, 9, 9, 4
-766, Odbar, Azog, 7, 2, 3
-767, Azad, Azog, 1, 10, 1
-769, Agrath, Nazguls, 3, 4, 10
-771, Kezu, Azog, 7, 4, 7
-772, Shurdeth, Nazguls, 2, 4, 5
-770, Acra, Nazguls, 5, 4, 8
-773, Meddidh, Morgoth, 1, 2, 9
-765, Daucrush, Sauron, 5, 2, 7
-755, Degguc, Saruman, 1, 2, 8
-775, Mahish, Morgoth, 4, 1, 6
-776, Uldaf, Saruman, 10, 6, 8
-779, Ahith, Morgoth, 1, 9, 3
-778, Alcmakh, Saruman, 9, 10, 5
-780, Olgau, Sauron, 4, 9, 3
-781, Sirger, Nazguls, 5, 7, 3
-783, Sradderg, Nazguls, 1, 4, 9
-782, Duldat, Sauron, 7, 7, 4
-784, Boddaud, Saruman, 1, 10, 8
-759, Ogror, Nazguls, 7, 9, 8
-774, Crargo, Azog, 7, 7, 3
-786, Ozbar, Sauron, 7, 8, 3
-788, Arzaud, Morgoth, 7, 7, 1
-790, Aurca, Morgoth, 8, 3, 7
-789, Aurdikh, Sauron, 10, 4, 3
-792, Baushnogh, Sauron, 10, 5, 8
-791, Shafdul, Sauron, 9, 1, 8
-794, Logder, Sauron, 3, 1, 7
-795, Shildaul, Azog, 5, 5, 3
-793, Drercukh, Azog, 7, 7, 5
-797, Ahagh, Nazguls, 5, 2, 1
-796, Ulfig, Saruman, 5, 2, 3
-798, Ugdith, Nazguls, 5, 1, 6
-777, Azgi, Sauron, 7, 10, 5
-800, Oshni, Azog, 1, 10, 8
-801, Sorbuc, Azog, 4, 6, 2
-804, Drizzesh, Azog, 6, 1, 5
-802, Crefthauth, Nazguls, 8, 5, 1
-803, Brifthu, Azog, 5, 1, 5
-805, Sruddaf, Saruman, 1, 3, 10
-808, Ocri, Saruman, 9, 2, 3
-807, Azgef, Sauron, 10, 8, 1
-806, Authra, Morgoth, 10, 3, 8
-810, Ucdau, Sauron, 6, 6, 2
-809, Oho, Morgoth, 5, 1, 4
-812, Shecdokh, Saruman, 10, 7, 10
-811, Crurgaudh, Nazguls, 1, 8, 7
-813, Cruzbaut, Nazguls, 6, 5, 7
-787, Auzzekh, Nazguls, 2, 5, 8
-785, Korgof, Azog, 10, 5, 3
-815, Dazbaush, Saruman, 7, 2, 7
-817, Acdad, Saruman, 9, 9, 3
-819, Aggo, Azog, 6, 8, 6
-818, Augadh, Saruman, 8, 4, 9
-821, Coggo, Azog, 8, 4, 8
-816, Oshnagh, Saruman, 1, 7, 8
-822, Laurcadh, Morgoth, 6, 8, 10
-823, Crogbikh, Azog, 4, 4, 8
-824, Shecbu, Morgoth, 5, 4, 4
-814, Sogre, Saruman, 3, 6, 4
-826, Ocrod, Morgoth, 1, 6, 9
-828, Orgith, Saruman, 3, 8, 3
-827, Audbe, Azog, 10, 4, 2
-829, Alfaul, Nazguls, 7, 2, 2
-830, Azuc, Nazguls, 2, 4, 10
-831, Daldad, Morgoth, 10, 2, 8
-832, Gogger, Morgoth, 8, 2, 4
-833, Cirzo, Morgoth, 2, 9, 1
-836, Aushnish, Nazguls, 2, 2, 6
-835, Regrol, Sauron, 6, 3, 10
-834, Crerbagh, Azog, 4, 5, 8
-837, Auzbur, Morgoth, 10, 9, 10
-838, Agrod, Nazguls, 3, 1, 3
-840, Ahath, Nazguls, 6, 4, 1
-839, Agag, Nazguls, 6, 6, 8
-841, Muggec, Saruman, 1, 6, 8
-844, Kadboc, Nazguls, 9, 6, 4
-842, Sheshnoth, Sauron, 1, 7, 6
-845, Kragget, Sauron, 3, 7, 9
-820, Urcof, Morgoth, 6, 2, 8
-847, Oshnudh, Saruman, 10, 10, 2
-846, Athrogh, Nazguls, 1, 3, 7
-848, Auggudh, Morgoth, 10, 4, 7
-825, Rarbo, Azog, 3, 1, 5
-849, Ulger, Azog, 10, 1, 4
-851, Srizoth, Saruman, 8, 2, 1
-852, Crecde, Nazguls, 8, 9, 8
-853, Braurbaur, Morgoth, 1, 2, 3
-854, Caulgesh, Azog, 7, 2, 5
-855, Logedh, Azog, 1, 1, 8
-856, Aucbidh, Nazguls, 3, 7, 7
-858, Ocrodh, Sauron, 1, 6, 2
-859, Aurbaf, Morgoth, 3, 2, 6
-857, Ozbaurg, Sauron, 9, 1, 3
-860, Olda, Nazguls, 7, 6, 9
-861, Kercir, Nazguls, 6, 5, 8
-862, Kothrirg, Azog, 3, 10, 10
-863, Micdodh, Morgoth, 3, 10, 3
-850, Uzbesh, Nazguls, 2, 8, 1
-865, Crergi, Azog, 1, 10, 3
-867, Arbau, Morgoth, 10, 9, 3
-866, Ugbuf, Nazguls, 5, 7, 7
-868, Ogbith, Sauron, 7, 5, 9
-869, Alde, Azog, 10, 9, 10
-870, Ogre, Sauron, 5, 8, 7
-871, Borzerg, Nazguls, 3, 6, 2
-872, Srildeth, Nazguls, 8, 9, 4
-873, Ghalfud, Nazguls, 1, 4, 9
-874, Dozrudh, Nazguls, 10, 7, 10
-877, Athrath, Sauron, 2, 7, 1
-876, Arci, Nazguls, 6, 4, 8
-875, Cicroth, Azog, 10, 8, 5
-878, Uldukh, Saruman, 5, 8, 10
-864, Mushnau, Morgoth, 1, 2, 6
-881, Ragzurg, Saruman, 7, 3, 8
-880, Arca, Nazguls, 8, 9, 2
-882, Shurzadh, Saruman, 6, 10, 10
-883, Safdadh, Nazguls, 6, 2, 4
-843, Rugzal, Sauron, 1, 7, 4
-885, Logid, Sauron, 8, 10, 6
-886, Aucbakh, Saruman, 7, 6, 7
-888, Ozroth, Morgoth, 7, 10, 6
-887, Authreg, Azog, 7, 2, 7
-890, Acdikh, Sauron, 5, 10, 1
-889, Azef, Nazguls, 5, 2, 7
-891, Geglif, Saruman, 2, 3, 6
-892, Gagdir, Nazguls, 10, 1, 8
-893, Krarzug, Nazguls, 4, 3, 8
-895, Sracdarg, Morgoth, 10, 7, 10
-896, Auzge, Nazguls, 9, 8, 2
-894, Roldeth, Saruman, 10, 6, 10
-897, Ardut, Saruman, 5, 4, 5
-900, Oggerg, Azog, 6, 6, 1
-899, Uzgic, Azog, 6, 2, 9
-879, Oshnaf, Morgoth, 9, 4, 7
-902, Dazzedh, Sauron, 6, 4, 10
-903, Raurbit, Azog, 3, 3, 1
-901, Drofthath, Nazguls, 7, 2, 7
-904, Srohor, Saruman, 1, 5, 7
-905, Grulcmug, Sauron, 1, 7, 6
-906, Aucbi, Sauron, 9, 2, 1
-907, Ogzith, Nazguls, 1, 8, 10
-909, Augru, Morgoth, 8, 2, 9
-908, Azgic, Sauron, 9, 9, 5
-910, Uhuth, Morgoth, 6, 8, 10
-911, Krarzaudh, Nazguls, 1, 7, 1
-912, Sifdof, Azog, 8, 10, 4
-913, Razagh, Saruman, 2, 6, 9
-914, Mizzaur, Nazguls, 7, 10, 6
-915, Dezad, Azog, 9, 7, 9
-916, Ogza, Azog, 6, 5, 6
-918, Othregh, Saruman, 6, 3, 6
-917, Auddokh, Morgoth, 4, 5, 1
-920, Urbit, Saruman, 4, 1, 5
-919, Oshneg, Nazguls, 9, 2, 4
-921, Shorda, Azog, 5, 10, 4
-923, Bricdag, Morgoth, 6, 9, 10
-925, Cothrudh, Sauron, 5, 5, 4
-922, Ghazro, Saruman, 7, 5, 2
-799, Odbot, Saruman, 5, 1, 8
-926, Ardod, Sauron, 7, 1, 7
-927, Acdol, Sauron, 3, 7, 2
-929, Ogbauf, Morgoth, 5, 9, 4
-928, Arbau, Sauron, 3, 3, 4
-931, Srelgirg, Sauron, 9, 2, 10
-930, Augzi, Azog, 7, 5, 2
-932, Rocbaush, Sauron, 4, 1, 6
-933, Dridba, Morgoth, 10, 3, 7
-934, Bazif, Azog, 7, 7, 1
-935, Brauhau, Morgoth, 5, 1, 8
-937, Uger, Nazguls, 3, 7, 9
-936, Auglat, Saruman, 8, 2, 4
-938, Oddag, Saruman, 1, 10, 4
-939, Uglir, Nazguls, 1, 3, 3
-941, Krircir, Morgoth, 4, 7, 7
-940, Agbe, Saruman, 7, 1, 7
-942, Crazbit, Nazguls, 3, 1, 5
-924, Grucda, Saruman, 10, 3, 3
-884, Sracdo, Saruman, 9, 8, 3
-945, Dishnuc, Morgoth, 8, 7, 4
-947, Ucdig, Saruman, 8, 9, 1
-946, Oglash, Saruman, 8, 2, 9
-948, Ulfog, Nazguls, 9, 4, 2
-950, Olfef, Azog, 7, 8, 1
-949, Aulfo, Azog, 6, 6, 2
-951, Crarburg, Morgoth, 2, 6, 8
-952, Gufthosh, Morgoth, 3, 7, 4
-953, Drauddogh, Morgoth, 7, 5, 6
-955, Cregbo, Saruman, 7, 10, 9
-954, Cogo, Nazguls, 5, 10, 6
-956, Ahuf, Nazguls, 10, 6, 5
-958, Ucrogh, Azog, 9, 2, 10
-957, Udbeg, Nazguls, 3, 2, 10
-960, Azgish, Azog, 2, 6, 9
-959, Ogze, Sauron, 10, 6, 5
-961, Bracrau, Azog, 4, 10, 10
-962, Grethrauf, Sauron, 8, 9, 8
-964, Dirgar, Nazguls, 5, 9, 1
-943, Crifthaur, Nazguls, 9, 8, 3
-966, Adbal, Nazguls, 9, 9, 9
-965, Ruhe, Morgoth, 9, 10, 7
-968, Aufthof, Nazguls, 8, 5, 8
-969, Urdit, Nazguls, 3, 1, 9
-967, Aushnod, Nazguls, 3, 4, 6
-963, Maugzil, Morgoth, 10, 9, 8
-973, Crolgu, Saruman, 8, 5, 1
-971, Krocrig, Morgoth, 6, 4, 3
-972, Medbig, Saruman, 1, 9, 8
-944, Megzid, Azog, 3, 4, 3
-898, Augrauf, Morgoth, 3, 3, 8
-975, Saggof, Azog, 9, 3, 3
-978, Ulfirg, Azog, 8, 4, 1
-977, Aulda, Nazguls, 3, 10, 9
-980, Aglec, Nazguls, 1, 3, 10
-979, Ufdud, Morgoth, 5, 3, 2
-982, Reddodh, Nazguls, 3, 9, 3
-981, Ghofthu, Nazguls, 1, 1, 5
-984, Kauzbet, Azog, 9, 1, 10
-983, Lelcmol, Saruman, 6, 8, 9
-986, Orbi, Azog, 7, 1, 7
-974, Srorcith, Sauron, 4, 4, 7
-985, Sraudbogh, Saruman, 4, 5, 3
-988, Auzraukh, Azog, 2, 9, 10
-989, Acbith, Nazguls, 3, 3, 7
-990, Udbaurg, Nazguls, 9, 3, 4
-991, Sagar, Nazguls, 4, 5, 2
-993, Rethric, Sauron, 6, 7, 10
-992, Daulcmerg, Morgoth, 7, 6, 2
-994, Lorboc, Morgoth, 8, 3, 4
-997, Aufdug, Sauron, 3, 10, 7
-995, Kushnukh, Sauron, 9, 5, 7
-998, Ogush, Azog, 8, 2, 1
-996, Aufthigh, Morgoth, 2, 6, 1
-999, Urca, Morgoth, 6, 8, 9
-1000, Ozraukh, Sauron, 3, 3, 8
-1002, Sazgegh, Azog, 5, 7, 8
-1003, Graucbegh, Sauron, 6, 3, 10
-1001, Ghigbikh, Sauron, 8, 1, 10
-1004, Surgish, Morgoth, 8, 7, 7
-1005, Srudbath, Azog, 7, 10, 4
-1006, Olgir, Azog, 1, 1, 9
-987, Auzret, Azog, 7, 6, 8
-976, Aurceg, Azog, 10, 5, 10
-1007, Ordidh, Nazguls, 8, 1, 3
-1008, Orbegh, Saruman, 8, 2, 9
-970, Aglash, Saruman, 6, 9, 7
-1009, Aufthaul, Morgoth, 2, 7, 7
-1010, Argish, Saruman, 4, 6, 5
+1,Geggur,Azog,7,8,10
+4,Gruthrig,Saruman,9,2,4
+5,Kraurzel,Saruman,2,1,2
+7,Ucrad,Morgoth,9,5,1
+6,Uglid,Nazguls,7,6,1
+11,Srocrarg,Azog,4,2,7
+9,Addeg,Azog,10,4,10
+12,Shigdat,Morgoth,2,1,1
+10,Aulfakh,Azog,9,9,8
+8,Ulgugh,Saruman,6,5,5
+16,Authrudh,Morgoth,1,8,5
+17,Urdug,Nazguls,10,1,7
+15,Ghauggor,Saruman,10,8,3
+13,Shauzrarg,Saruman,8,6,6
+19,Uggar,Nazguls,5,5,5
+21,Suhag,Sauron,8,5,9
+18,Acrer,Nazguls,6,1,5
+23,Sirgaush,Morgoth,6,6,8
+24,Caugga,Nazguls,6,1,9
+25,Cehuf,Morgoth,8,1,10
+26,Augduf,Sauron,1,2,4
+27,Agguf,Nazguls,6,3,5
+28,Argu,Nazguls,7,1,6
+29,Ugif,Nazguls,2,10,4
+3,Dregzag,Azog,5,4,8
+22,Cregush,Azog,2,8,3
+32,Daldof,Sauron,6,7,10
+14,Dirzauc,Sauron,7,5,5
+33,Cracder,Nazguls,4,1,9
+31,Crigded,Morgoth,7,1,1
+20,Auglud,Morgoth,10,7,4
+34,Ghogir,Nazguls,9,10,2
+37,Ugzaf,Azog,4,9,6
+35,Shuggau,Nazguls,4,8,4
+38,Orcel,Sauron,4,6,1
+41,Baushnudh,Azog,6,9,5
+39,Ohir,Saruman,7,6,8
+2,Kaldec,Morgoth,7,8,4
+40,Ocbil,Azog,10,9,10
+42,Doddat,Morgoth,1,7,9
+44,Kerbirg,Saruman,3,4,9
+45,Gerzi,Sauron,6,8,8
+46,Aftha,Morgoth,5,8,10
+47,Agdir,Sauron,9,3,7
+48,Azrush,Azog,4,10,9
+52,Cazguc,Morgoth,3,6,6
+49,Ugir,Sauron,6,9,6
+54,Macreg,Azog,5,2,5
+51,Srauzad,Sauron,8,8,4
+53,Ducbuc,Saruman,8,4,9
+50,Oshna,Sauron,5,8,7
+57,Ulgac,Sauron,2,4,10
+55,Buzzidh,Sauron,8,1,2
+60,Othrid,Saruman,8,1,1
+61,Srugzuf,Nazguls,1,4,7
+56,Ocraf,Sauron,2,9,5
+62,Marcog,Sauron,8,3,5
+59,Ocrogh,Saruman,6,3,7
+63,Brigra,Azog,4,3,8
+64,Srazgit,Saruman,10,2,8
+65,Crogba,Morgoth,9,1,7
+58,Agdauth,Morgoth,2,1,2
+30,Augdaur,Azog,10,5,2
+67,Urbaukh,Sauron,10,9,6
+68,Arzodh,Saruman,8,3,2
+70,Arzadh,Nazguls,5,2,2
+69,Ugbal,Saruman,3,4,3
+71,Shircaurg,Azog,5,7,5
+73,Cozzu,Nazguls,4,2,10
+72,Crecdag,Azog,10,3,8
+75,Razit,Nazguls,6,3,9
+74,Kuzbirg,Azog,3,4,1
+76,Ozzeg,Saruman,6,4,6
+77,Argod,Saruman,2,3,10
+79,Ucrudh,Sauron,1,1,1
+78,Agedh,Nazguls,6,7,8
+81,Kozric,Nazguls,5,7,8
+80,Odbaurg,Morgoth,6,4,7
+82,Kathre,Nazguls,2,7,3
+83,Mushnod,Saruman,2,2,8
+84,Crecbag,Azog,9,7,4
+85,Bigdash,Nazguls,6,7,7
+87,Aurdu,Nazguls,4,1,3
+86,Azgag,Morgoth,2,2,8
+88,Ugrel,Saruman,3,10,1
+90,Ugrugh,Nazguls,8,3,4
+89,Olgod,Azog,3,8,4
+91,Broglut,Saruman,7,6,6
+92,Koldi,Morgoth,2,1,4
+94,Gerzith,Azog,10,8,2
+95,Reshna,Sauron,9,8,5
+93,Dezzaush,Morgoth,9,2,7
+96,Aurgug,Morgoth,4,4,8
+98,Ofded,Azog,3,2,9
+97,Aurcar,Saruman,6,9,6
+36,Ucde,Morgoth,10,9,8
+101,Shehec,Morgoth,2,6,1
+100,Aldol,Morgoth,9,1,6
+103,Saurbu,Morgoth,1,3,6
+102,Ghehaugh,Sauron,3,9,9
+104,Rizzir,Azog,9,8,1
+107,Auzuf,Azog,9,9,5
+106,Uddikh,Sauron,2,4,2
+108,Odbeth,Sauron,8,8,7
+105,Krordaush,Morgoth,2,9,6
+109,Auggef,Nazguls,7,9,3
+111,Regig,Azog,9,2,3
+110,Oshnegh,Nazguls,5,4,10
+112,Brauggat,Sauron,10,7,3
+113,Cracdaudh,Sauron,4,2,3
+114,Keggash,Azog,5,10,8
+115,Kruzza,Morgoth,2,8,9
+116,Auzbagh,Nazguls,9,6,2
+118,Azze,Morgoth,7,5,9
+117,Uldig,Nazguls,10,1,6
+119,Aufdudh,Morgoth,2,3,2
+121,Dizra,Nazguls,6,3,9
+43,Cegbif,Nazguls,2,3,7
+99,Uzref,Nazguls,1,5,7
+66,Ucbof,Saruman,2,7,2
+124,Rurgud,Azog,6,10,3
+120,Aucbuth,Nazguls,7,4,7
+125,Cirbud,Morgoth,6,2,9
+127,Ago,Saruman,1,4,7
+129,Ulgokh,Sauron,10,6,7
+128,Azgoth,Nazguls,4,8,3
+130,Ogdul,Nazguls,1,1,2
+122,Gulgesh,Sauron,3,3,3
+133,Recbid,Saruman,7,1,9
+134,Broha,Sauron,2,3,6
+135,Krogegh,Nazguls,10,8,2
+131,Macbuc,Nazguls,3,1,10
+136,Orbed,Nazguls,3,6,1
+137,Auddo,Nazguls,6,1,9
+138,Aufthac,Nazguls,1,5,4
+132,Sregdaur,Sauron,7,5,1
+139,Arcirg,Azog,4,6,1
+123,Sherge,Morgoth,7,5,2
+143,Cerzuth,Nazguls,3,2,8
+126,Olguc,Nazguls,4,1,10
+141,Sucbish,Azog,7,10,4
+145,Shofthur,Sauron,5,1,10
+147,Uzeth,Sauron,1,4,6
+148,Azot,Saruman,3,3,4
+146,Ulcmeth,Saruman,9,2,7
+149,Azradh,Saruman,1,9,7
+150,Urbeg,Nazguls,8,2,6
+152,Bruzbegh,Saruman,1,10,4
+153,Rurgarg,Nazguls,10,4,1
+156,Uzbut,Sauron,6,8,9
+155,Brilcmat,Azog,2,10,10
+142,Cirbash,Nazguls,8,5,1
+151,Krucresh,Nazguls,7,9,8
+159,Auldal,Nazguls,7,7,9
+144,Bazgi,Saruman,5,5,5
+157,Orgedh,Saruman,3,9,4
+154,Solgaf,Saruman,1,8,6
+162,Cegdath,Nazguls,4,5,9
+160,Uzof,Azog,8,8,3
+165,Grugbegh,Saruman,7,7,4
+161,Gegde,Saruman,4,7,7
+140,Ocdoc,Azog,4,6,1
+164,Suzir,Sauron,2,2,10
+168,Aulfot,Nazguls,10,9,2
+167,Ozbo,Saruman,2,8,7
+163,Srafdic,Morgoth,3,6,8
+169,Azikh,Morgoth,3,8,1
+171,Kruzro,Morgoth,9,10,10
+172,Cruzbaush,Azog,6,7,2
+174,Ghogradh,Azog,3,3,1
+175,Laglof,Nazguls,2,3,4
+166,Auzikh,Morgoth,9,10,8
+158,Ogbish,Saruman,1,4,7
+177,Augded,Sauron,6,4,10
+179,Uthrash,Saruman,8,6,4
+180,Othred,Azog,10,5,8
+181,Dagrar,Sauron,8,7,2
+170,Authrogh,Saruman,8,7,6
+182,Doglorg,Nazguls,9,4,6
+184,Cezgogh,Morgoth,6,10,4
+185,Docdush,Saruman,1,7,1
+183,Drerbur,Azog,9,2,1
+187,Augladh,Nazguls,9,1,1
+176,Oftho,Morgoth,9,1,8
+186,Ugut,Saruman,2,7,9
+188,Azot,Morgoth,6,1,5
+178,Oldi,Saruman,7,8,7
+192,Sharcel,Azog,8,6,1
+191,Gege,Morgoth,5,4,5
+195,Grudbugh,Saruman,5,1,7
+193,Rolcmidh,Nazguls,6,1,5
+196,Uthredh,Azog,1,8,8
+194,Srudbidh,Azog,6,5,8
+199,Auzzi,Morgoth,1,1,4
+200,Auddur,Morgoth,4,3,2
+201,Sauzrokh,Azog,3,3,7
+197,Authraur,Saruman,10,1,7
+203,Craulgig,Saruman,7,10,3
+198,Urgau,Azog,5,7,4
+202,Girzif,Saruman,3,10,6
+204,Srurcau,Saruman,1,2,3
+205,Rolgal,Morgoth,6,4,3
+207,Oga,Azog,10,8,5
+190,Augba,Azog,6,1,1
+206,Orcul,Nazguls,6,7,5
+209,Uthrug,Azog,4,1,8
+210,Orgidh,Sauron,9,2,4
+212,Dalfi,Azog,1,6,4
+211,Raucbef,Azog,1,2,1
+214,Srugauf,Morgoth,5,6,9
+215,Kauhith,Nazguls,5,7,10
+213,Srerdaukh,Azog,9,7,1
+217,Azboth,Sauron,9,2,8
+218,Ushnel,Sauron,5,1,2
+216,Authrof,Nazguls,9,10,1
+189,Ocret,Morgoth,3,2,7
+220,Ardu,Sauron,8,4,3
+219,Ardash,Azog,6,1,4
+222,Gazgau,Saruman,10,3,8
+223,Geglo,Azog,9,2,6
+221,Rudbeg,Nazguls,8,4,5
+224,Carger,Nazguls,6,2,2
+225,Rurga,Morgoth,10,8,7
+227,Olda,Morgoth,4,6,2
+226,Ugdod,Nazguls,5,2,10
+228,Azzut,Nazguls,5,7,1
+232,Saurzigh,Sauron,9,10,5
+230,Acrid,Azog,2,1,2
+229,Aufdeg,Nazguls,1,6,8
+231,Sogduf,Azog,8,10,8
+233,Sagzad,Morgoth,5,3,9
+208,Afdadh,Nazguls,7,2,10
+236,Oza,Nazguls,1,7,9
+238,Othrerg,Morgoth,5,2,5
+237,Aushnigh,Sauron,10,4,9
+240,Agzel,Morgoth,3,3,6
+239,Augdarg,Sauron,1,5,9
+241,Lathrul,Morgoth,7,4,5
+243,Gicdud,Saruman,5,3,5
+245,Gricragh,Morgoth,4,9,8
+242,Greddet,Nazguls,8,6,9
+246,Ufthag,Nazguls,6,2,1
+244,Draufdukh,Morgoth,8,9,6
+247,Ordesh,Nazguls,7,4,10
+249,Aushnau,Azog,4,9,6
+248,Oglagh,Sauron,10,6,6
+250,Aulge,Morgoth,2,10,8
+251,Braggaud,Azog,3,10,2
+252,Drauzboc,Azog,8,9,6
+173,Kadber,Azog,9,9,2
+257,Arcec,Azog,2,2,6
+256,Olcmar,Morgoth,9,5,5
+255,Moldoc,Nazguls,2,2,8
+253,Kaugbaug,Morgoth,4,2,5
+258,Auldac,Saruman,6,9,9
+260,Ufdosh,Azog,10,9,3
+259,Aufdol,Azog,8,2,9
+262,Brathro,Sauron,7,5,7
+261,Roddash,Sauron,8,7,5
+264,Legla,Saruman,8,1,5
+263,Ghezu,Azog,5,8,3
+266,Ahaush,Azog,8,2,5
+265,Githroth,Saruman,10,3,1
+268,Udbuf,Sauron,6,10,8
+267,Aurgush,Sauron,1,3,2
+269,Olcmaush,Morgoth,4,1,7
+270,Ushnad,Sauron,2,10,8
+271,Bigridh,Morgoth,4,5,9
+272,Crergagh,Azog,6,5,6
+275,Cogrec,Nazguls,1,10,7
+234,Kralfigh,Nazguls,4,3,5
+274,Grigraul,Morgoth,9,8,7
+276,Ordef,Saruman,5,2,2
+235,Lilcmush,Nazguls,7,7,5
+254,Sharderg,Saruman,8,2,5
+279,Aggagh,Azog,1,10,8
+278,Odbet,Nazguls,5,9,9
+282,Sothraush,Saruman,1,9,3
+284,Srazbigh,Sauron,7,1,7
+281,Kraulga,Nazguls,1,2,7
+283,Brulfadh,Saruman,5,1,5
+285,Ghifthel,Saruman,3,3,2
+286,Ogdif,Saruman,9,3,4
+287,Arcur,Nazguls,4,4,3
+288,Aulcmikh,Azog,8,5,8
+291,Krithrac,Morgoth,6,4,3
+289,Augo,Azog,10,7,1
+290,Aulcmol,Nazguls,10,9,1
+292,Ralcmigh,Nazguls,9,7,9
+277,Ugzoth,Morgoth,6,10,3
+293,Dicro,Nazguls,3,2,4
+294,Ludberg,Sauron,1,9,9
+297,Auldu,Nazguls,4,5,8
+295,Grofther,Azog,1,1,9
+299,Uhekh,Sauron,4,4,10
+300,Auze,Sauron,5,9,9
+298,Aulfaush,Morgoth,4,8,8
+301,Drethrurg,Nazguls,5,9,3
+303,Crizzudh,Sauron,10,10,7
+280,Ucbirg,Nazguls,6,8,5
+302,Crurdo,Saruman,10,10,3
+306,Ozraf,Morgoth,9,5,4
+305,Shiglagh,Morgoth,2,5,2
+296,Uzzug,Morgoth,10,5,5
+273,Braurzul,Sauron,3,4,4
+310,Ocrigh,Morgoth,10,3,8
+307,Addug,Morgoth,1,3,6
+308,Augzush,Sauron,5,10,10
+311,Krucdud,Nazguls,5,9,3
+309,Urgodh,Azog,8,2,7
+313,Draldug,Sauron,4,10,1
+314,Cithraud,Nazguls,8,10,6
+315,Cruhodh,Nazguls,6,2,1
+318,Aulcmal,Nazguls,8,8,7
+319,Ordu,Sauron,9,8,1
+317,Ogdul,Nazguls,6,5,10
+320,Othrath,Azog,8,4,10
+321,Sirzorg,Nazguls,5,2,2
+322,Duzgad,Morgoth,6,4,10
+323,Kocbarg,Sauron,5,8,8
+324,Sricbaf,Saruman,3,1,2
+304,Sergikh,Azog,9,3,3
+327,Augre,Sauron,4,1,5
+326,Orbigh,Saruman,2,7,10
+329,Aurdaush,Sauron,6,4,5
+328,Orzauth,Morgoth,8,9,6
+330,Udbash,Saruman,7,5,5
+331,Krocdot,Saruman,3,4,1
+332,Kuzudh,Azog,5,3,3
+316,Aulfeth,Sauron,6,9,6
+334,Cezarg,Nazguls,6,7,5
+335,Kozzudh,Azog,2,6,6
+337,Augdush,Sauron,5,4,2
+338,Audbeth,Saruman,5,2,6
+336,Aucrof,Morgoth,3,8,6
+312,Kraugdi,Morgoth,3,10,6
+341,Rehor,Saruman,5,9,3
+342,Bazbut,Azog,4,7,5
+340,Olgol,Sauron,8,1,6
+343,Greshnec,Nazguls,9,4,1
+344,Cegrikh,Morgoth,7,5,9
+333,Rogir,Azog,3,5,1
+345,Docdagh,Nazguls,7,9,6
+349,Uthrogh,Sauron,10,7,3
+339,Olgi,Morgoth,9,7,5
+346,Ufdesh,Saruman,2,5,8
+325,Saulcmokh,Azog,3,1,5
+347,Orzug,Sauron,5,8,2
+348,Auzbig,Sauron,9,8,5
+351,Gerzush,Nazguls,4,8,8
+353,Krucbugh,Morgoth,6,9,5
+356,Ozre,Azog,3,3,5
+355,Caddu,Morgoth,10,1,1
+357,Ocderg,Morgoth,4,2,3
+358,Azze,Saruman,5,2,9
+359,Argu,Nazguls,4,6,10
+360,Urbu,Saruman,10,7,4
+362,Mothro,Morgoth,4,5,3
+361,Sefdau,Nazguls,2,8,8
+363,Rilduf,Nazguls,2,9,5
+365,Krugdokh,Morgoth,2,8,7
+367,Ozrath,Saruman,10,5,6
+366,Arbaudh,Saruman,3,4,7
+364,Ghugri,Morgoth,2,5,1
+368,Auggag,Nazguls,7,6,5
+369,Aulfec,Nazguls,4,9,4
+370,Azzat,Morgoth,9,10,4
+372,Broglol,Nazguls,1,10,7
+373,Croher,Morgoth,8,10,6
+371,Shurci,Nazguls,3,1,2
+374,Cragbesh,Nazguls,2,7,5
+375,Kacrot,Saruman,8,3,1
+377,Aucdoc,Saruman,4,6,4
+376,Olgikh,Nazguls,2,4,9
+379,Ulgur,Nazguls,7,7,5
+378,Arcidh,Azog,7,10,8
+380,Uzgar,Azog,4,4,2
+381,Ghozzig,Nazguls,6,5,9
+383,Mecdud,Saruman,6,4,3
+382,Maushnogh,Sauron,9,2,8
+384,Shogul,Saruman,10,8,1
+385,Suzzugh,Nazguls,9,2,4
+387,Ugdo,Nazguls,9,3,2
+386,Ahi,Morgoth,2,4,1
+389,Aurdol,Morgoth,3,1,2
+388,Aurgut,Nazguls,6,3,2
+390,Arzuc,Morgoth,5,8,9
+393,Srugaudh,Saruman,6,9,4
+391,Crudbo,Saruman,10,6,2
+392,Lerdo,Nazguls,8,5,7
+395,Grorgel,Morgoth,4,7,2
+394,Drergigh,Sauron,4,6,4
+397,Aulcmeth,Saruman,2,2,4
+350,Athrekh,Nazguls,10,7,2
+398,Ucboc,Morgoth,8,6,7
+399,Ufdit,Sauron,5,4,4
+400,Ozget,Sauron,6,2,8
+402,Ghaucbo,Sauron,9,10,5
+401,Kulgurg,Saruman,10,9,3
+403,Ghuzgor,Morgoth,6,8,5
+352,Luhogh,Morgoth,3,2,5
+406,Aurdoc,Sauron,8,4,6
+405,Sracrorg,Morgoth,10,7,7
+408,Agru,Nazguls,1,1,1
+407,Uzror,Azog,8,2,6
+396,Acdash,Saruman,4,9,6
+404,Kruzith,Azog,1,3,9
+409,Addadh,Nazguls,4,9,4
+354,Moddadh,Morgoth,5,4,4
+411,Kograud,Azog,7,9,5
+414,Ghelgath,Nazguls,3,5,8
+415,Sraurcedh,Nazguls,2,3,6
+417,Aurdof,Azog,10,5,6
+416,Aurbau,Nazguls,2,4,7
+418,Ozrur,Azog,6,2,4
+419,Ahit,Morgoth,2,9,10
+413,Calcmoc,Azog,2,7,10
+422,Baurzel,Saruman,7,9,9
+424,Sicdu,Sauron,10,3,2
+421,Rorbau,Saruman,4,1,3
+423,Graulcmi,Morgoth,8,1,1
+427,Augbau,Nazguls,9,4,3
+425,Suzo,Morgoth,10,2,10
+426,Ofthirg,Sauron,2,5,4
+412,Shuddudh,Azog,2,6,2
+429,Ugruc,Sauron,5,10,10
+431,Culcmol,Morgoth,3,10,6
+430,Uzic,Saruman,4,10,7
+428,Aucregh,Azog,1,7,10
+410,Ozba,Saruman,3,10,1
+432,Shuzekh,Saruman,8,5,1
+435,Cugzol,Nazguls,7,4,2
+436,Auzbesh,Sauron,1,3,7
+438,Adboth,Nazguls,5,1,3
+439,Ozrel,Sauron,4,3,6
+440,Olfagh,Saruman,6,2,10
+437,Augdidh,Sauron,4,3,8
+442,Laurgerg,Morgoth,9,7,10
+443,Shuzid,Saruman,10,4,10
+444,Srigzot,Nazguls,7,9,5
+420,Aulfe,Morgoth,3,3,7
+445,Dafthed,Sauron,10,9,6
+447,Ogdikh,Azog,5,10,10
+449,Ahod,Morgoth,10,9,8
+446,Adbo,Morgoth,4,6,1
+448,Aglig,Saruman,5,5,2
+450,Agug,Saruman,5,2,3
+434,Brauzi,Morgoth,2,10,1
+451,Shirzidh,Sauron,5,5,10
+453,Siggugh,Nazguls,8,10,6
+456,Uzzau,Morgoth,3,10,7
+455,Grazre,Saruman,1,3,10
+441,Krurbat,Morgoth,2,6,9
+457,Aurderg,Sauron,7,5,4
+458,Auglush,Azog,9,8,7
+461,Kaucbe,Saruman,8,4,4
+459,Othrud,Sauron,4,4,2
+460,Afdic,Morgoth,5,8,4
+463,Shagzagh,Morgoth,6,3,9
+452,Draugluc,Nazguls,2,3,1
+433,Maushni,Morgoth,4,7,5
+465,Dodbugh,Saruman,6,4,8
+467,Aufthosh,Sauron,9,5,5
+466,Azbu,Morgoth,2,7,2
+469,Olgudh,Azog,1,2,5
+470,Agzegh,Saruman,2,6,10
+468,Ogra,Morgoth,5,2,3
+472,Kagli,Saruman,8,10,8
+471,Ruzgat,Azog,5,7,5
+473,Grefthi,Sauron,1,4,9
+475,Ghilcmif,Sauron,1,6,10
+464,Logli,Azog,9,2,8
+476,Ozul,Sauron,9,2,2
+477,Uggidh,Sauron,1,4,7
+478,Auhau,Morgoth,10,8,1
+480,Aurdud,Morgoth,7,3,6
+479,Arzul,Azog,3,8,4
+481,Crugedh,Morgoth,5,4,3
+482,Gregdoc,Nazguls,4,8,6
+483,Kauzzogh,Azog,7,8,7
+474,Krarcid,Azog,3,2,2
+484,Rocdudh,Saruman,8,4,2
+486,Afdad,Sauron,7,10,3
+485,Drizuth,Morgoth,4,8,3
+490,Ozbod,Nazguls,10,7,9
+489,Othraur,Nazguls,10,10,5
+491,Kolger,Sauron,6,2,1
+488,Ulfugh,Saruman,1,7,6
+493,Gracdol,Nazguls,4,9,10
+492,Shaufdugh,Azog,8,4,5
+494,Dizgodh,Sauron,9,4,10
+497,Aufthu,Sauron,2,1,9
+487,Algo,Saruman,6,1,10
+495,Difthau,Morgoth,7,4,1
+498,Ulgath,Morgoth,7,6,1
+499,Agrorg,Sauron,4,9,4
+501,Cizbaul,Nazguls,5,7,2
+500,Ugrosh,Sauron,10,8,2
+502,Mugge,Azog,10,2,6
+503,Bofdaut,Nazguls,8,6,4
+504,Lazgo,Morgoth,10,5,6
+506,Uglaukh,Sauron,8,8,10
+507,Addal,Sauron,8,4,4
+505,Crolcmesh,Morgoth,2,2,6
+496,Aulcmef,Nazguls,3,1,8
+509,Auzzagh,Saruman,7,2,1
+511,Dreglot,Azog,1,10,2
+512,Drugdush,Nazguls,4,10,9
+513,Dreggigh,Morgoth,3,8,3
+510,Addaud,Nazguls,6,9,1
+514,Digdi,Azog,7,1,10
+516,Aglad,Sauron,6,8,7
+517,Ogru,Sauron,3,5,2
+508,Augdorg,Saruman,4,8,10
+519,Ozbo,Sauron,4,7,6
+518,Arcet,Saruman,3,1,5
+520,Ugbu,Saruman,5,5,7
+521,Grorzo,Morgoth,5,2,1
+522,Bildugh,Morgoth,10,6,3
+525,Draucre,Sauron,1,4,4
+523,Brigze,Morgoth,6,5,1
+526,Aushnid,Morgoth,2,7,7
+524,Rugrurg,Azog,3,5,9
+527,Ofda,Sauron,8,8,8
+529,Ahudh,Sauron,7,4,3
+528,Ugeth,Azog,2,8,2
+531,Dihec,Nazguls,9,3,7
+530,Ozoc,Morgoth,2,8,2
+533,Malfel,Morgoth,5,7,2
+534,Girbar,Nazguls,3,8,10
+532,Dralcmaur,Saruman,10,10,7
+535,Megroth,Sauron,2,3,9
+536,Odber,Morgoth,4,8,5
+537,Agrikh,Sauron,1,10,7
+538,Uzbodh,Morgoth,2,5,8
+539,Urzof,Azog,8,7,3
+540,Uglith,Nazguls,4,2,6
+543,Suglig,Morgoth,1,9,8
+541,Shozgerg,Azog,3,10,6
+544,Middokh,Sauron,10,4,1
+545,Rolcmo,Nazguls,7,3,4
+542,Sraushnauth,Nazguls,3,7,1
+546,Ocdau,Saruman,2,2,9
+549,Acrir,Nazguls,5,9,4
+548,Uzzikh,Saruman,7,7,5
+547,Aulcmogh,Sauron,6,10,1
+550,Ofdur,Azog,1,1,5
+553,Sruthrid,Morgoth,1,4,7
+551,Biggadh,Saruman,7,2,7
+515,Rifdi,Nazguls,8,10,6
+462,Baulgad,Morgoth,3,2,8
+555,Cregre,Sauron,10,8,5
+556,Auggi,Morgoth,10,10,5
+557,Alfel,Sauron,10,7,4
+558,Azzerg,Azog,5,2,3
+560,Augzi,Azog,8,2,8
+559,Ardurg,Morgoth,4,5,7
+562,Bilga,Saruman,10,7,10
+561,Miglul,Morgoth,2,1,1
+564,Cregba,Nazguls,10,2,4
+563,Logbo,Sauron,7,2,2
+565,Surzac,Azog,1,3,8
+567,Algif,Sauron,5,9,8
+566,Aurgel,Azog,4,5,8
+569,Ulcmo,Saruman,1,6,9
+568,Urdokh,Morgoth,10,8,10
+570,Ushnut,Saruman,9,9,3
+572,Shorcau,Azog,1,1,1
+571,Shirza,Morgoth,7,6,6
+573,Magaur,Sauron,3,5,5
+575,Cagbe,Morgoth,7,1,2
+574,Gicde,Nazguls,8,9,3
+577,Ocdish,Azog,5,6,6
+578,Ofde,Sauron,7,7,4
+576,Othrosh,Nazguls,9,7,6
+579,Ushnir,Nazguls,9,5,8
+580,Oggud,Nazguls,7,3,8
+581,Mocburg,Nazguls,1,5,5
+582,Gofdef,Nazguls,4,2,2
+585,Ghofdaud,Saruman,1,10,2
+583,Cruddish,Nazguls,1,1,7
+584,Siddi,Morgoth,8,5,6
+586,Audbot,Saruman,7,10,1
+588,Algel,Azog,5,4,8
+587,Olgec,Azog,6,10,6
+589,Ucbo,Morgoth,6,9,5
+590,Agbil,Sauron,3,5,2
+591,Shirdec,Sauron,9,10,1
+592,Saggerg,Morgoth,10,4,3
+593,Shushnol,Azog,5,7,10
+596,Urbaul,Nazguls,7,10,10
+595,Kacba,Saruman,1,8,7
+594,Dralfod,Nazguls,10,4,2
+597,Agdic,Sauron,3,6,4
+598,Azzeth,Nazguls,2,9,4
+601,Dedbirg,Morgoth,7,4,6
+600,Ugbot,Morgoth,10,7,5
+599,Uhir,Morgoth,2,8,6
+602,Crozrit,Saruman,4,1,1
+603,Graurdic,Saruman,4,1,6
+604,Recda,Azog,5,5,8
+605,Crizra,Saruman,1,5,7
+606,Addat,Sauron,7,5,8
+607,Augzir,Azog,2,6,10
+609,Aucref,Saruman,6,7,6
+610,Ofdish,Saruman,9,1,10
+608,Auggau,Nazguls,2,8,8
+611,Gidda,Morgoth,7,9,5
+612,Srozag,Sauron,6,7,7
+614,Dolfukh,Sauron,2,9,1
+613,Rirdur,Azog,1,7,6
+616,Ofdigh,Sauron,6,10,8
+617,Agbeth,Nazguls,4,10,3
+615,Ghothradh,Saruman,3,8,2
+619,Ogadh,Nazguls,5,10,1
+618,Ardu,Nazguls,5,5,4
+620,Ofdef,Azog,3,9,3
+622,Shothra,Morgoth,10,8,10
+621,Ceggauc,Azog,7,9,1
+623,Lirbegh,Sauron,8,10,5
+624,Kirdal,Saruman,5,10,10
+627,Urgeth,Sauron,3,6,3
+625,Braufdat,Nazguls,6,1,2
+628,Aurzoc,Nazguls,10,10,10
+626,Odbau,Saruman,5,2,1
+629,Augdurg,Saruman,10,6,2
+631,Deggit,Saruman,9,3,6
+630,Augdorg,Saruman,5,9,8
+633,Mizosh,Sauron,7,10,7
+632,Cagdel,Morgoth,5,4,6
+552,Ligbet,Nazguls,7,10,2
+554,Shulgor,Azog,3,1,3
+637,Orbef,Sauron,2,10,5
+634,Dothrugh,Saruman,5,3,10
+638,Ulcmuc,Nazguls,2,9,1
+454,Srudbeg,Saruman,9,9,3
+639,Ugdekh,Morgoth,4,2,6
+636,Ogur,Nazguls,5,3,7
+642,Kridbish,Sauron,4,10,10
+643,Ghirzagh,Morgoth,10,6,2
+645,Sogdau,Saruman,2,1,1
+644,Krardaush,Morgoth,2,8,3
+646,Aulgaugh,Nazguls,3,10,4
+647,Agbot,Sauron,7,4,6
+649,Aglet,Nazguls,1,8,7
+648,Arzec,Sauron,2,2,7
+650,Acrudh,Azog,9,5,6
+651,Krithra,Sauron,5,10,2
+653,Kurcakh,Nazguls,3,5,3
+654,Dozuc,Saruman,4,5,10
+656,Ucbar,Saruman,4,4,6
+635,Rezzurg,Saruman,4,8,2
+655,Shuzgeg,Azog,5,8,4
+658,Aucbic,Morgoth,1,7,4
+657,Athrauc,Saruman,1,7,2
+659,Oshnedh,Sauron,4,8,2
+660,Auldet,Morgoth,9,10,8
+661,Krurdat,Saruman,2,1,2
+662,Bashnath,Morgoth,8,10,1
+663,Rirduf,Morgoth,8,6,5
+664,Shirdad,Morgoth,3,8,1
+666,Ogukh,Azog,6,10,9
+665,Dreddo,Sauron,5,4,6
+668,Aurzarg,Sauron,10,7,2
+641,Kothrorg,Azog,7,6,2
+669,Aufdod,Nazguls,8,10,8
+670,Uggokh,Azog,2,3,9
+672,Bugaul,Nazguls,4,2,8
+640,Ordic,Saruman,8,7,5
+674,Gheshnakh,Saruman,2,1,7
+673,Koshnaul,Nazguls,5,8,1
+675,Brucradh,Saruman,6,10,1
+652,Sucdauf,Azog,7,9,7
+667,Agbu,Sauron,4,8,6
+679,Agdil,Azog,4,3,2
+678,Ushnog,Nazguls,9,8,3
+681,Brordedh,Azog,3,1,6
+680,Ogbikh,Morgoth,9,3,5
+683,Shacdu,Sauron,1,4,3
+682,Brugru,Saruman,3,10,5
+684,Drargudh,Morgoth,10,3,4
+686,Aulduf,Morgoth,4,4,7
+685,Ghercigh,Morgoth,8,10,10
+687,Augroc,Azog,1,8,8
+688,Ushnosh,Saruman,2,4,2
+689,Aufdud,Azog,4,8,1
+690,Ahug,Azog,10,10,3
+693,Raurgof,Saruman,5,9,2
+691,Sufdodh,Morgoth,8,1,10
+692,Gulfadh,Saruman,5,7,3
+694,Culfodh,Sauron,5,3,2
+695,Sragbi,Saruman,7,8,4
+696,Ocborg,Azog,9,4,5
+697,Aurbith,Azog,3,10,5
+699,Azau,Azog,5,5,5
+700,Aulfakh,Saruman,10,10,3
+698,Ogo,Azog,5,5,3
+701,Dufthegh,Saruman,9,3,5
+702,Ghezzoc,Azog,3,9,3
+704,Lurcut,Nazguls,10,10,4
+703,Bucradh,Nazguls,6,3,5
+705,Mergo,Azog,7,8,3
+706,Udberg,Sauron,6,8,9
+708,Ufthith,Morgoth,4,5,2
+709,Azru,Saruman,2,10,1
+707,Acdodh,Saruman,10,7,10
+710,Alfaudh,Nazguls,2,7,1
+711,Ghogrul,Azog,9,10,6
+713,Mildodh,Sauron,8,9,6
+712,Molcmegh,Nazguls,10,10,2
+714,Kurgog,Saruman,10,4,8
+717,Aldosh,Morgoth,4,4,7
+716,Augzoth,Azog,1,6,9
+715,Saglir,Morgoth,1,5,5
+718,Audbaukh,Azog,2,10,7
+719,Udbaf,Nazguls,1,4,9
+721,Crecrug,Saruman,10,4,2
+720,Acbac,Sauron,7,6,3
+723,Dalfugh,Saruman,5,3,5
+722,Brugug,Nazguls,10,7,4
+724,Soglo,Nazguls,4,2,5
+725,Migdoc,Azog,6,6,2
+727,Auldadh,Sauron,1,2,4
+728,Aharg,Nazguls,2,8,5
+726,Ogloc,Sauron,9,9,3
+729,Ugdash,Sauron,7,10,8
+676,Ogdug,Nazguls,5,1,3
+732,Bercegh,Morgoth,7,6,10
+671,Bigdat,Saruman,7,8,8
+730,Orze,Nazguls,7,5,8
+735,Crilcmet,Nazguls,6,10,3
+736,Azif,Sauron,10,10,3
+733,Shaggo,Nazguls,10,9,6
+677,Olfir,Morgoth,1,8,4
+738,Urdaf,Azog,4,6,2
+739,Aglish,Morgoth,7,10,9
+741,Crezbaukh,Sauron,3,8,8
+742,Bruzgaud,Sauron,6,6,4
+740,Ulfaut,Saruman,1,5,3
+743,Bulgul,Saruman,1,8,5
+744,Drigor,Azog,10,4,6
+734,Brigrau,Nazguls,10,2,5
+737,Azzith,Sauron,6,5,10
+747,Ozbudh,Morgoth,9,5,5
+749,Ogdo,Azog,6,7,9
+748,Agdu,Morgoth,10,10,10
+750,Ocbat,Sauron,8,8,9
+751,Rarzurg,Saruman,5,4,3
+753,Duthrif,Nazguls,2,10,3
+731,Mocri,Saruman,9,10,10
+745,Bogdirg,Nazguls,10,5,8
+746,Ardol,Morgoth,2,8,2
+754,Krargaut,Nazguls,3,7,1
+757,Ogbekh,Sauron,6,8,3
+756,Ofdir,Morgoth,1,8,5
+758,Ozbarg,Sauron,1,4,3
+760,Aucrugh,Morgoth,8,3,5
+762,Recbug,Saruman,2,2,8
+761,Gucra,Morgoth,6,4,7
+763,Brifthogh,Morgoth,8,2,7
+764,Radbadh,Sauron,8,3,8
+752,Sogur,Saruman,7,6,4
+768,Aucrag,Morgoth,9,9,4
+766,Odbar,Azog,7,2,3
+767,Azad,Azog,1,10,1
+769,Agrath,Nazguls,3,4,10
+771,Kezu,Azog,7,4,7
+772,Shurdeth,Nazguls,2,4,5
+770,Acra,Nazguls,5,4,8
+773,Meddidh,Morgoth,1,2,9
+765,Daucrush,Sauron,5,2,7
+755,Degguc,Saruman,1,2,8
+775,Mahish,Morgoth,4,1,6
+776,Uldaf,Saruman,10,6,8
+779,Ahith,Morgoth,1,9,3
+778,Alcmakh,Saruman,9,10,5
+780,Olgau,Sauron,4,9,3
+781,Sirger,Nazguls,5,7,3
+783,Sradderg,Nazguls,1,4,9
+782,Duldat,Sauron,7,7,4
+784,Boddaud,Saruman,1,10,8
+759,Ogror,Nazguls,7,9,8
+774,Crargo,Azog,7,7,3
+786,Ozbar,Sauron,7,8,3
+788,Arzaud,Morgoth,7,7,1
+790,Aurca,Morgoth,8,3,7
+789,Aurdikh,Sauron,10,4,3
+792,Baushnogh,Sauron,10,5,8
+791,Shafdul,Sauron,9,1,8
+794,Logder,Sauron,3,1,7
+795,Shildaul,Azog,5,5,3
+793,Drercukh,Azog,7,7,5
+797,Ahagh,Nazguls,5,2,1
+796,Ulfig,Saruman,5,2,3
+798,Ugdith,Nazguls,5,1,6
+777,Azgi,Sauron,7,10,5
+800,Oshni,Azog,1,10,8
+801,Sorbuc,Azog,4,6,2
+804,Drizzesh,Azog,6,1,5
+802,Crefthauth,Nazguls,8,5,1
+803,Brifthu,Azog,5,1,5
+805,Sruddaf,Saruman,1,3,10
+808,Ocri,Saruman,9,2,3
+807,Azgef,Sauron,10,8,1
+806,Authra,Morgoth,10,3,8
+810,Ucdau,Sauron,6,6,2
+809,Oho,Morgoth,5,1,4
+812,Shecdokh,Saruman,10,7,10
+811,Crurgaudh,Nazguls,1,8,7
+813,Cruzbaut,Nazguls,6,5,7
+787,Auzzekh,Nazguls,2,5,8
+785,Korgof,Azog,10,5,3
+815,Dazbaush,Saruman,7,2,7
+817,Acdad,Saruman,9,9,3
+819,Aggo,Azog,6,8,6
+818,Augadh,Saruman,8,4,9
+821,Coggo,Azog,8,4,8
+816,Oshnagh,Saruman,1,7,8
+822,Laurcadh,Morgoth,6,8,10
+823,Crogbikh,Azog,4,4,8
+824,Shecbu,Morgoth,5,4,4
+814,Sogre,Saruman,3,6,4
+826,Ocrod,Morgoth,1,6,9
+828,Orgith,Saruman,3,8,3
+827,Audbe,Azog,10,4,2
+829,Alfaul,Nazguls,7,2,2
+830,Azuc,Nazguls,2,4,10
+831,Daldad,Morgoth,10,2,8
+832,Gogger,Morgoth,8,2,4
+833,Cirzo,Morgoth,2,9,1
+836,Aushnish,Nazguls,2,2,6
+835,Regrol,Sauron,6,3,10
+834,Crerbagh,Azog,4,5,8
+837,Auzbur,Morgoth,10,9,10
+838,Agrod,Nazguls,3,1,3
+840,Ahath,Nazguls,6,4,1
+839,Agag,Nazguls,6,6,8
+841,Muggec,Saruman,1,6,8
+844,Kadboc,Nazguls,9,6,4
+842,Sheshnoth,Sauron,1,7,6
+845,Kragget,Sauron,3,7,9
+820,Urcof,Morgoth,6,2,8
+847,Oshnudh,Saruman,10,10,2
+846,Athrogh,Nazguls,1,3,7
+848,Auggudh,Morgoth,10,4,7
+825,Rarbo,Azog,3,1,5
+849,Ulger,Azog,10,1,4
+851,Srizoth,Saruman,8,2,1
+852,Crecde,Nazguls,8,9,8
+853,Braurbaur,Morgoth,1,2,3
+854,Caulgesh,Azog,7,2,5
+855,Logedh,Azog,1,1,8
+856,Aucbidh,Nazguls,3,7,7
+858,Ocrodh,Sauron,1,6,2
+859,Aurbaf,Morgoth,3,2,6
+857,Ozbaurg,Sauron,9,1,3
+860,Olda,Nazguls,7,6,9
+861,Kercir,Nazguls,6,5,8
+862,Kothrirg,Azog,3,10,10
+863,Micdodh,Morgoth,3,10,3
+850,Uzbesh,Nazguls,2,8,1
+865,Crergi,Azog,1,10,3
+867,Arbau,Morgoth,10,9,3
+866,Ugbuf,Nazguls,5,7,7
+868,Ogbith,Sauron,7,5,9
+869,Alde,Azog,10,9,10
+870,Ogre,Sauron,5,8,7
+871,Borzerg,Nazguls,3,6,2
+872,Srildeth,Nazguls,8,9,4
+873,Ghalfud,Nazguls,1,4,9
+874,Dozrudh,Nazguls,10,7,10
+877,Athrath,Sauron,2,7,1
+876,Arci,Nazguls,6,4,8
+875,Cicroth,Azog,10,8,5
+878,Uldukh,Saruman,5,8,10
+864,Mushnau,Morgoth,1,2,6
+881,Ragzurg,Saruman,7,3,8
+880,Arca,Nazguls,8,9,2
+882,Shurzadh,Saruman,6,10,10
+883,Safdadh,Nazguls,6,2,4
+843,Rugzal,Sauron,1,7,4
+885,Logid,Sauron,8,10,6
+886,Aucbakh,Saruman,7,6,7
+888,Ozroth,Morgoth,7,10,6
+887,Authreg,Azog,7,2,7
+890,Acdikh,Sauron,5,10,1
+889,Azef,Nazguls,5,2,7
+891,Geglif,Saruman,2,3,6
+892,Gagdir,Nazguls,10,1,8
+893,Krarzug,Nazguls,4,3,8
+895,Sracdarg,Morgoth,10,7,10
+896,Auzge,Nazguls,9,8,2
+894,Roldeth,Saruman,10,6,10
+897,Ardut,Saruman,5,4,5
+900,Oggerg,Azog,6,6,1
+899,Uzgic,Azog,6,2,9
+879,Oshnaf,Morgoth,9,4,7
+902,Dazzedh,Sauron,6,4,10
+903,Raurbit,Azog,3,3,1
+901,Drofthath,Nazguls,7,2,7
+904,Srohor,Saruman,1,5,7
+905,Grulcmug,Sauron,1,7,6
+906,Aucbi,Sauron,9,2,1
+907,Ogzith,Nazguls,1,8,10
+909,Augru,Morgoth,8,2,9
+908,Azgic,Sauron,9,9,5
+910,Uhuth,Morgoth,6,8,10
+911,Krarzaudh,Nazguls,1,7,1
+912,Sifdof,Azog,8,10,4
+913,Razagh,Saruman,2,6,9
+914,Mizzaur,Nazguls,7,10,6
+915,Dezad,Azog,9,7,9
+916,Ogza,Azog,6,5,6
+918,Othregh,Saruman,6,3,6
+917,Auddokh,Morgoth,4,5,1
+920,Urbit,Saruman,4,1,5
+919,Oshneg,Nazguls,9,2,4
+921,Shorda,Azog,5,10,4
+923,Bricdag,Morgoth,6,9,10
+925,Cothrudh,Sauron,5,5,4
+922,Ghazro,Saruman,7,5,2
+799,Odbot,Saruman,5,1,8
+926,Ardod,Sauron,7,1,7
+927,Acdol,Sauron,3,7,2
+929,Ogbauf,Morgoth,5,9,4
+928,Arbau,Sauron,3,3,4
+931,Srelgirg,Sauron,9,2,10
+930,Augzi,Azog,7,5,2
+932,Rocbaush,Sauron,4,1,6
+933,Dridba,Morgoth,10,3,7
+934,Bazif,Azog,7,7,1
+935,Brauhau,Morgoth,5,1,8
+937,Uger,Nazguls,3,7,9
+936,Auglat,Saruman,8,2,4
+938,Oddag,Saruman,1,10,4
+939,Uglir,Nazguls,1,3,3
+941,Krircir,Morgoth,4,7,7
+940,Agbe,Saruman,7,1,7
+942,Crazbit,Nazguls,3,1,5
+924,Grucda,Saruman,10,3,3
+884,Sracdo,Saruman,9,8,3
+945,Dishnuc,Morgoth,8,7,4
+947,Ucdig,Saruman,8,9,1
+946,Oglash,Saruman,8,2,9
+948,Ulfog,Nazguls,9,4,2
+950,Olfef,Azog,7,8,1
+949,Aulfo,Azog,6,6,2
+951,Crarburg,Morgoth,2,6,8
+952,Gufthosh,Morgoth,3,7,4
+953,Drauddogh,Morgoth,7,5,6
+955,Cregbo,Saruman,7,10,9
+954,Cogo,Nazguls,5,10,6
+956,Ahuf,Nazguls,10,6,5
+958,Ucrogh,Azog,9,2,10
+957,Udbeg,Nazguls,3,2,10
+960,Azgish,Azog,2,6,9
+959,Ogze,Sauron,10,6,5
+961,Bracrau,Azog,4,10,10
+962,Grethrauf,Sauron,8,9,8
+964,Dirgar,Nazguls,5,9,1
+943,Crifthaur,Nazguls,9,8,3
+966,Adbal,Nazguls,9,9,9
+965,Ruhe,Morgoth,9,10,7
+968,Aufthof,Nazguls,8,5,8
+969,Urdit,Nazguls,3,1,9
+967,Aushnod,Nazguls,3,4,6
+963,Maugzil,Morgoth,10,9,8
+973,Crolgu,Saruman,8,5,1
+971,Krocrig,Morgoth,6,4,3
+972,Medbig,Saruman,1,9,8
+944,Megzid,Azog,3,4,3
+898,Augrauf,Morgoth,3,3,8
+975,Saggof,Azog,9,3,3
+978,Ulfirg,Azog,8,4,1
+977,Aulda,Nazguls,3,10,9
+980,Aglec,Nazguls,1,3,10
+979,Ufdud,Morgoth,5,3,2
+982,Reddodh,Nazguls,3,9,3
+981,Ghofthu,Nazguls,1,1,5
+984,Kauzbet,Azog,9,1,10
+983,Lelcmol,Saruman,6,8,9
+986,Orbi,Azog,7,1,7
+974,Srorcith,Sauron,4,4,7
+985,Sraudbogh,Saruman,4,5,3
+988,Auzraukh,Azog,2,9,10
+989,Acbith,Nazguls,3,3,7
+990,Udbaurg,Nazguls,9,3,4
+991,Sagar,Nazguls,4,5,2
+993,Rethric,Sauron,6,7,10
+992,Daulcmerg,Morgoth,7,6,2
+994,Lorboc,Morgoth,8,3,4
+997,Aufdug,Sauron,3,10,7
+995,Kushnukh,Sauron,9,5,7
+998,Ogush,Azog,8,2,1
+996,Aufthigh,Morgoth,2,6,1
+999,Urca,Morgoth,6,8,9
+1000,Ozraukh,Sauron,3,3,8
+1002,Sazgegh,Azog,5,7,8
+1003,Graucbegh,Sauron,6,3,10
+1001,Ghigbikh,Sauron,8,1,10
+1004,Surgish,Morgoth,8,7,7
+1005,Srudbath,Azog,7,10,4
+1006,Olgir,Azog,1,1,9
+987,Auzret,Azog,7,6,8
+976,Aurceg,Azog,10,5,10
+1007,Ordidh,Nazguls,8,1,3
+1008,Orbegh,Saruman,8,2,9
+970,Aglash,Saruman,6,9,7
+1009,Aufthaul,Morgoth,2,7,7
+1010,Argish,Saruman,4,6,5

@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${battlesFilename}`, "id, name, place, yearsAgo, reason, duration", (err) => {if (err) console.log(err);});
+fs.writeFile(`${csvDirectory}/${battlesFilename}`, "id, name, place, yearsAgo, reason, duration",(err) => {if (err) console.log(err);});
 
 let id = 1;
 
@@ -41,11 +41,11 @@ function writeBattle(name) {
     let duration = (Math.floor(Math.random() * 10000) + 1).toString();
     let battle = String.prototype.concat(
         "\n",
-        id, ", ",
-        name, ", ",
-        place, ", ",
-        yearsAgo, ", ",
-        reason, ", ",
+        id, ",",
+        name, ",",
+        place, ",",
+        yearsAgo, ",",
+        reason, ",",
         duration
     );
     id++;

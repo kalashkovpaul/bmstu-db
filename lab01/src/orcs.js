@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${orcsFilename}`, "id, name, master, danger, endurance, bravery", (err) => {if (err) console.log(err);});
+fs.writeFile(`${csvDirectory}/${orcsFilename}`, "id, name, master, danger, endurance, bravery",(err) => {if (err) console.log(err);});
 
 let id = 1;
 
@@ -29,11 +29,11 @@ function writeOrc(name) {
     let bravery = (Math.floor(Math.random() * 10) + 1).toString();
     let orc = String.prototype.concat(
         "\n",
-        id, ", ",
-        name, ", ",
-        master, ", ",
-        danger, ", ",
-        endurance, ", ",
+        id, ",",
+        name, ",",
+        master, ",",
+        danger, ",",
+        endurance, ",",
         bravery
     );
     id++;

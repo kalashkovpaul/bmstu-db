@@ -1,1017 +1,1016 @@
-id, name, place, yearsAgo, reason, duration
-1, Battle Of Spies, Harad, 7030, Power, 8946
-3, Siege Of Differences, Mordor, 4649, Love, 7607
-2, Battle Of Fallen Angels, Lost Lands, 3268, Life, 4510
-5, Battle Of Dirt, Numenor, 5078, Future, 2440
-6, Siege Of Cyzoht, Mordor, 1236, Power, 812
-10, Attack Of Lust, Lost Lands, 5168, Love, 8779
-8, Battle Of New Orphans, Lost Lands, 5864, Terrytory, 6529
-11, Siege Of Starvation, Gondor, 6309, Life, 8119
-12, Attack Of Punt, Rohan, 2181, Vengeance, 8352
-14, Assault Of Pasud, Gondor, 7573, Power, 953
-13, Siege Of Mupt, Harad, 6307, Life, 3947
-15, Battle Of Clypigh, Gondor, 2673, Life, 823
-17, Siege Of Gold, Harad, 884, Money, 5117
-16, Attack Of False Promises, Gondor, 7296, Future, 2156
-18, Battle Of Brothers, Rohan, 5716, Life, 1904
-19, Assault Of Fear, Harad, 1234, Life, 6420
-21, Battle Of Dent, Harad, 734, Terrytory, 7589
-20, Battle Of Broken Bones, Numenor, 3077, Power, 5569
-22, Attack Of Pryk, Mordor, 2521, Resourses, 8732
-23, Attack Of Cleoh, Lost Lands, 5864, Love, 3518
-24, Battle Of Tenacity, Mordor, 3725, Power, 5416
-26, Attack Of The Betrayed, Lost Lands, 7936, Power, 1531
-25, Siege Of Gold, Mordor, 5243, Love, 727
-28, Battle Of Jox, Lost Lands, 4571, Terrytory, 4275
-27, Battle Of The Molten Mountain, Numenor, 5457, Future, 4493
-29, Attack Of Vig, Gondor, 6929, Money, 8987
-30, Assault Of Briled, Lost Lands, 5217, Power, 6735
-31, Assault Of Starvation, Harad, 187, Power, 191
-32, Siege Of Unsung Heroes, Mordor, 6409, Power, 7986
-34, Attack Of Loyalties, Gondor, 1740, Life, 6070
-4, Battle Of Brol, Harad, 1492, Terrytory, 1415
-35, Siege Of Cuks, Gondor, 1145, Future, 5717
-36, Battle Of Vryleb, Gondor, 2101, Vengeance, 1937
-33, Attack Of The Occult, Gondor, 5906, Terrytory, 7874
-38, Siege Of Executioners, Numenor, 4454, Power, 4253
-40, Battle Of Pests, Rohan, 4748, Terrytory, 985
-41, Battle Of Knys, Gondor, 1207, Love, 6122
-39, Assault Of Tycoons, Mordor, 4375, Power, 8640
-42, Assault Of Kult, Rohan, 1054, Money, 1992
-44, Attack Of Fuzih, Mordor, 38, Vengeance, 229
-45, Battle Of Courage, Harad, 1190, Love, 7276
-43, Assault Of Dreted, Rohan, 7370, Power, 9161
-46, Battle Of The Fiery Lake, Lost Lands, 4132, Life, 5134
-48, Assault Of White Mountain, Lost Lands, 7652, Future, 2918
-47, Assault Of The High Seas, Numenor, 3657, Power, 9954
-9, Battle Of Spears, Gondor, 4189, Terrytory, 5998
-50, Battle Of Pop, Harad, 5503, Power, 9822
-52, Siege Of Stropuht, Lost Lands, 5561, Power, 6105
-53, Attack Of Knuxeh, Mordor, 3833, Vengeance, 75
-54, Battle Of The Dunes, Harad, 3862, Future, 4599
-51, Attack Of Wylm, Rohan, 6034, Terrytory, 5281
-56, Battle Of The Chanceless, Harad, 7112, Love, 7327
-55, Siege Of Heroes, Lost Lands, 216, Money, 9107
-57, Battle Of Bad Omen, Numenor, 5259, Terrytory, 6843
-58, Battle Of Ryl, Mordor, 6531, Terrytory, 7713
-59, Battle Of Kih, Harad, 2651, Future, 7426
-60, Siege Of Vlyoht, Rohan, 4959, Life, 1069
-61, Battle Of Qrupog, Mordor, 5475, Terrytory, 7401
-62, Siege Of Lost Souls, Harad, 2452, Power, 4010
-7, Assault Of The Scourge, Lost Lands, 5778, Money, 2484
-63, Attack Of Unsung Heroes, Rohan, 764, Money, 8478
-65, Battle Of The Dieing Forest, Harad, 7046, Future, 9073
-66, Attack Of Integrity, Harad, 3753, Life, 3329
-67, Attack Of Vimt, Harad, 4432, Love, 1154
-68, Attack Of Kloph, Gondor, 7524, Vengeance, 6990
-69, Battle Of Vlasag, Lost Lands, 5576, Love, 7230
-70, Attack Of Lost Brothers, Harad, 7254, Money, 9267
-72, Siege Of The Planet, Harad, 367, Terrytory, 783
-71, Attack Of Silence, Harad, 5115, Money, 9517
-74, Battle Of Ust, Numenor, 6230, Terrytory, 1362
-37, Siege Of The Dry Sea, Harad, 2355, Money, 632
-73, Battle Of Delirium, Mordor, 1354, Vengeance, 6452
-49, Attack Of Purification, Lost Lands, 669, Love, 4492
-77, Attack Of Lost Brothers, Mordor, 2551, Future, 9441
-80, Battle Of Delirium, Mordor, 2096, Life, 430
-79, Siege Of The Planet, Gondor, 3908, Love, 1237
-78, Attack Of Silence, Harad, 4110, Resourses, 8089
-81, Battle Of Ust, Mordor, 6405, Terrytory, 1747
-82, Battle Of Qraeb, Harad, 390, Terrytory, 8300
-83, Attack Of Vlizuh, Lost Lands, 148, Money, 681
-64, Battle Of Kings Hill, Lost Lands, 5996, Terrytory, 7621
-86, Battle Of Naive Trust, Rohan, 1184, Vengeance, 5873
-85, Battle Of Delirium, Rohan, 4513, Power, 711
-75, Battle Of Qraeb, Gondor, 6413, Power, 6538
-88, Assault Of The Chanceless, Gondor, 7844, Life, 4203
-89, Battle Of Crerf, Mordor, 5713, Terrytory, 9870
-90, Battle Of Drihx, Numenor, 6577, Terrytory, 6057
-92, Attack Of Vliuh, Gondor, 3383, Future, 9691
-93, Attack Of Gold, Numenor, 6853, Resourses, 6202
-91, Assault Of Daud, Numenor, 1499, Love, 176
-94, Battle Of Secrets, Harad, 4637, Terrytory, 5917
-95, Battle Of The Risen, Lost Lands, 1534, Love, 7184
-84, Battle Of Tyrants, Mordor, 4585, Vengeance, 9833
-98, Battle Of Pawns, Gondor, 2094, Terrytory, 8110
-99, Assault Of Warq, Mordor, 6303, Future, 7329
-97, Attack Of New Allies, Harad, 4613, Love, 9298
-100, Battle Of Cer, Mordor, 3366, Terrytory, 473
-87, Siege Of Last Rites, Harad, 2623, Love, 874
-102, Attack Of Prutoh, Mordor, 4304, Love, 8973
-103, Attack Of Broken Mountains, Numenor, 2098, Power, 1083
-104, Battle Of Broken Mountains, Harad, 3414, Money, 1477
-105, Battle Of The Eclipse, Numenor, 4995, Resourses, 6809
-107, Battle Of Junn, Harad, 7889, Money, 1080
-101, Battle Of Jopagh, Harad, 5261, Power, 4304
-108, Attack Of Demm, Harad, 2631, Future, 222
-76, Attack Of Vlizuh, Rohan, 6907, Power, 48
-110, Assault Of Zibad, Gondor, 3480, Future, 1850
-111, Siege Of Corrupted Lands, Mordor, 2544, Love, 2048
-112, Battle Of Nature, Lost Lands, 1227, Future, 3311
-113, Battle Of Bloodthirst, Numenor, 5463, Life, 9975
-114, Attack Of The Frozen Ocean, Mordor, 3833, Life, 585
-116, Battle Of Ryhs, Rohan, 4870, Power, 3613
-96, Battle Of The Void, Numenor, 7077, Terrytory, 3892
-118, Battle Of Qydog, Harad, 2123, Future, 3161
-117, Battle Of Xudub, Rohan, 6094, Money, 667
-119, Battle Of Gold, Harad, 5670, Life, 9537
-120, Battle Of Scimitars, Lost Lands, 2230, Love, 5734
-121, Battle Of Total Domination, Mordor, 2212, Terrytory, 5787
-122, Battle Of Bent Truths, Harad, 6135, Terrytory, 2783
-124, Assault Of Plynn, Rohan, 465, Life, 6642
-125, Siege Of Wras, Mordor, 4283, Resourses, 970
-123, Attack Of The Broken Mountain, Numenor, 5039, Vengeance, 9176
-126, Battle Of Eqagh, Gondor, 5539, Terrytory, 8933
-127, Battle Of Beliefs, Mordor, 2725, Power, 2527
-115, Attack Of Bluhq, Numenor, 1314, Power, 2522
-128, Assault Of Last Resorts, Gondor, 7817, Vengeance, 7627
-131, Battle Of The True Prophet, Numenor, 6189, Power, 8242
-130, Battle Of Mad Minds, Lost Lands, 1405, Money, 4608
-109, Battle Of Crebeb, Harad, 1485, Resourses, 9804
-132, Assault Of Ust, Mordor, 2234, Life, 9268
-134, Assault Of The People, Lost Lands, 6536, Money, 2926
-135, Battle Of Broken Dreams, Mordor, 6760, Love, 5180
-137, Battle Of The Towers, Harad, 5091, Power, 7176
-136, Attack Of Eternal Regrets, Rohan, 4430, Life, 1866
-138, Attack Of The Black Scar, Mordor, 7874, Love, 6838
-133, Battle Of Gazagh, Mordor, 2838, Power, 6195
-141, Battle Of Xihegh, Gondor, 6886, Life, 814
-142, Siege Of The Dry Sea, Numenor, 6377, Money, 615
-140, Assault Of Qrokx, Mordor, 7599, Resourses, 521
-143, Assault Of Mad Minds, Numenor, 7984, Life, 6247
-144, Battle Of Death's Rise, Rohan, 155, Love, 9927
-146, Battle Of Spies, Harad, 4019, Power, 7395
-145, Attack Of The Eternal Day, Lost Lands, 1015, Life, 6210
-106, Battle Of Ignorance, Mordor, 3647, Power, 4612
-129, Siege Of Delirium, Rohan, 1281, Resourses, 302
-148, Battle Of Sum, Lost Lands, 4554, Life, 5514
-150, Battle Of Dafag, Rohan, 1145, Future, 474
-152, Battle Of Burning Fields, Mordor, 6935, Money, 9313
-153, Battle Of The Eclipse, Rohan, 4232, Life, 7050
-151, Battle Of Exploding Mountains, Rohan, 6719, Terrytory, 154
-155, Siege Of Terror, Gondor, 638, Life, 9351
-149, Siege Of Weceht, Gondor, 7191, Money, 9303
-156, Battle Of Nightmares, Harad, 7714, Terrytory, 1938
-157, Battle Of Rihl, Numenor, 3602, Vengeance, 2706
-159, Battle Of Siwug, Gondor, 4622, Future, 8557
-158, Attack Of Streps, Numenor, 4806, Terrytory, 5686
-160, Battle Of Groub, Gondor, 7156, Future, 2422
-161, Siege Of Broken Minds, Mordor, 2123, Vengeance, 1287
-139, Attack Of Imbalance, Numenor, 1951, Terrytory, 6078
-162, Battle Of Liberty, Gondor, 1237, Money, 3033
-164, Siege Of Nightmares, Numenor, 2719, Vengeance, 9187
-154, Battle Of Broken Bones, Mordor, 5841, Money, 9783
-166, Battle Of Ehl, Harad, 3955, Vengeance, 5703
-167, Attack Of Gihih, Mordor, 6971, Future, 6594
-168, Battle Of Paxub, Harad, 1455, Resourses, 5619
-169, Siege Of The Red Mountain, Rohan, 5052, Future, 2786
-170, Battle Of Red Waters, Mordor, 1077, Vengeance, 2553
-172, Assault Of Ancients, Numenor, 6726, Money, 7560
-171, Siege Of Fools, Harad, 4709, Money, 9468
-165, Assault Of Dishonesty, Gondor, 3437, Vengeance, 5169
-174, Assault Of Vim, Mordor, 1502, Future, 881
-175, Battle Of Sloveb, Rohan, 5280, Money, 7232
-173, Assault Of Trust, Gondor, 1734, Resourses, 1809
-147, Battle Of Secrets, Mordor, 7171, Future, 9099
-178, Attack Of Total Destruction, Harad, 1967, Resourses, 5460
-181, Attack Of Mab, Rohan, 6566, Vengeance, 2114
-179, Battle Of The True King, Lost Lands, 992, Future, 4661
-180, Assault Of Frumt, Gondor, 2231, Power, 8801
-182, Siege Of Nexuht, Gondor, 772, Vengeance, 8617
-183, Battle Of Woob, Mordor, 365, Vengeance, 77
-186, Assault Of The Frozen Ocean, Rohan, 1196, Power, 8101
-184, Attack Of Plagued Fires, Harad, 3876, Terrytory, 8165
-187, Attack Of Titans, Rohan, 3635, Life, 4893
-185, Battle Of Burning Lands, Mordor, 2621, Terrytory, 7072
-188, Battle Of Eternal Fires, Mordor, 6093, Vengeance, 1478
-163, Attack Of The Occult, Mordor, 4620, Life, 2977
-176, Battle Of The Eclipse, Lost Lands, 3921, Resourses, 9626
-191, Assault Of Vryfed, Lost Lands, 271, Love, 5092
-192, Attack Of Starvation, Mordor, 3082, Future, 8868
-193, Siege Of The Burning Sea, Mordor, 4495, Resourses, 3578
-189, Assault Of The Apocalypse, Numenor, 6565, Resourses, 2165
-195, Battle Of Eternal Suffering, Lost Lands, 7280, Resourses, 5132
-194, Attack Of The Occult, Mordor, 5448, Power, 6906
-197, Battle Of Grirf, Gondor, 6688, Life, 3326
-199, Battle Of Broken Pacts, Lost Lands, 1136, Vengeance, 9427
-196, Battle Of Krish, Gondor, 1303, Terrytory, 8145
-190, Battle Of Wurk, Mordor, 7746, Power, 7517
-200, Siege Of Titans, Lost Lands, 2521, Resourses, 3378
-202, Battle Of Broken Love, Numenor, 347, Terrytory, 1283
-203, Battle Of Broken Bones, Rohan, 4848, Power, 3989
-205, Battle Of Joh, Gondor, 221, Money, 3947
-204, Battle Of Feln, Lost Lands, 3553, Vengeance, 8209
-177, Battle Of The Occult, Numenor, 7119, Future, 1356
-198, Attack Of Figoh, Mordor, 2361, Future, 2769
-207, Battle Of The Homeless, Lost Lands, 7650, Resourses, 8896
-209, Battle Of Deception, Lost Lands, 4220, Future, 4842
-210, Battle Of Vile Men, Rohan, 4498, Love, 1253
-211, Battle Of Poisoned Minds, Numenor, 4611, Vengeance, 3849
-212, Battle Of Vlyg, Rohan, 7799, Resourses, 7655
-206, Battle Of Knofug, Gondor, 3055, Money, 2743
-215, Siege Of Staroht, Lost Lands, 64, Terrytory, 5036
-214, Battle Of Wumig, Rohan, 7055, Power, 5763
-201, Battle Of The Righteous, Gondor, 7608, Power, 2735
-218, Siege Of Gold, Mordor, 7425, Vengeance, 7535
-216, Battle Of Lost Souls, Gondor, 2811, Love, 4344
-220, Assault Of Clost, Numenor, 4596, Life, 7360
-219, Battle Of The Eternal Day, Gondor, 3213, Future, 7836
-221, Battle Of Oceb, Mordor, 6000, Love, 6380
-222, Siege Of Death's Fall, Rohan, 1811, Love, 1114
-223, Battle Of Faiths, Harad, 732, Power, 8589
-224, Battle Of The Risen, Mordor, 5754, Future, 5100
-225, Battle Of False Promises, Mordor, 351, Love, 1676
-226, Battle Of Flert, Harad, 5964, Power, 9105
-228, Siege Of Kritoht, Lost Lands, 3623, Terrytory, 30
-227, Assault Of Naod, Numenor, 7890, Power, 2494
-229, Assault Of Eternal Suffering, Numenor, 7866, Terrytory, 610
-208, Battle Of Corrupted Minds, Harad, 1813, Resourses, 5490
-217, Attack Of New Orphans, Mordor, 6433, Future, 7233
-232, Siege Of Maidens, Gondor, 216, Money, 9651
-231, Battle Of New Allies, Lost Lands, 6695, Power, 2986
-235, Battle Of Noxygh, Numenor, 1013, Future, 7812
-234, Siege Of Tluz, Harad, 3591, Future, 8984
-238, Siege Of Kings Mountain, Harad, 973, Money, 5988
-237, Battle Of Regrets, Numenor, 7634, Future, 6173
-236, Battle Of Stoqub, Rohan, 6649, Future, 4371
-239, Siege Of Qurs, Lost Lands, 2855, Life, 2259
-241, Siege Of Gicuht, Lost Lands, 1809, Vengeance, 7828
-240, Attack Of Sleoh, Mordor, 7669, Money, 4871
-243, Battle Of The Dead Sea, Gondor, 2216, Money, 6734
-242, Battle Of The Infested, Harad, 106, Terrytory, 3222
-244, Attack Of Last Resorts, Harad, 6389, Power, 451
-230, Assault Of The Occult, Rohan, 3360, Future, 2255
-246, Siege Of New Orphans, Harad, 426, Future, 4456
-248, Siege Of Glalm, Gondor, 4190, Power, 6725
-247, Battle Of Vohz, Numenor, 980, Terrytory, 4210
-213, Battle Of Bresp, Gondor, 7875, Terrytory, 5254
-250, Attack Of Brothers, Gondor, 5430, Money, 6647
-251, Battle Of Truth, Lost Lands, 5126, Life, 3528
-252, Assault Of The Ancestors, Harad, 5580, Life, 4198
-253, Assault Of The Dead Sea, Lost Lands, 626, Terrytory, 2005
-233, Battle Of The Rebellion, Harad, 2057, Power, 6022
-254, Siege Of The Dunes, Gondor, 5113, Love, 8185
-257, Battle Of Last Resorts, Numenor, 7419, Vengeance, 7307
-256, Siege Of Ioht, Rohan, 2301, Vengeance, 1833
-245, Battle Of Broken Mountains, Gondor, 4018, Love, 7353
-249, Battle Of Sagegh, Gondor, 6411, Love, 2816
-260, Battle Of Naive Trust, Mordor, 7244, Vengeance, 1457
-261, Battle Of Vrann, Gondor, 7217, Future, 9120
-262, Battle Of Ilst, Lost Lands, 7838, Terrytory, 2966
-258, Siege Of Frozen Lakes, Numenor, 2714, Money, 9131
-264, Battle Of The Scorching Lands, Lost Lands, 765, Life, 885
-265, Battle Of The Endless Storm, Harad, 2425, Money, 6095
-266, Battle Of Ignorance, Mordor, 6228, Money, 874
-267, Attack Of Lust, Mordor, 5596, Resourses, 690
-255, Battle Of Brorb, Gondor, 1701, Future, 4512
-270, Attack Of Slerst, Harad, 7974, Future, 9300
-268, Battle Of Starvation, Numenor, 2283, Terrytory, 2612
-269, Attack Of Wehsh, Rohan, 1207, Money, 5817
-263, Attack Of Wruvah, Numenor, 833, Future, 6695
-271, Assault Of Momed, Harad, 3794, Life, 4888
-275, Battle Of Justice, Harad, 5082, Terrytory, 8333
-274, Assault Of Impending Doom, Rohan, 2403, Life, 5762
-276, Attack Of The Fiery Lake, Mordor, 1836, Future, 5068
-277, Attack Of The Ancestors, Numenor, 4348, Love, 7744
-278, Siege Of Arb, Gondor, 4562, Power, 7499
-279, Attack Of Diz, Numenor, 2173, Money, 9238
-281, Siege Of Klizoht, Numenor, 7820, Money, 9188
-280, Siege Of Oreht, Mordor, 5958, Life, 8289
-283, Battle Of Death's Fall, Lost Lands, 3563, Vengeance, 7404
-282, Battle Of The Chanceless, Rohan, 2088, Resourses, 6956
-284, Siege Of Nightmares, Numenor, 7374, Terrytory, 2281
-287, Attack Of The People, Rohan, 1779, Life, 4980
-285, Battle Of Heroes, Gondor, 5632, Love, 8591
-286, Attack Of Hinn, Rohan, 1183, Power, 6538
-288, Battle Of Bad Omen, Gondor, 7407, Future, 8544
-289, Battle Of Faiths, Harad, 1695, Resourses, 7138
-290, Battle Of The River Bank, Lost Lands, 3990, Future, 6429
-291, Battle Of Betrayal, Rohan, 4830, Terrytory, 7839
-292, Attack Of Mad Minds, Rohan, 1178, Vengeance, 7343
-294, Attack Of Vlerq, Mordor, 6680, Future, 6533
-293, Attack Of Blon, Rohan, 2018, Love, 7798
-296, Assault Of Wusad, Rohan, 1670, Vengeance, 3007
-297, Assault Of Bent Truths, Mordor, 2048, Love, 6805
-295, Battle Of Macigh, Gondor, 3352, Love, 4313
-298, Battle Of Corrupted Minds, Lost Lands, 2214, Future, 8842
-273, Assault Of Chiefs, Gondor, 857, Future, 988
-299, Attack Of The Curse, Harad, 3776, Future, 8057
-302, Attack Of Broken Mountains, Gondor, 7604, Life, 4405
-301, Siege Of Lost Faiths, Gondor, 3612, Life, 4090
-304, Battle Of Tlezagh, Mordor, 7848, Power, 9009
-300, Assault Of Kings Hill, Rohan, 3228, Future, 3384
-306, Attack Of New Orphans, Rohan, 2277, Love, 8444
-259, Battle Of Brothers, Gondor, 2018, Vengeance, 5843
-308, Assault Of Executioners, Mordor, 1775, Love, 7137
-309, Battle Of Vlarb, Mordor, 1115, Terrytory, 2255
-307, Battle Of Burning Plains, Lost Lands, 825, Power, 3767
-310, Battle Of Woln, Lost Lands, 3999, Life, 8387
-311, Siege Of Cogaht, Harad, 5002, Vengeance, 8066
-312, Battle Of Druug, Numenor, 7994, Resourses, 250
-315, Battle Of The Dark, Harad, 2455, Future, 1756
-305, Battle Of Heqib, Harad, 1316, Vengeance, 1348
-313, Battle Of Broken Laws, Harad, 2026, Future, 7727
-272, Siege Of Rydeht, Gondor, 445, Resourses, 7256
-317, Attack Of Courage, Gondor, 7083, Resourses, 7790
-318, Battle Of The Eternal Night, Harad, 5069, Terrytory, 5341
-319, Attack Of Johr, Numenor, 1176, Love, 6036
-321, Siege Of The Peaks, Lost Lands, 2363, Vengeance, 6370
-320, Battle Of Cahm, Harad, 6149, Money, 952
-323, Battle Of Bows, Gondor, 4390, Life, 5166
-322, Attack Of Total Destruction, Rohan, 1390, Love, 1480
-324, Siege Of Burning Lands, Mordor, 4968, Vengeance, 3780
-325, Battle Of Foms, Numenor, 7760, Terrytory, 6663
-327, Attack Of Death's Fall, Numenor, 522, Terrytory, 4509
-328, Siege Of Faiths, Gondor, 5068, Terrytory, 2943
-326, Siege Of Brydeht, Mordor, 1884, Power, 7581
-329, Battle Of The River Bank, Lost Lands, 7568, Money, 7049
-330, Battle Of Brothers, Mordor, 2421, Life, 8107
-314, Battle Of The Dark, Numenor, 3735, Resourses, 5536
-333, Battle Of Plarf, Harad, 5118, Future, 5265
-332, Battle Of Gress, Rohan, 1309, Vengeance, 7663
-334, Assault Of The Eclipse, Mordor, 7973, Vengeance, 4254
-336, Battle Of Total Domination, Rohan, 5318, Resourses, 2471
-335, Siege Of Mad Minds, Gondor, 7293, Money, 9240
-338, Assault Of Bows, Harad, 2051, Life, 8584
-339, Assault Of Lost Sons, Rohan, 2476, Future, 3405
-337, Siege Of Kings Glory, Mordor, 6997, Resourses, 4089
-340, Battle Of Knesh, Lost Lands, 2129, Life, 8822
-341, Attack Of Hals, Rohan, 1047, Future, 5412
-342, Battle Of Vlelagh, Numenor, 6346, Life, 8742
-343, Siege Of Jumeht, Harad, 7304, Money, 1795
-344, Battle Of The Fiery Lake, Harad, 5560, Terrytory, 3263
-345, Assault Of Maidens, Mordor, 4707, Love, 359
-347, Battle Of Terror, Gondor, 6466, Love, 7721
-346, Attack Of Widow Makers, Harad, 680, Future, 8465
-348, Battle Of Vengeance, Gondor, 3218, Life, 3672
-350, Battle Of Knolm, Harad, 624, Money, 8540
-303, Siege Of Dumt, Rohan, 1370, Love, 5062
-351, Siege Of Xoph, Numenor, 1030, Power, 9906
-352, Battle Of Hibigh, Mordor, 918, Love, 9511
-353, Attack Of Kings Mountain, Numenor, 7176, Love, 9054
-354, Attack Of Terror, Numenor, 1427, Life, 8660
-355, Battle Of Bows, Gondor, 3688, Life, 8529
-357, Battle Of Struhsh, Numenor, 5609, Power, 7181
-356, Battle Of Faiths, Numenor, 5132, Power, 3660
-331, Assault Of The Rebellion, Mordor, 7554, Love, 3222
-349, Battle Of The Ancestors, Numenor, 7658, Love, 4730
-360, Siege Of Stimeht, Rohan, 5671, Life, 3684
-361, Battle Of Widows, Harad, 807, Resourses, 663
-363, Battle Of The Dark, Mordor, 1223, Future, 7255
-364, Attack Of Spears, Harad, 6967, Vengeance, 1712
-365, Battle Of Trark, Gondor, 3554, Life, 2501
-362, Battle Of Camouflage, Harad, 3060, Vengeance, 9257
-367, Siege Of High Tide, Harad, 295, Money, 5798
-366, Battle Of Klatugh, Lost Lands, 7074, Future, 2970
-368, Battle Of Sons, Mordor, 6441, Money, 1414
-369, Battle Of Widow Makers, Rohan, 7961, Money, 4991
-370, Assault Of Vile Men, Gondor, 4993, Love, 8613
-372, Siege Of Fymn, Rohan, 6970, Money, 2726
-316, Battle Of Death's Rise, Harad, 6418, Power, 2217
-358, Assault Of Vogh, Numenor, 1398, Terrytory, 4208
-371, Attack Of Vrolm, Mordor, 541, Future, 7887
-376, Assault Of Death's Rise, Lost Lands, 5992, Life, 2444
-375, Battle Of Allies, Mordor, 1381, Money, 7549
-377, Battle Of The Plague, Lost Lands, 2154, Life, 1821
-378, Battle Of Ignorance, Gondor, 72, Life, 7572
-380, Battle Of Broken Minds, Harad, 584, Resourses, 4795
-379, Attack Of The Dieing Forest, Harad, 7468, Resourses, 8360
-374, Attack Of Kreruh, Rohan, 5241, Terrytory, 3227
-382, Battle Of Meeg, Gondor, 7532, Power, 2175
-383, Battle Of Tribulation, Mordor, 3593, Love, 4273
-384, Assault Of Nature's Protectors, Gondor, 3639, Vengeance, 2223
-385, Attack Of Broken Homes, Rohan, 3351, Money, 3913
-386, Battle Of Ryg, Lost Lands, 7888, Vengeance, 4564
-387, Siege Of Pladaht, Gondor, 4104, Love, 967
-388, Siege Of Camouflage, Mordor, 6076, Power, 4969
-389, Battle Of Kings Hill, Numenor, 230, Love, 892
-391, Attack Of Vile Actions, Gondor, 5555, Power, 4174
-390, Battle Of Beliefs, Harad, 4746, Resourses, 4094
-392, Battle Of Nohsh, Lost Lands, 679, Future, 9958
-393, Attack Of Plell, Harad, 650, Future, 2887
-394, Siege Of Crujoht, Mordor, 1604, Money, 8703
-396, Battle Of The Atlantic, Lost Lands, 594, Power, 6459
-397, Battle Of Eternal Suffering, Gondor, 6357, Love, 9021
-395, Attack Of Poih, Lost Lands, 6584, Life, 3389
-398, Attack Of The True Prophet, Mordor, 1345, Life, 2088
-399, Battle Of Burning Fields, Lost Lands, 6338, Money, 2477
-401, Siege Of Cusk, Lost Lands, 511, Life, 9150
-400, Battle Of Independence, Mordor, 6238, Money, 1308
-402, Battle Of Tiigh, Numenor, 7756, Love, 1413
-403, Battle Of The Light, Lost Lands, 6867, Resourses, 4406
-404, Assault Of Last Rites, Mordor, 5183, Money, 3721
-359, Battle Of Clyeb, Rohan, 6835, Resourses, 6153
-405, Assault Of The Occult, Lost Lands, 7605, Life, 8850
-408, Assault Of Ruq, Mordor, 2427, Resourses, 8039
-409, Battle Of Wig, Gondor, 961, Terrytory, 146
-381, Siege Of Dybaht, Gondor, 88, Love, 6218
-373, Attack Of Opuh, Harad, 281, Vengeance, 2289
-412, Attack Of Delirium, Harad, 1195, Future, 5526
-407, Attack Of Pests, Lost Lands, 6227, Power, 8731
-413, Siege Of Frozen Lakes, Numenor, 6894, Life, 8387
-414, Assault Of Bykyd, Numenor, 7293, Power, 9420
-415, Battle Of Iagh, Gondor, 1828, Life, 308
-417, Siege Of Trogh, Mordor, 1668, Love, 3644
-416, Battle Of Eternal Bombardments, Gondor, 6949, Money, 2156
-419, Battle Of Wicob, Harad, 7117, Power, 6731
-418, Battle Of Clurd, Rohan, 5195, Power, 2990
-420, Attack Of Purification, Gondor, 1609, Life, 4371
-422, Siege Of Imbalance, Lost Lands, 2970, Vengeance, 3185
-421, Attack Of Strong Desires, Lost Lands, 996, Life, 5355
-423, Battle Of Lost Sons, Numenor, 5834, Vengeance, 4263
-426, Battle Of Gops, Gondor, 4472, Life, 8221
-424, Attack Of The Rebellion, Numenor, 6084, Love, 320
-425, Attack Of Iron, Numenor, 5184, Future, 3554
-427, Attack Of Crurd, Gondor, 4695, Vengeance, 3495
-429, Battle Of Prefog, Lost Lands, 998, Life, 7948
-428, Assault Of Kikid, Lost Lands, 671, Resourses, 475
-430, Attack Of Camouflage, Mordor, 1035, Terrytory, 9303
-406, Battle Of Freedom, Gondor, 3099, Love, 1154
-432, Battle Of Dishonesty, Harad, 7950, Love, 4872
-433, Assault Of The True Prophet, Numenor, 1541, Life, 2927
-434, Battle Of Duht, Harad, 4896, Vengeance, 7059
-435, Assault Of Drins, Rohan, 1092, Vengeance, 7511
-436, Assault Of Pryyd, Lost Lands, 871, Terrytory, 3201
-410, Battle Of Ueb, Harad, 4198, Resourses, 6832
-437, Battle Of Glylog, Harad, 2869, Terrytory, 3338
-438, Attack Of Broken Love, Lost Lands, 6912, Terrytory, 8074
-440, Siege Of Fools, Mordor, 5560, Resourses, 7472
-441, Battle Of Chemistry, Gondor, 1181, Love, 390
-442, Assault Of Cran, Lost Lands, 2280, Future, 5867
-445, Battle Of Justice, Lost Lands, 6095, Life, 4552
-411, Attack Of The Fiery Lake, Numenor, 277, Money, 278
-444, Battle Of Rilegh, Lost Lands, 7403, Future, 1064
-446, Battle Of Purification, Harad, 4648, Love, 3153
-447, Battle Of Wits, Mordor, 5008, Vengeance, 7566
-448, Attack Of Tycoons, Mordor, 2488, Money, 9353
-449, Assault Of The Ancestors, Rohan, 3248, Love, 6869
-450, Battle Of Nohst, Numenor, 2092, Vengeance, 3241
-452, Battle Of Tlequgh, Rohan, 7204, Terrytory, 6614
-451, Attack Of Nukih, Gondor, 5424, Vengeance, 2033
-454, Battle Of Regrets, Gondor, 4603, Power, 6896
-453, Siege Of The Burning Sea, Mordor, 4390, Money, 4643
-455, Attack Of Death's Rise, Numenor, 7000, Love, 9026
-456, Attack Of Betrayal, Numenor, 6289, Vengeance, 9707
-458, Battle Of Frekx, Mordor, 1487, Power, 7332
-443, Battle Of Gniht, Numenor, 1454, Life, 1681
-439, Attack Of Eternal Bombardments, Harad, 4118, Love, 4137
-459, Siege Of Flonaht, Lost Lands, 626, Life, 646
-461, Battle Of Poisoned Crops, Numenor, 761, Terrytory, 6361
-462, Battle Of Lost Brothers, Rohan, 5794, Money, 5647
-463, Battle Of Corrupted Minds, Lost Lands, 7290, Love, 6664
-464, Battle Of False Prophets, Lost Lands, 1571, Money, 3509
-457, Battle Of Krut, Rohan, 5496, Power, 9327
-467, Assault Of Qriid, Mordor, 6280, Vengeance, 3371
-468, Battle Of Qenugh, Lost Lands, 6305, Terrytory, 6645
-460, Battle Of Vlavob, Rohan, 7349, Money, 4304
-466, Battle Of Broll, Gondor, 6114, Vengeance, 398
-470, Attack Of Brothers, Rohan, 1375, Resourses, 8900
-471, Assault Of Bows, Mordor, 6249, Money, 3331
-472, Battle Of The Occult, Numenor, 3766, Terrytory, 1838
-473, Siege Of The Homeless, Rohan, 6659, Life, 2195
-474, Attack Of The Black Scar, Harad, 5059, Future, 9347
-475, Battle Of Plehn, Harad, 7322, Life, 465
-476, Battle Of Vryks, Rohan, 1605, Vengeance, 249
-477, Battle Of Qrytagh, Harad, 1893, Power, 9505
-479, Attack Of Heroes, Mordor, 6032, Money, 2766
-478, Battle Of The Eternal Day, Lost Lands, 3428, Terrytory, 6761
-481, Battle Of Frish, Lost Lands, 1400, Money, 1819
-431, Siege Of Fallen Angels, Rohan, 3809, Vengeance, 9996
-480, Battle Of Allies, Lost Lands, 3663, Life, 7639
-484, Assault Of Steel, Rohan, 199, Life, 3833
-469, Assault Of Ancients, Numenor, 6390, Power, 5139
-482, Battle Of Gnad, Mordor, 4019, Future, 2662
-487, Assault Of The Drained Sea, Mordor, 4928, Power, 6739
-486, Battle Of Lost Souls, Lost Lands, 6789, Money, 4292
-488, Battle Of Dishonesty, Numenor, 1285, Love, 4644
-489, Battle Of Woms, Harad, 4830, Future, 6092
-491, Battle Of Sowab, Harad, 2630, Vengeance, 7877
-490, Siege Of Umm, Numenor, 1816, Money, 1790
-492, Assault Of Death's Rise, Numenor, 7509, Power, 8186
-494, Siege Of The True King, Lost Lands, 2598, Future, 6713
-493, Battle Of Corrupted Lands, Gondor, 1704, Power, 9019
-495, Battle Of The Scorching Lands, Harad, 6272, Terrytory, 8522
-496, Battle Of The Risen, Gondor, 612, Resourses, 6205
-497, Battle Of Sat, Numenor, 4879, Future, 8299
-499, Assault Of Prozad, Mordor, 5422, Money, 3410
-498, Battle Of Gravib, Lost Lands, 2194, Life, 7637
-500, Assault Of Exploding Mountains, Numenor, 6301, Power, 1580
-501, Battle Of The Broken Mountain, Harad, 2748, Future, 9315
-502, Attack Of Strong Desires, Lost Lands, 1618, Future, 5148
-504, Assault Of New Orphans, Mordor, 6912, Vengeance, 8226
-503, Assault Of Covert Actions, Gondor, 2, Resourses, 9638
-505, Battle Of Grarb, Mordor, 1987, Life, 4866
-506, Assault Of Yts, Lost Lands, 5787, Vengeance, 58
-509, Assault Of False Prophets, Harad, 1184, Terrytory, 3377
-483, Attack Of Dranah, Gondor, 4229, Power, 5162
-508, Siege Of Neliht, Rohan, 6705, Future, 3689
-507, Battle Of Tlufob, Numenor, 1810, Life, 6441
-510, Battle Of Burning Fields, Mordor, 4733, Resourses, 5421
-512, Battle Of Vrohsh, Mordor, 468, Power, 497
-511, Attack Of The False Prophet, Numenor, 1248, Power, 1977
-514, Battle Of Travogh, Harad, 7790, Future, 8294
-513, Assault Of Knijad, Mordor, 3115, Terrytory, 5129
-515, Battle Of Vile Men, Rohan, 1949, Money, 2415
-516, Battle Of Kings Mountain, Lost Lands, 7962, Love, 3715
-517, Battle Of The River Bank, Harad, 3825, Vengeance, 9960
-485, Battle Of Mad Kings, Gondor, 392, Love, 9445
-519, Attack Of Pemm, Harad, 4082, Vengeance, 4951
-521, Siege Of Storms, Gondor, 534, Power, 5328
-523, Battle Of Gyph, Numenor, 469, Vengeance, 6783
-522, Battle Of Frozen Lakes, Gondor, 6462, Terrytory, 673
-525, Attack Of Fruuh, Rohan, 4948, Vengeance, 8332
-524, Assault Of Flumud, Rohan, 5378, Power, 28
-526, Assault Of Broken Laws, Lost Lands, 6124, Money, 4539
-527, Battle Of Storms, Numenor, 2130, Future, 6733
-528, Battle Of The Dunes, Harad, 7911, Future, 4217
-520, Battle Of Keyb, Harad, 7680, Vengeance, 6000
-529, Assault Of The Blood River, Mordor, 1768, Life, 1203
-518, Assault Of Sarb, Numenor, 5187, Resourses, 6034
-465, Battle Of Dohx, Harad, 7390, Resourses, 4497
-532, Battle Of Qurb, Numenor, 200, Resourses, 588
-534, Battle Of Klegeb, Rohan, 5051, Future, 3880
-535, Battle Of Naive Trust, Numenor, 7467, Vengeance, 726
-536, Attack Of The Scorching Lands, Gondor, 4167, Resourses, 7749
-533, Battle Of Covib, Harad, 7995, Love, 1537
-530, Battle Of The Curse, Numenor, 960, Resourses, 6131
-539, Attack Of Cybah, Mordor, 2161, Vengeance, 81
-541, Battle Of Dictators, Gondor, 6986, Life, 4293
-540, Assault Of Wits, Mordor, 6732, Future, 2544
-543, Attack Of Burning Fields, Harad, 2101, Power, 7666
-542, Assault Of The High Seas, Rohan, 6154, Future, 6587
-545, Siege Of Differences, Lost Lands, 7803, Resourses, 9240
-546, Battle Of Dawth, Lost Lands, 1356, Money, 4852
-547, Battle Of Fluub, Numenor, 7342, Future, 4280
-544, Assault Of Dictators, Harad, 4597, Love, 7679
-549, Battle Of Strong Desires, Mordor, 6571, Vengeance, 6975
-538, Attack Of Maidens, Lost Lands, 2096, Money, 4017
-550, Attack Of Heaven, Mordor, 4306, Love, 4324
-531, Battle Of Ard, Mordor, 7839, Future, 3334
-552, Assault Of Utopia, Lost Lands, 5138, Vengeance, 7788
-553, Assault Of Plul, Rohan, 565, Resourses, 8897
-554, Siege Of Glukuht, Mordor, 4631, Love, 3746
-555, Battle Of Bretegh, Lost Lands, 5593, Terrytory, 595
-557, Battle Of Death's Rise, Mordor, 3538, Power, 9626
-537, Assault Of Advisors, Rohan, 756, Love, 2946
-548, Assault Of The Atlantic, Rohan, 7430, Love, 6855
-559, Siege Of Strong Desires, Rohan, 4021, Vengeance, 4750
-560, Attack Of The Righteous, Mordor, 5262, Power, 9304
-561, Battle Of Fohm, Lost Lands, 1212, Future, 4118
-562, Siege Of Stomuht, Rohan, 1462, Love, 4319
-556, Siege Of Hallow Hill, Numenor, 1420, Money, 8330
-563, Battle Of Tratob, Numenor, 6595, Resourses, 276
-565, Battle Of Dictators, Lost Lands, 2584, Love, 7090
-566, Siege Of Scimitars, Gondor, 4537, Money, 5235
-564, Siege Of The Red Mountain, Mordor, 7683, Future, 3144
-567, Assault Of Broken Bones, Rohan, 4310, Resourses, 1277
-569, Battle Of Bunn, Rohan, 7655, Resourses, 897
-570, Battle Of Klifeb, Gondor, 5301, Money, 7863
-551, Battle Of Delirium, Numenor, 5509, Terrytory, 9141
-572, Siege Of Glorious Conquests, Lost Lands, 5753, Love, 4932
-573, Battle Of Red Waters, Numenor, 4166, Power, 5902
-568, Assault Of Dogh, Numenor, 6634, Terrytory, 8355
-571, Attack Of Tryzah, Gondor, 3545, Power, 3448
-575, Siege Of Utopia, Harad, 1980, Love, 2417
-576, Attack Of The Risen, Gondor, 5693, Terrytory, 9940
-578, Battle Of Aheb, Harad, 1674, Future, 6392
-580, Siege Of New Hope, Gondor, 603, Terrytory, 9576
-581, Battle Of Glihz, Rohan, 1990, Life, 9264
-582, Siege Of Cliht, Gondor, 6562, Love, 5659
-558, Siege Of Vile Men, Gondor, 2602, Love, 7103
-579, Battle Of The Scorching Lands, Rohan, 4033, Future, 3912
-583, Attack Of Jykih, Rohan, 92, Terrytory, 5783
-584, Assault Of Lost Friends, Gondor, 1817, Power, 7180
-577, Battle Of Pehz, Rohan, 2468, Love, 7792
-585, Attack Of The Falling Sky, Rohan, 1230, Power, 8557
-587, Attack Of Kings Betrayal, Mordor, 327, Love, 7097
-589, Battle Of Vrigh, Mordor, 4237, Terrytory, 9661
-591, Siege Of Pikiht, Harad, 5153, Love, 5883
-590, Battle Of Vlun, Harad, 2448, Future, 3187
-592, Battle Of Srewogh, Gondor, 4331, Love, 5537
-593, Attack Of Independence, Lost Lands, 738, Power, 1346
-594, Siege Of Hell, Harad, 6565, Vengeance, 916
-596, Siege Of Flib, Numenor, 7535, Life, 7432
-595, Siege Of The Burning Forest, Harad, 4991, Future, 1181
-598, Battle Of Storms, Gondor, 2479, Love, 6469
-597, Attack Of Groxoh, Numenor, 7765, Love, 8425
-599, Attack Of Storms, Numenor, 1334, Resourses, 9907
-600, Attack Of Maidens, Numenor, 2218, Resourses, 4853
-601, Siege Of Exploding Mountains, Numenor, 5167, Love, 1370
-602, Siege Of Maps, Lost Lands, 4074, Future, 8599
-603, Attack Of Flawoh, Rohan, 6826, Resourses, 7524
-604, Attack Of Qruoh, Numenor, 4882, Love, 4682
-605, Assault Of Trust, Gondor, 5988, Life, 5335
-606, Siege Of The Eclipse, Harad, 616, Vengeance, 1924
-607, Battle Of Starvation, Harad, 2032, Terrytory, 5891
-608, Battle Of Resources, Gondor, 4172, Life, 6227
-609, Siege Of Lust, Mordor, 7612, Power, 3392
-610, Assault Of Slaz, Rohan, 6255, Vengeance, 6236
-611, Battle Of Dishonesty, Harad, 5392, Money, 1333
-588, Siege Of Vile Actions, Rohan, 5914, Power, 7571
-586, Battle Of The Scorching Lands, Rohan, 2597, Life, 7156
-614, Siege Of Hallow Hill, Harad, 4230, Money, 140
-615, Battle Of Purification, Mordor, 7381, Life, 1592
-612, Battle Of Pawns, Rohan, 7378, Money, 9131
-616, Battle Of Krulst, Gondor, 7295, Love, 6061
-619, Battle Of Dusogh, Gondor, 3803, Life, 5302
-620, Assault Of The Light, Gondor, 7650, Money, 67
-618, Battle Of Qrolag, Rohan, 2134, Resourses, 4210
-621, Battle Of The Nomads, Lost Lands, 6577, Life, 5191
-623, Assault Of Ignorance, Rohan, 4142, Terrytory, 9816
-622, Battle Of Beliefs, Mordor, 2787, Terrytory, 4692
-626, Attack Of Ahr, Gondor, 5379, Power, 9145
-613, Attack Of Lost Sons, Harad, 3156, Love, 4032
-624, Battle Of Mad Kings, Mordor, 5710, Vengeance, 1255
-627, Battle Of Wrefig, Lost Lands, 7658, Resourses, 9599
-629, Attack Of Mad Minds, Mordor, 1917, Terrytory, 8962
-630, Battle Of Loyalties, Harad, 2055, Resourses, 1219
-628, Battle Of Iegh, Harad, 2341, Love, 1482
-631, Attack Of Courage, Gondor, 2431, Life, 9422
-632, Attack Of Loyalties, Mordor, 2124, Love, 6694
-633, Attack Of Lost Security, Gondor, 3287, Resourses, 1223
-634, Attack Of Ancients, Numenor, 2692, Love, 328
-635, Attack Of Drelz, Gondor, 3985, Life, 4155
-574, Siege Of The Oppressor, Mordor, 3433, Love, 2253
-636, Attack Of Muah, Harad, 7753, Love, 4373
-637, Battle Of Chiefs, Rohan, 7669, Life, 6375
-639, Battle Of Unforseen Victory, Numenor, 1185, Love, 500
-640, Battle Of Naive Trust, Gondor, 557, Terrytory, 4320
-642, Assault Of Plums, Harad, 1028, Money, 3636
-641, Assault Of Nilp, Harad, 7259, Life, 4383
-644, Assault Of The True Prophet, Mordor, 4619, Future, 1427
-643, Attack Of Klejih, Gondor, 6310, Future, 6253
-646, Battle Of Kings Betrayal, Lost Lands, 1600, Power, 565
-645, Battle Of Broken Pacts, Harad, 3879, Money, 676
-647, Assault Of Wryb, Harad, 285, Love, 7051
-649, Assault Of Closyd, Harad, 473, Money, 2443
-648, Siege Of Slamuht, Harad, 6786, Terrytory, 4806
-650, Siege Of False Promises, Numenor, 5946, Power, 8137
-651, Battle Of Naive Trust, Lost Lands, 5702, Vengeance, 7908
-653, Battle Of Poisoned Minds, Gondor, 3404, Terrytory, 8223
-652, Battle Of Chemistry, Gondor, 72, Power, 3432
-654, Attack Of Steel, Gondor, 29, Future, 1871
-655, Siege Of Vihz, Harad, 810, Power, 1160
-625, Battle Of The Risen, Lost Lands, 7173, Terrytory, 9646
-658, Battle Of Elig, Harad, 4357, Love, 3039
-657, Assault Of Gaded, Numenor, 7807, Future, 1491
-659, Siege Of The Peaks, Rohan, 173, Resourses, 3285
-660, Battle Of The Ancestors, Harad, 1919, Love, 5473
-662, Battle Of Last Resorts, Numenor, 2223, Money, 4879
-661, Battle Of Eternal Fires, Lost Lands, 430, Future, 5494
-663, Battle Of Poisoned Minds, Mordor, 988, Money, 3678
-664, Siege Of Klirst, Lost Lands, 596, Money, 5881
-666, Assault Of Dread, Rohan, 5671, Future, 2138
-665, Battle Of Imm, Rohan, 6757, Resourses, 5711
-667, Battle Of The Dead Sea, Gondor, 3916, Love, 7383
-656, Battle Of Ax, Mordor, 4455, Money, 3102
-670, Battle Of The Peaks, Lost Lands, 2744, Resourses, 7649
-671, Attack Of Deception, Gondor, 4277, Life, 1708
-669, Battle Of Mad Minds, Numenor, 2494, Vengeance, 2532
-668, Battle Of Fools, Rohan, 1663, Love, 9597
-638, Battle Of The Peaks, Lost Lands, 2274, Resourses, 3439
-675, Battle Of White Mountain, Gondor, 4388, Terrytory, 9417
-672, Siege Of Devotion, Harad, 7993, Resourses, 5957
-676, Battle Of Open Seas, Lost Lands, 7676, Money, 7115
-677, Battle Of Iron, Rohan, 3778, Power, 3225
-679, Siege Of The Black Scar, Gondor, 5370, Power, 2772
-678, Assault Of White Mountain, Lost Lands, 4376, Terrytory, 1739
-680, Siege Of The Atlantic, Rohan, 7769, Power, 2111
-681, Battle Of Prulf, Rohan, 1954, Vengeance, 2035
-682, Assault Of Gleb, Harad, 2076, Power, 2678
-683, Battle Of Ayg, Gondor, 7167, Resourses, 6906
-684, Battle Of Dradug, Harad, 7871, Terrytory, 6090
-685, Battle Of The Scourge, Gondor, 591, Money, 5519
-674, Siege Of Clufeht, Lost Lands, 4449, Love, 4632
-686, Siege Of Total Destruction, Lost Lands, 4980, Power, 5759
-689, Attack Of Eternal Suffering, Lost Lands, 2694, Terrytory, 3578
-688, Assault Of The Oppressor, Numenor, 799, Terrytory, 2816
-691, Battle Of Irigh, Rohan, 7435, Money, 772
-690, Attack Of Wroms, Harad, 6168, Power, 1611
-692, Assault Of Mapod, Harad, 808, Vengeance, 1213
-693, Battle Of The Eternal Day, Harad, 7421, Power, 4716
-694, Battle Of Mad Minds, Mordor, 4137, Life, 3800
-696, Battle Of Pests, Gondor, 7719, Resourses, 6425
-695, Assault Of Kings Hill, Gondor, 6826, Resourses, 1615
-697, Siege Of Death's Rise, Mordor, 7680, Terrytory, 1963
-698, Battle Of Troms, Mordor, 3137, Love, 5953
-699, Battle Of Club, Numenor, 5515, Life, 6465
-700, Battle Of Strinagh, Rohan, 4125, Love, 2747
-701, Battle Of Vluxib, Numenor, 5108, Power, 8518
-702, Assault Of Attrition, Mordor, 1779, Love, 6892
-703, Attack Of Allies, Gondor, 532, Vengeance, 4410
-617, Battle Of Tryb, Lost Lands, 3671, Money, 7045
-706, Attack Of The Scourge, Numenor, 1808, Resourses, 7929
-704, Attack Of Mad Minds, Lost Lands, 1652, Vengeance, 1599
-705, Battle Of Total Domination, Lost Lands, 4397, Resourses, 2516
-709, Siege Of Brykiht, Rohan, 5113, Life, 2262
-708, Battle Of Slips, Gondor, 1659, Future, 3189
-710, Attack Of Zytih, Rohan, 369, Vengeance, 6419
-711, Siege Of Total Destruction, Mordor, 3426, Power, 4187
-712, Attack Of Hallow Hill, Harad, 4974, Future, 9842
-713, Battle Of Broken Dreams, Numenor, 4781, Resourses, 3457
-714, Battle Of The Ancestors, Mordor, 7532, Future, 4766
-715, Battle Of The Eternal Day, Mordor, 2556, Life, 7673
-716, Battle Of Hosp, Rohan, 7891, Money, 378
-718, Siege Of Slogiht, Lost Lands, 5162, Money, 7874
-719, Battle Of Mad Minds, Gondor, 3107, Resourses, 1278
-673, Assault Of Olf, Gondor, 5381, Resourses, 2212
-687, Attack Of The Blood River, Mordor, 7723, Resourses, 7687
-722, Siege Of Grark, Numenor, 3038, Vengeance, 4078
-721, Battle Of Eternal Bombardments, Mordor, 4780, Money, 604
-723, Siege Of Drahsh, Mordor, 1064, Love, 9823
-724, Battle Of Qryzag, Numenor, 5265, Money, 7040
-720, Siege Of Equality, Lost Lands, 783, Power, 7050
-726, Assault Of The Blood River, Lost Lands, 3143, Future, 300
-725, Siege Of Plajyht, Gondor, 4090, Future, 9759
-728, Assault Of Differences, Gondor, 1795, Vengeance, 3321
-727, Battle Of Widows, Harad, 257, Resourses, 8025
-707, Attack Of Gryb, Harad, 4429, Vengeance, 532
-729, Battle Of Glimmering Hope, Numenor, 6869, Vengeance, 8323
-732, Battle Of Cutug, Lost Lands, 3392, Resourses, 6824
-734, Battle Of Burning Lands, Rohan, 1994, Life, 1007
-735, Battle Of The False Prophet, Lost Lands, 2469, Power, 2594
-730, Attack Of Fut, Rohan, 4467, Money, 4659
-731, Battle Of Gusk, Lost Lands, 7911, Life, 2096
-739, Battle Of Dictators, Gondor, 5016, Resourses, 6943
-737, Attack Of Glorious Conquests, Harad, 6738, Terrytory, 3046
-740, Battle Of Crihq, Lost Lands, 5459, Money, 847
-738, Battle Of The True Prophet, Lost Lands, 1043, Resourses, 6563
-742, Attack Of Clyjeh, Rohan, 5066, Life, 5496
-741, Siege Of Guyht, Gondor, 7723, Future, 4514
-744, Battle Of The High Seas, Numenor, 7850, Life, 8620
-743, Siege Of Tribulation, Rohan, 5444, Power, 1704
-745, Siege Of Wits, Rohan, 7296, Vengeance, 7458
-717, Battle Of Gleigh, Harad, 2476, Money, 4326
-733, Battle Of Cyxib, Numenor, 6693, Life, 1639
-748, Attack Of Vrulz, Rohan, 1654, Money, 1765
-749, Assault Of Jivyd, Gondor, 5226, Love, 6695
-750, Battle Of Death's Rise, Rohan, 2747, Terrytory, 4803
-752, Assault Of Vile Actions, Lost Lands, 5200, Resourses, 5613
-753, Battle Of Total Domination, Numenor, 7651, Terrytory, 3809
-751, Battle Of Scimitars, Numenor, 5487, Money, 69
-754, Siege Of Crad, Lost Lands, 4878, Money, 2755
-756, Battle Of Blagub, Mordor, 4870, Money, 2651
-755, Siege Of Ohq, Numenor, 6406, Power, 8323
-757, Attack Of Kriweh, Gondor, 5929, Terrytory, 4398
-758, Attack Of Lust, Harad, 6872, Life, 5017
-760, Siege Of Broken Dreams, Gondor, 2057, Resourses, 4134
-759, Assault Of The Rebellion, Lost Lands, 4807, Future, 7943
-762, Battle Of Mad Bulls, Gondor, 5963, Life, 2287
-761, Battle Of The Planet, Mordor, 1900, Resourses, 433
-763, Attack Of Broken Bones, Lost Lands, 1065, Vengeance, 1857
-764, Battle Of Krog, Gondor, 6693, Power, 7254
-765, Assault Of Frals, Gondor, 3237, Resourses, 4164
-766, Siege Of Iduht, Rohan, 506, Vengeance, 2270
-767, Siege Of Wrokuht, Harad, 6269, Life, 7356
-768, Battle Of The Broken Mountain, Harad, 2630, Future, 3789
-769, Battle Of Storms, Gondor, 1327, Future, 707
-736, Battle Of The Shores, Harad, 367, Life, 2233
-770, Siege Of New Orphans, Numenor, 2009, Money, 7088
-773, Assault Of Corrupted Lands, Numenor, 7028, Future, 3420
-772, Assault Of The Frozen Harbor, Lost Lands, 7987, Terrytory, 2312
-775, Battle Of Paqib, Gondor, 2432, Terrytory, 2596
-774, Battle Of Wrakx, Gondor, 4735, Terrytory, 6783
-746, Assault Of Broken Bones, Lost Lands, 1391, Money, 7409
-747, Battle Of Vengeance, Mordor, 7428, Vengeance, 5994
-779, Attack Of Burning Lands, Harad, 4363, Love, 3114
-776, Battle Of Plodyb, Gondor, 4440, Vengeance, 7649
-778, Battle Of The Light, Numenor, 5233, Money, 815
-781, Battle Of Silence, Harad, 2402, Money, 1732
-782, Attack Of Cemm, Lost Lands, 4527, Money, 7153
-783, Battle Of Tloheg, Mordor, 2560, Love, 2537
-785, Siege Of The Planet, Gondor, 2963, Love, 9471
-784, Battle Of Terror, Gondor, 5395, Money, 9015
-786, Battle Of Differences, Lost Lands, 3158, Terrytory, 1304
-788, Battle Of The Dark, Mordor, 1881, Love, 3073
-787, Battle Of Exploding Mountains, Gondor, 364, Future, 197
-790, Battle Of Zohst, Harad, 4748, Power, 5741
-789, Attack Of Broken Homes, Numenor, 7472, Terrytory, 7535
-791, Attack Of Pests, Harad, 6796, Terrytory, 2602
-793, Battle Of Last Rites, Gondor, 1622, Money, 3405
-792, Attack Of Death's Fall, Mordor, 3427, Power, 9490
-794, Attack Of Tenacity, Rohan, 2203, Money, 6210
-795, Siege Of Hilz, Mordor, 1115, Money, 1106
-797, Battle Of Truzogh, Lost Lands, 1673, Power, 1622
-796, Attack Of Puqeh, Mordor, 4857, Resourses, 5639
-798, Assault Of Silence, Gondor, 348, Life, 2723
-799, Siege Of The Burning Sea, Rohan, 5625, Resourses, 7001
-800, Battle Of Death's Fall, Harad, 4862, Terrytory, 197
-802, Battle Of The Dieing Forest, Numenor, 6514, Future, 4045
-801, Battle Of Kings Hill, Rohan, 2816, Life, 9237
-771, Battle Of The Blood River, Harad, 5055, Life, 1057
-803, Siege Of Horrors, Lost Lands, 1533, Vengeance, 8647
-806, Battle Of Nosab, Mordor, 6384, Vengeance, 7013
-805, Attack Of Wruq, Lost Lands, 7377, Terrytory, 7052
-808, Battle Of Fallen Angels, Lost Lands, 3523, Money, 1812
-807, Battle Of Pests, Numenor, 5354, Resourses, 9523
-804, Assault Of Sript, Numenor, 1961, Future, 9720
-810, Battle Of Broken Mountains, Harad, 6518, Vengeance, 6568
-811, Siege Of The Fiery Lake, Rohan, 2885, Vengeance, 2617
-812, Battle Of Spies, Numenor, 4593, Life, 5594
-814, Siege Of Kril, Lost Lands, 7605, Resourses, 6370
-780, Assault Of Treason, Lost Lands, 2047, Love, 8991
-815, Attack Of Tinih, Gondor, 5462, Terrytory, 4511
-817, Battle Of Broken Dreams, Numenor, 7930, Love, 5398
-818, Battle Of Poisoned Crops, Mordor, 6837, Power, 9804
-816, Siege Of Pawns, Lost Lands, 2196, Love, 3480
-819, Battle Of Mercy, Lost Lands, 5324, Love, 5527
-820, Attack Of The Eternal Night, Harad, 2370, Vengeance, 6157
-821, Assault Of The Falling Sky, Lost Lands, 366, Terrytory, 4541
-823, Battle Of Faq, Gondor, 1622, Vengeance, 3859
-822, Battle Of Hemm, Mordor, 2868, Vengeance, 6764
-824, Battle Of Crujug, Harad, 4733, Power, 2372
-825, Battle Of The Burning Sea, Gondor, 3615, Power, 3503
-827, Battle Of Ignorance, Lost Lands, 3865, Vengeance, 8815
-826, Siege Of Resources, Gondor, 6140, Love, 4059
-828, Attack Of Eternal Fires, Mordor, 4093, Money, 7378
-829, Battle Of Covert Actions, Gondor, 4864, Vengeance, 2218
-830, Battle Of Burning Plains, Numenor, 4184, Resourses, 2866
-777, Battle Of Ivory, Numenor, 3884, Vengeance, 8002
-813, Battle Of Cylk, Gondor, 2842, Future, 1747
-834, Attack Of Qlufoh, Harad, 3164, Future, 7681
-832, Attack Of Kross, Harad, 6513, Love, 6728
-835, Battle Of Horrors, Gondor, 2999, Money, 2387
-836, Attack Of The Infested, Mordor, 4831, Money, 2702
-837, Battle Of Storms, Mordor, 3683, Resourses, 5156
-838, Attack Of Or, Numenor, 3, Money, 5598
-840, Assault Of Regrets, Harad, 1045, Future, 3677
-841, Battle Of Delirium, Lost Lands, 6841, Love, 5583
-843, Battle Of Strirst, Numenor, 1763, Future, 5513
-809, Siege Of Burning Fields, Gondor, 548, Life, 5937
-842, Siege Of Bows, Harad, 6175, Love, 811
-844, Siege Of Roiht, Harad, 333, Terrytory, 8865
-845, Attack Of Vaweh, Numenor, 4003, Vengeance, 211
-846, Assault Of False Prophets, Harad, 4813, Vengeance, 4287
-847, Battle Of Kings Mountain, Harad, 3295, Vengeance, 3626
-849, Assault Of Liberty, Harad, 6706, Vengeance, 2228
-831, Battle Of Op, Numenor, 4578, Terrytory, 7506
-850, Attack Of Corrupted Lands, Rohan, 1321, Money, 9843
-851, Battle Of Widows, Lost Lands, 7716, Future, 123
-852, Battle Of Qrap, Harad, 3950, Money, 1768
-853, Battle Of Evugh, Gondor, 4803, Life, 8675
-854, Attack Of Mad Kings, Mordor, 6936, Money, 1569
-855, Battle Of Broken Wills, Harad, 1617, Love, 5886
-857, Battle Of Iron, Numenor, 5758, Life, 4645
-839, Battle Of The Scourge, Lost Lands, 1657, Resourses, 3849
-859, Siege Of Tlil, Mordor, 6024, Future, 2221
-858, Attack Of Loyalties, Numenor, 7942, Life, 3320
-860, Attack Of Cynuh, Mordor, 5765, Resourses, 14
-861, Assault Of Hell, Rohan, 3360, Terrytory, 9315
-863, Battle Of Purification, Rohan, 2219, Life, 5256
-856, Attack Of Lost Friends, Mordor, 4029, Life, 5358
-864, Battle Of Naive Trust, Gondor, 5433, Terrytory, 6008
-865, Siege Of Silence, Mordor, 3522, Resourses, 806
-868, Attack Of Stuluh, Harad, 2137, Vengeance, 6083
-867, Battle Of Kloph, Harad, 3645, Life, 9610
-866, Battle Of White Mountain, Gondor, 5481, Terrytory, 6291
-869, Siege Of Courage, Harad, 2191, Resourses, 7772
-870, Siege Of Tycoons, Mordor, 111, Money, 2467
-871, Battle Of Exploding Mountains, Numenor, 6563, Vengeance, 29
-872, Battle Of The False Prophet, Lost Lands, 4488, Power, 4718
-875, Battle Of Ekig, Numenor, 1863, Life, 5333
-873, Battle Of Crult, Harad, 3777, Resourses, 5573
-874, Battle Of Blinn, Rohan, 3685, Resourses, 6504
-876, Battle Of Gryrab, Mordor, 5185, Terrytory, 2097
-877, Attack Of Chemistry, Rohan, 1328, Future, 3061
-879, Battle Of Burning Lands, Lost Lands, 111, Resourses, 1493
-878, Siege Of Bows, Harad, 5528, Love, 5012
-880, Assault Of The Retreating Ocean, Mordor, 4686, Future, 6745
-881, Battle Of Roht, Harad, 63, Love, 6525
-883, Assault Of Vavud, Rohan, 4481, Resourses, 7918
-882, Battle Of Vik, Rohan, 50, Future, 7655
-885, Battle Of The Curse, Rohan, 1942, Resourses, 8949
-884, Attack Of Piwih, Rohan, 5420, Power, 5648
-886, Battle Of The Black Scar, Mordor, 4138, Life, 9927
-887, Battle Of Terror, Harad, 5553, Money, 2789
-888, Battle Of New Hope, Lost Lands, 1394, Future, 1767
-889, Assault Of Starvation, Harad, 7435, Money, 6497
-890, Battle Of Gnur, Lost Lands, 2665, Terrytory, 9775
-891, Battle Of Johs, Gondor, 7068, Vengeance, 7547
-892, Assault Of Grorod, Numenor, 7945, Vengeance, 6441
-893, Battle Of Glimmering Hope, Lost Lands, 4529, Vengeance, 7751
-894, Battle Of Terror, Mordor, 2394, Terrytory, 2394
-896, Battle Of Burning Lands, Rohan, 4406, Resourses, 9709
-895, Battle Of The Infested, Harad, 3096, Terrytory, 3152
-897, Attack Of Ancients, Rohan, 4490, Terrytory, 2681
-898, Battle Of Blomm, Gondor, 1765, Vengeance, 5631
-900, Battle Of Graeg, Mordor, 183, Resourses, 5941
-899, Attack Of Knahz, Numenor, 3115, Power, 9803
-902, Siege Of The Apocalypse, Mordor, 6333, Love, 2925
-901, Battle Of The Broken Mountain, Numenor, 2049, Power, 7122
-848, Assault Of Allies, Mordor, 317, Money, 8550
-903, Battle Of Broken Minds, Rohan, 2073, Vengeance, 7835
-906, Battle Of Pests, Lost Lands, 7365, Power, 7832
-905, Attack Of The False Prophet, Lost Lands, 5302, Resourses, 8175
-833, Battle Of Pruwub, Rohan, 5968, Terrytory, 2715
-904, Attack Of Frozen Fires, Lost Lands, 1845, Future, 1348
-909, Battle Of Xifugh, Mordor, 4912, Life, 8801
-907, Attack Of Tert, Gondor, 612, Vengeance, 7799
-912, Attack Of Tenacity, Lost Lands, 3740, Love, 6100
-911, Assault Of Burning Fields, Lost Lands, 4127, Resourses, 7521
-913, Battle Of Broken Bones, Mordor, 1947, Resourses, 8991
-914, Battle Of High Tide, Numenor, 4772, Future, 3422
-915, Battle Of The Atlantic, Mordor, 6850, Vengeance, 9224
-916, Assault Of Vlons, Rohan, 3983, Life, 7437
-917, Battle Of Riceb, Harad, 3701, Terrytory, 2691
-918, Siege Of Stubuht, Numenor, 7213, Future, 9443
-920, Assault Of Kings Mountain, Harad, 364, Life, 7830
-919, Battle Of Death's Rise, Lost Lands, 302, Future, 9343
-921, Battle Of Brothers, Mordor, 1645, Vengeance, 4266
-922, Battle Of Vile Men, Numenor, 5307, Love, 973
-924, Battle Of Jirst, Lost Lands, 4118, Love, 8427
-923, Assault Of The Falling Sky, Lost Lands, 2458, Terrytory, 4212
-926, Battle Of Drocogh, Gondor, 7313, Resourses, 8555
-925, Battle Of Kreg, Numenor, 3893, Life, 6097
-927, Battle Of Qriligh, Numenor, 7938, Life, 6370
-929, Attack Of Utopia, Numenor, 2006, Love, 7596
-928, Battle Of Tenacity, Rohan, 1028, Future, 4349
-930, Battle Of Impending Doom, Mordor, 7904, Terrytory, 94
-931, Battle Of Advisors, Harad, 6140, Terrytory, 8488
-932, Siege Of Cowards, Mordor, 7692, Resourses, 9635
-908, Siege Of Ogh, Harad, 6214, Love, 4098
-934, Battle Of Ok, Rohan, 3622, Life, 6581
-935, Battle Of Writib, Gondor, 6581, Power, 4333
-937, Siege Of The Peaks, Rohan, 6685, Future, 3066
-933, Siege Of Xihr, Lost Lands, 7089, Future, 506
-936, Battle Of The True King, Gondor, 5920, Resourses, 6157
-939, Battle Of Impending Doom, Rohan, 1224, Life, 8882
-940, Siege Of Broken Dreams, Lost Lands, 150, Future, 8936
-942, Assault Of Sal, Numenor, 2933, Resourses, 9762
-941, Battle Of The Risen, Harad, 2870, Money, 6265
-943, Battle Of Slorq, Lost Lands, 6806, Resourses, 8409
-944, Battle Of Biyg, Rohan, 6298, Money, 7795
-862, Battle Of Insanity, Gondor, 7666, Future, 7086
-947, Battle Of Spies, Harad, 4094, Resourses, 6665
-948, Battle Of Tuhs, Harad, 7906, Power, 1970
-946, Assault Of Final Rests, Rohan, 6066, Resourses, 2249
-949, Siege Of Gooht, Mordor, 97, Life, 1338
-945, Battle Of Deception, Mordor, 6767, Resourses, 5460
-910, Battle Of Gisagh, Lost Lands, 6914, Life, 5289
-952, Attack Of Broken Minds, Rohan, 6426, Love, 1412
-953, Battle Of Dishonesty, Lost Lands, 2716, Future, 3841
-954, Siege Of Loyalties, Numenor, 2771, Vengeance, 4831
-955, Battle Of Rirk, Harad, 7453, Future, 2737
-956, Assault Of Abed, Numenor, 2371, Terrytory, 446
-957, Battle Of Pluugh, Lost Lands, 2505, Money, 1105
-959, Siege Of Tycoons, Gondor, 5678, Money, 8495
-951, Battle Of Courage, Numenor, 5870, Terrytory, 4643
-960, Battle Of The Drained Sea, Numenor, 5494, Money, 2993
-961, Siege Of Srerst, Rohan, 1604, Love, 5549
-938, Assault Of Trust, Gondor, 3731, Future, 3083
-958, Attack Of Pests, Lost Lands, 6780, Life, 196
-962, Siege Of Frop, Numenor, 6599, Love, 9908
-963, Battle Of Independence, Rohan, 7556, Life, 625
-964, Battle Of Justice, Lost Lands, 803, Future, 314
-965, Attack Of Fallen Angels, Rohan, 7368, Resourses, 9425
-967, Battle Of The Night, Lost Lands, 27, Future, 9897
-966, Battle Of The Planet, Harad, 5820, Love, 6117
-968, Battle Of Aq, Lost Lands, 3482, Life, 7776
-970, Battle Of Mueg, Harad, 5725, Life, 4751
-969, Battle Of Nonegh, Mordor, 7283, Resourses, 8342
-972, Siege Of Silence, Rohan, 7458, Future, 9828
-973, Siege Of Nature, Rohan, 1230, Vengeance, 133
-971, Battle Of Broken Laws, Mordor, 5522, Life, 575
-975, Siege Of The Drained Sea, Gondor, 4851, Life, 4286
-974, Battle Of The Burning Forest, Rohan, 3876, Vengeance, 5177
-977, Attack Of Slis, Harad, 7653, Money, 7724
-978, Battle Of Qrobagh, Lost Lands, 6862, Power, 1011
-976, Siege Of Red Waters, Harad, 3076, Vengeance, 7292
-979, Battle Of Qraagh, Numenor, 7755, Money, 9128
-980, Attack Of Broken Love, Harad, 1797, Vengeance, 7336
-981, Siege Of The Red Mountain, Rohan, 1009, Love, 6869
-984, Assault Of Wrohs, Harad, 1034, Vengeance, 767
-982, Battle Of Beliefs, Gondor, 202, Terrytory, 730
-950, Battle Of Tryig, Mordor, 6657, Love, 6098
-987, Attack Of Fear, Mordor, 6181, Life, 4917
-988, Battle Of Freedom, Numenor, 6370, Life, 1431
-989, Battle Of Terror, Gondor, 4519, Money, 7276
-990, Siege Of Wuns, Gondor, 5800, Future, 1256
-991, Battle Of Blahx, Gondor, 110, Love, 613
-992, Battle Of Noib, Rohan, 4222, Life, 8172
-993, Attack Of Pafoh, Harad, 1162, Power, 9916
-994, Battle Of Delirium, Mordor, 5694, Money, 5463
-995, Battle Of The Ancestors, Rohan, 7104, Life, 9121
-996, Attack Of Kings Hill, Gondor, 5735, Future, 6667
-997, Attack Of Regrets, Mordor, 5291, Love, 8076
-998, Battle Of Vrirq, Lost Lands, 4803, Resourses, 5110
-999, Battle Of Qehn, Lost Lands, 1576, Money, 1361
-1001, Attack Of Wraxoh, Mordor, 4373, Power, 6571
-1000, Siege Of Tlaceht, Rohan, 7134, Money, 6799
-1003, Siege Of The Oppressor, Gondor, 3979, Love, 310
-1004, Assault Of False Prophets, Mordor, 1505, Power, 7011
-983, Attack Of Tyrants, Gondor, 6795, Future, 4194
-1005, Siege Of Frozen Lakes, Lost Lands, 4282, Terrytory, 5537
-1006, Siege Of Storms, Mordor, 6347, Power, 9929
-1007, Battle Of Grist, Lost Lands, 11, Money, 6056
-1008, Assault Of Tryxed, Harad, 1640, Vengeance, 7293
-986, Assault Of Imbalance, Gondor, 7941, Life, 9261
-1009, Battle Of Insanity, Rohan, 3483, Money, 5683
-1010, Attack Of Tenacity, Mordor, 5518, Terrytory, 9153
-1012, Battle Of The Red Mountain, Numenor, 1259, Resourses, 6086
-1013, Battle Of Pramm, Rohan, 6472, Future, 3805
-1011, Battle Of Tribulation, Lost Lands, 653, Money, 9133
-1014, Battle Of Creag, Numenor, 458, Love, 2040
-1002, Battle Of Advisors, Harad, 3947, Money, 8603
-985, Battle Of Gryugh, Gondor, 7594, Money, 6257
-1015, Battle Of Hafug, Numenor, 652, Life, 5019
-1016, , Numenor, 4334, Money, 7049
+1,Battle Of Spies,Harad,7030,Power,8946
+3,Siege Of Differences,Mordor,4649,Love,7607
+2,Battle Of Fallen Angels,Lost Lands,3268,Life,4510
+5,Battle Of Dirt,Numenor,5078,Future,2440
+6,Siege Of Cyzoht,Mordor,1236,Power,812
+10,Attack Of Lust,Lost Lands,5168,Love,8779
+8,Battle Of New Orphans,Lost Lands,5864,Terrytory,6529
+11,Siege Of Starvation,Gondor,6309,Life,8119
+12,Attack Of Punt,Rohan,2181,Vengeance,8352
+14,Assault Of Pasud,Gondor,7573,Power,953
+13,Siege Of Mupt,Harad,6307,Life,3947
+15,Battle Of Clypigh,Gondor,2673,Life,823
+17,Siege Of Gold,Harad,884,Money,5117
+16,Attack Of False Promises,Gondor,7296,Future,2156
+18,Battle Of Brothers,Rohan,5716,Life,1904
+19,Assault Of Fear,Harad,1234,Life,6420
+21,Battle Of Dent,Harad,734,Terrytory,7589
+20,Battle Of Broken Bones,Numenor,3077,Power,5569
+22,Attack Of Pryk,Mordor,2521,Resourses,8732
+23,Attack Of Cleoh,Lost Lands,5864,Love,3518
+24,Battle Of Tenacity,Mordor,3725,Power,5416
+26,Attack Of The Betrayed,Lost Lands,7936,Power,1531
+25,Siege Of Gold,Mordor,5243,Love,727
+28,Battle Of Jox,Lost Lands,4571,Terrytory,4275
+27,Battle Of The Molten Mountain,Numenor,5457,Future,4493
+29,Attack Of Vig,Gondor,6929,Money,8987
+30,Assault Of Briled,Lost Lands,5217,Power,6735
+31,Assault Of Starvation,Harad,187,Power,191
+32,Siege Of Unsung Heroes,Mordor,6409,Power,7986
+34,Attack Of Loyalties,Gondor,1740,Life,6070
+4,Battle Of Brol,Harad,1492,Terrytory,1415
+35,Siege Of Cuks,Gondor,1145,Future,5717
+36,Battle Of Vryleb,Gondor,2101,Vengeance,1937
+33,Attack Of The Occult,Gondor,5906,Terrytory,7874
+38,Siege Of Executioners,Numenor,4454,Power,4253
+40,Battle Of Pests,Rohan,4748,Terrytory,985
+41,Battle Of Knys,Gondor,1207,Love,6122
+39,Assault Of Tycoons,Mordor,4375,Power,8640
+42,Assault Of Kult,Rohan,1054,Money,1992
+44,Attack Of Fuzih,Mordor,38,Vengeance,229
+45,Battle Of Courage,Harad,1190,Love,7276
+43,Assault Of Dreted,Rohan,7370,Power,9161
+46,Battle Of The Fiery Lake,Lost Lands,4132,Life,5134
+48,Assault Of White Mountain,Lost Lands,7652,Future,2918
+47,Assault Of The High Seas,Numenor,3657,Power,9954
+9,Battle Of Spears,Gondor,4189,Terrytory,5998
+50,Battle Of Pop,Harad,5503,Power,9822
+52,Siege Of Stropuht,Lost Lands,5561,Power,6105
+53,Attack Of Knuxeh,Mordor,3833,Vengeance,75
+54,Battle Of The Dunes,Harad,3862,Future,4599
+51,Attack Of Wylm,Rohan,6034,Terrytory,5281
+56,Battle Of The Chanceless,Harad,7112,Love,7327
+55,Siege Of Heroes,Lost Lands,216,Money,9107
+57,Battle Of Bad Omen,Numenor,5259,Terrytory,6843
+58,Battle Of Ryl,Mordor,6531,Terrytory,7713
+59,Battle Of Kih,Harad,2651,Future,7426
+60,Siege Of Vlyoht,Rohan,4959,Life,1069
+61,Battle Of Qrupog,Mordor,5475,Terrytory,7401
+62,Siege Of Lost Souls,Harad,2452,Power,4010
+7,Assault Of The Scourge,Lost Lands,5778,Money,2484
+63,Attack Of Unsung Heroes,Rohan,764,Money,8478
+65,Battle Of The Dieing Forest,Harad,7046,Future,9073
+66,Attack Of Integrity,Harad,3753,Life,3329
+67,Attack Of Vimt,Harad,4432,Love,1154
+68,Attack Of Kloph,Gondor,7524,Vengeance,6990
+69,Battle Of Vlasag,Lost Lands,5576,Love,7230
+70,Attack Of Lost Brothers,Harad,7254,Money,9267
+72,Siege Of The Planet,Harad,367,Terrytory,783
+71,Attack Of Silence,Harad,5115,Money,9517
+74,Battle Of Ust,Numenor,6230,Terrytory,1362
+37,Siege Of The Dry Sea,Harad,2355,Money,632
+73,Battle Of Delirium,Mordor,1354,Vengeance,6452
+49,Attack Of Purification,Lost Lands,669,Love,4492
+77,Attack Of Lost Brothers,Mordor,2551,Future,9441
+80,Battle Of Delirium,Mordor,2096,Life,430
+79,Siege Of The Planet,Gondor,3908,Love,1237
+78,Attack Of Silence,Harad,4110,Resourses,8089
+81,Battle Of Ust,Mordor,6405,Terrytory,1747
+82,Battle Of Qraeb,Harad,390,Terrytory,8300
+83,Attack Of Vlizuh,Lost Lands,148,Money,681
+64,Battle Of Kings Hill,Lost Lands,5996,Terrytory,7621
+86,Battle Of Naive Trust,Rohan,1184,Vengeance,5873
+85,Battle Of Delirium,Rohan,4513,Power,711
+75,Battle Of Qraeb,Gondor,6413,Power,6538
+88,Assault Of The Chanceless,Gondor,7844,Life,4203
+89,Battle Of Crerf,Mordor,5713,Terrytory,9870
+90,Battle Of Drihx,Numenor,6577,Terrytory,6057
+92,Attack Of Vliuh,Gondor,3383,Future,9691
+93,Attack Of Gold,Numenor,6853,Resourses,6202
+91,Assault Of Daud,Numenor,1499,Love,176
+94,Battle Of Secrets,Harad,4637,Terrytory,5917
+95,Battle Of The Risen,Lost Lands,1534,Love,7184
+84,Battle Of Tyrants,Mordor,4585,Vengeance,9833
+98,Battle Of Pawns,Gondor,2094,Terrytory,8110
+99,Assault Of Warq,Mordor,6303,Future,7329
+97,Attack Of New Allies,Harad,4613,Love,9298
+100,Battle Of Cer,Mordor,3366,Terrytory,473
+87,Siege Of Last Rites,Harad,2623,Love,874
+102,Attack Of Prutoh,Mordor,4304,Love,8973
+103,Attack Of Broken Mountains,Numenor,2098,Power,1083
+104,Battle Of Broken Mountains,Harad,3414,Money,1477
+105,Battle Of The Eclipse,Numenor,4995,Resourses,6809
+107,Battle Of Junn,Harad,7889,Money,1080
+101,Battle Of Jopagh,Harad,5261,Power,4304
+108,Attack Of Demm,Harad,2631,Future,222
+76,Attack Of Vlizuh,Rohan,6907,Power,48
+110,Assault Of Zibad,Gondor,3480,Future,1850
+111,Siege Of Corrupted Lands,Mordor,2544,Love,2048
+112,Battle Of Nature,Lost Lands,1227,Future,3311
+113,Battle Of Bloodthirst,Numenor,5463,Life,9975
+114,Attack Of The Frozen Ocean,Mordor,3833,Life,585
+116,Battle Of Ryhs,Rohan,4870,Power,3613
+96,Battle Of The Void,Numenor,7077,Terrytory,3892
+118,Battle Of Qydog,Harad,2123,Future,3161
+117,Battle Of Xudub,Rohan,6094,Money,667
+119,Battle Of Gold,Harad,5670,Life,9537
+120,Battle Of Scimitars,Lost Lands,2230,Love,5734
+121,Battle Of Total Domination,Mordor,2212,Terrytory,5787
+122,Battle Of Bent Truths,Harad,6135,Terrytory,2783
+124,Assault Of Plynn,Rohan,465,Life,6642
+125,Siege Of Wras,Mordor,4283,Resourses,970
+123,Attack Of The Broken Mountain,Numenor,5039,Vengeance,9176
+126,Battle Of Eqagh,Gondor,5539,Terrytory,8933
+127,Battle Of Beliefs,Mordor,2725,Power,2527
+115,Attack Of Bluhq,Numenor,1314,Power,2522
+128,Assault Of Last Resorts,Gondor,7817,Vengeance,7627
+131,Battle Of The True Prophet,Numenor,6189,Power,8242
+130,Battle Of Mad Minds,Lost Lands,1405,Money,4608
+109,Battle Of Crebeb,Harad,1485,Resourses,9804
+132,Assault Of Ust,Mordor,2234,Life,9268
+134,Assault Of The People,Lost Lands,6536,Money,2926
+135,Battle Of Broken Dreams,Mordor,6760,Love,5180
+137,Battle Of The Towers,Harad,5091,Power,7176
+136,Attack Of Eternal Regrets,Rohan,4430,Life,1866
+138,Attack Of The Black Scar,Mordor,7874,Love,6838
+133,Battle Of Gazagh,Mordor,2838,Power,6195
+141,Battle Of Xihegh,Gondor,6886,Life,814
+142,Siege Of The Dry Sea,Numenor,6377,Money,615
+140,Assault Of Qrokx,Mordor,7599,Resourses,521
+143,Assault Of Mad Minds,Numenor,7984,Life,6247
+144,Battle Of Death's Rise,Rohan,155,Love,9927
+146,Battle Of Spies,Harad,4019,Power,7395
+145,Attack Of The Eternal Day,Lost Lands,1015,Life,6210
+106,Battle Of Ignorance,Mordor,3647,Power,4612
+129,Siege Of Delirium,Rohan,1281,Resourses,302
+148,Battle Of Sum,Lost Lands,4554,Life,5514
+150,Battle Of Dafag,Rohan,1145,Future,474
+152,Battle Of Burning Fields,Mordor,6935,Money,9313
+153,Battle Of The Eclipse,Rohan,4232,Life,7050
+151,Battle Of Exploding Mountains,Rohan,6719,Terrytory,154
+155,Siege Of Terror,Gondor,638,Life,9351
+149,Siege Of Weceht,Gondor,7191,Money,9303
+156,Battle Of Nightmares,Harad,7714,Terrytory,1938
+157,Battle Of Rihl,Numenor,3602,Vengeance,2706
+159,Battle Of Siwug,Gondor,4622,Future,8557
+158,Attack Of Streps,Numenor,4806,Terrytory,5686
+160,Battle Of Groub,Gondor,7156,Future,2422
+161,Siege Of Broken Minds,Mordor,2123,Vengeance,1287
+139,Attack Of Imbalance,Numenor,1951,Terrytory,6078
+162,Battle Of Liberty,Gondor,1237,Money,3033
+164,Siege Of Nightmares,Numenor,2719,Vengeance,9187
+154,Battle Of Broken Bones,Mordor,5841,Money,9783
+166,Battle Of Ehl,Harad,3955,Vengeance,5703
+167,Attack Of Gihih,Mordor,6971,Future,6594
+168,Battle Of Paxub,Harad,1455,Resourses,5619
+169,Siege Of The Red Mountain,Rohan,5052,Future,2786
+170,Battle Of Red Waters,Mordor,1077,Vengeance,2553
+172,Assault Of Ancients,Numenor,6726,Money,7560
+171,Siege Of Fools,Harad,4709,Money,9468
+165,Assault Of Dishonesty,Gondor,3437,Vengeance,5169
+174,Assault Of Vim,Mordor,1502,Future,881
+175,Battle Of Sloveb,Rohan,5280,Money,7232
+173,Assault Of Trust,Gondor,1734,Resourses,1809
+147,Battle Of Secrets,Mordor,7171,Future,9099
+178,Attack Of Total Destruction,Harad,1967,Resourses,5460
+181,Attack Of Mab,Rohan,6566,Vengeance,2114
+179,Battle Of The True King,Lost Lands,992,Future,4661
+180,Assault Of Frumt,Gondor,2231,Power,8801
+182,Siege Of Nexuht,Gondor,772,Vengeance,8617
+183,Battle Of Woob,Mordor,365,Vengeance,77
+186,Assault Of The Frozen Ocean,Rohan,1196,Power,8101
+184,Attack Of Plagued Fires,Harad,3876,Terrytory,8165
+187,Attack Of Titans,Rohan,3635,Life,4893
+185,Battle Of Burning Lands,Mordor,2621,Terrytory,7072
+188,Battle Of Eternal Fires,Mordor,6093,Vengeance,1478
+163,Attack Of The Occult,Mordor,4620,Life,2977
+176,Battle Of The Eclipse,Lost Lands,3921,Resourses,9626
+191,Assault Of Vryfed,Lost Lands,271,Love,5092
+192,Attack Of Starvation,Mordor,3082,Future,8868
+193,Siege Of The Burning Sea,Mordor,4495,Resourses,3578
+189,Assault Of The Apocalypse,Numenor,6565,Resourses,2165
+195,Battle Of Eternal Suffering,Lost Lands,7280,Resourses,5132
+194,Attack Of The Occult,Mordor,5448,Power,6906
+197,Battle Of Grirf,Gondor,6688,Life,3326
+199,Battle Of Broken Pacts,Lost Lands,1136,Vengeance,9427
+196,Battle Of Krish,Gondor,1303,Terrytory,8145
+190,Battle Of Wurk,Mordor,7746,Power,7517
+200,Siege Of Titans,Lost Lands,2521,Resourses,3378
+202,Battle Of Broken Love,Numenor,347,Terrytory,1283
+203,Battle Of Broken Bones,Rohan,4848,Power,3989
+205,Battle Of Joh,Gondor,221,Money,3947
+204,Battle Of Feln,Lost Lands,3553,Vengeance,8209
+177,Battle Of The Occult,Numenor,7119,Future,1356
+198,Attack Of Figoh,Mordor,2361,Future,2769
+207,Battle Of The Homeless,Lost Lands,7650,Resourses,8896
+209,Battle Of Deception,Lost Lands,4220,Future,4842
+210,Battle Of Vile Men,Rohan,4498,Love,1253
+211,Battle Of Poisoned Minds,Numenor,4611,Vengeance,3849
+212,Battle Of Vlyg,Rohan,7799,Resourses,7655
+206,Battle Of Knofug,Gondor,3055,Money,2743
+215,Siege Of Staroht,Lost Lands,64,Terrytory,5036
+214,Battle Of Wumig,Rohan,7055,Power,5763
+201,Battle Of The Righteous,Gondor,7608,Power,2735
+218,Siege Of Gold,Mordor,7425,Vengeance,7535
+216,Battle Of Lost Souls,Gondor,2811,Love,4344
+220,Assault Of Clost,Numenor,4596,Life,7360
+219,Battle Of The Eternal Day,Gondor,3213,Future,7836
+221,Battle Of Oceb,Mordor,6000,Love,6380
+222,Siege Of Death's Fall,Rohan,1811,Love,1114
+223,Battle Of Faiths,Harad,732,Power,8589
+224,Battle Of The Risen,Mordor,5754,Future,5100
+225,Battle Of False Promises,Mordor,351,Love,1676
+226,Battle Of Flert,Harad,5964,Power,9105
+228,Siege Of Kritoht,Lost Lands,3623,Terrytory,30
+227,Assault Of Naod,Numenor,7890,Power,2494
+229,Assault Of Eternal Suffering,Numenor,7866,Terrytory,610
+208,Battle Of Corrupted Minds,Harad,1813,Resourses,5490
+217,Attack Of New Orphans,Mordor,6433,Future,7233
+232,Siege Of Maidens,Gondor,216,Money,9651
+231,Battle Of New Allies,Lost Lands,6695,Power,2986
+235,Battle Of Noxygh,Numenor,1013,Future,7812
+234,Siege Of Tluz,Harad,3591,Future,8984
+238,Siege Of Kings Mountain,Harad,973,Money,5988
+237,Battle Of Regrets,Numenor,7634,Future,6173
+236,Battle Of Stoqub,Rohan,6649,Future,4371
+239,Siege Of Qurs,Lost Lands,2855,Life,2259
+241,Siege Of Gicuht,Lost Lands,1809,Vengeance,7828
+240,Attack Of Sleoh,Mordor,7669,Money,4871
+243,Battle Of The Dead Sea,Gondor,2216,Money,6734
+242,Battle Of The Infested,Harad,106,Terrytory,3222
+244,Attack Of Last Resorts,Harad,6389,Power,451
+230,Assault Of The Occult,Rohan,3360,Future,2255
+246,Siege Of New Orphans,Harad,426,Future,4456
+248,Siege Of Glalm,Gondor,4190,Power,6725
+247,Battle Of Vohz,Numenor,980,Terrytory,4210
+213,Battle Of Bresp,Gondor,7875,Terrytory,5254
+250,Attack Of Brothers,Gondor,5430,Money,6647
+251,Battle Of Truth,Lost Lands,5126,Life,3528
+252,Assault Of The Ancestors,Harad,5580,Life,4198
+253,Assault Of The Dead Sea,Lost Lands,626,Terrytory,2005
+233,Battle Of The Rebellion,Harad,2057,Power,6022
+254,Siege Of The Dunes,Gondor,5113,Love,8185
+257,Battle Of Last Resorts,Numenor,7419,Vengeance,7307
+256,Siege Of Ioht,Rohan,2301,Vengeance,1833
+245,Battle Of Broken Mountains,Gondor,4018,Love,7353
+249,Battle Of Sagegh,Gondor,6411,Love,2816
+260,Battle Of Naive Trust,Mordor,7244,Vengeance,1457
+261,Battle Of Vrann,Gondor,7217,Future,9120
+262,Battle Of Ilst,Lost Lands,7838,Terrytory,2966
+258,Siege Of Frozen Lakes,Numenor,2714,Money,9131
+264,Battle Of The Scorching Lands,Lost Lands,765,Life,885
+265,Battle Of The Endless Storm,Harad,2425,Money,6095
+266,Battle Of Ignorance,Mordor,6228,Money,874
+267,Attack Of Lust,Mordor,5596,Resourses,690
+255,Battle Of Brorb,Gondor,1701,Future,4512
+270,Attack Of Slerst,Harad,7974,Future,9300
+268,Battle Of Starvation,Numenor,2283,Terrytory,2612
+269,Attack Of Wehsh,Rohan,1207,Money,5817
+263,Attack Of Wruvah,Numenor,833,Future,6695
+271,Assault Of Momed,Harad,3794,Life,4888
+275,Battle Of Justice,Harad,5082,Terrytory,8333
+274,Assault Of Impending Doom,Rohan,2403,Life,5762
+276,Attack Of The Fiery Lake,Mordor,1836,Future,5068
+277,Attack Of The Ancestors,Numenor,4348,Love,7744
+278,Siege Of Arb,Gondor,4562,Power,7499
+279,Attack Of Diz,Numenor,2173,Money,9238
+281,Siege Of Klizoht,Numenor,7820,Money,9188
+280,Siege Of Oreht,Mordor,5958,Life,8289
+283,Battle Of Death's Fall,Lost Lands,3563,Vengeance,7404
+282,Battle Of The Chanceless,Rohan,2088,Resourses,6956
+284,Siege Of Nightmares,Numenor,7374,Terrytory,2281
+287,Attack Of The People,Rohan,1779,Life,4980
+285,Battle Of Heroes,Gondor,5632,Love,8591
+286,Attack Of Hinn,Rohan,1183,Power,6538
+288,Battle Of Bad Omen,Gondor,7407,Future,8544
+289,Battle Of Faiths,Harad,1695,Resourses,7138
+290,Battle Of The River Bank,Lost Lands,3990,Future,6429
+291,Battle Of Betrayal,Rohan,4830,Terrytory,7839
+292,Attack Of Mad Minds,Rohan,1178,Vengeance,7343
+294,Attack Of Vlerq,Mordor,6680,Future,6533
+293,Attack Of Blon,Rohan,2018,Love,7798
+296,Assault Of Wusad,Rohan,1670,Vengeance,3007
+297,Assault Of Bent Truths,Mordor,2048,Love,6805
+295,Battle Of Macigh,Gondor,3352,Love,4313
+298,Battle Of Corrupted Minds,Lost Lands,2214,Future,8842
+273,Assault Of Chiefs,Gondor,857,Future,988
+299,Attack Of The Curse,Harad,3776,Future,8057
+302,Attack Of Broken Mountains,Gondor,7604,Life,4405
+301,Siege Of Lost Faiths,Gondor,3612,Life,4090
+304,Battle Of Tlezagh,Mordor,7848,Power,9009
+300,Assault Of Kings Hill,Rohan,3228,Future,3384
+306,Attack Of New Orphans,Rohan,2277,Love,8444
+259,Battle Of Brothers,Gondor,2018,Vengeance,5843
+308,Assault Of Executioners,Mordor,1775,Love,7137
+309,Battle Of Vlarb,Mordor,1115,Terrytory,2255
+307,Battle Of Burning Plains,Lost Lands,825,Power,3767
+310,Battle Of Woln,Lost Lands,3999,Life,8387
+311,Siege Of Cogaht,Harad,5002,Vengeance,8066
+312,Battle Of Druug,Numenor,7994,Resourses,250
+315,Battle Of The Dark,Harad,2455,Future,1756
+305,Battle Of Heqib,Harad,1316,Vengeance,1348
+313,Battle Of Broken Laws,Harad,2026,Future,7727
+272,Siege Of Rydeht,Gondor,445,Resourses,7256
+317,Attack Of Courage,Gondor,7083,Resourses,7790
+318,Battle Of The Eternal Night,Harad,5069,Terrytory,5341
+319,Attack Of Johr,Numenor,1176,Love,6036
+321,Siege Of The Peaks,Lost Lands,2363,Vengeance,6370
+320,Battle Of Cahm,Harad,6149,Money,952
+323,Battle Of Bows,Gondor,4390,Life,5166
+322,Attack Of Total Destruction,Rohan,1390,Love,1480
+324,Siege Of Burning Lands,Mordor,4968,Vengeance,3780
+325,Battle Of Foms,Numenor,7760,Terrytory,6663
+327,Attack Of Death's Fall,Numenor,522,Terrytory,4509
+328,Siege Of Faiths,Gondor,5068,Terrytory,2943
+326,Siege Of Brydeht,Mordor,1884,Power,7581
+329,Battle Of The River Bank,Lost Lands,7568,Money,7049
+330,Battle Of Brothers,Mordor,2421,Life,8107
+314,Battle Of The Dark,Numenor,3735,Resourses,5536
+333,Battle Of Plarf,Harad,5118,Future,5265
+332,Battle Of Gress,Rohan,1309,Vengeance,7663
+334,Assault Of The Eclipse,Mordor,7973,Vengeance,4254
+336,Battle Of Total Domination,Rohan,5318,Resourses,2471
+335,Siege Of Mad Minds,Gondor,7293,Money,9240
+338,Assault Of Bows,Harad,2051,Life,8584
+339,Assault Of Lost Sons,Rohan,2476,Future,3405
+337,Siege Of Kings Glory,Mordor,6997,Resourses,4089
+340,Battle Of Knesh,Lost Lands,2129,Life,8822
+341,Attack Of Hals,Rohan,1047,Future,5412
+342,Battle Of Vlelagh,Numenor,6346,Life,8742
+343,Siege Of Jumeht,Harad,7304,Money,1795
+344,Battle Of The Fiery Lake,Harad,5560,Terrytory,3263
+345,Assault Of Maidens,Mordor,4707,Love,359
+347,Battle Of Terror,Gondor,6466,Love,7721
+346,Attack Of Widow Makers,Harad,680,Future,8465
+348,Battle Of Vengeance,Gondor,3218,Life,3672
+350,Battle Of Knolm,Harad,624,Money,8540
+303,Siege Of Dumt,Rohan,1370,Love,5062
+351,Siege Of Xoph,Numenor,1030,Power,9906
+352,Battle Of Hibigh,Mordor,918,Love,9511
+353,Attack Of Kings Mountain,Numenor,7176,Love,9054
+354,Attack Of Terror,Numenor,1427,Life,8660
+355,Battle Of Bows,Gondor,3688,Life,8529
+357,Battle Of Struhsh,Numenor,5609,Power,7181
+356,Battle Of Faiths,Numenor,5132,Power,3660
+331,Assault Of The Rebellion,Mordor,7554,Love,3222
+349,Battle Of The Ancestors,Numenor,7658,Love,4730
+360,Siege Of Stimeht,Rohan,5671,Life,3684
+361,Battle Of Widows,Harad,807,Resourses,663
+363,Battle Of The Dark,Mordor,1223,Future,7255
+364,Attack Of Spears,Harad,6967,Vengeance,1712
+365,Battle Of Trark,Gondor,3554,Life,2501
+362,Battle Of Camouflage,Harad,3060,Vengeance,9257
+367,Siege Of High Tide,Harad,295,Money,5798
+366,Battle Of Klatugh,Lost Lands,7074,Future,2970
+368,Battle Of Sons,Mordor,6441,Money,1414
+369,Battle Of Widow Makers,Rohan,7961,Money,4991
+370,Assault Of Vile Men,Gondor,4993,Love,8613
+372,Siege Of Fymn,Rohan,6970,Money,2726
+316,Battle Of Death's Rise,Harad,6418,Power,2217
+358,Assault Of Vogh,Numenor,1398,Terrytory,4208
+371,Attack Of Vrolm,Mordor,541,Future,7887
+376,Assault Of Death's Rise,Lost Lands,5992,Life,2444
+375,Battle Of Allies,Mordor,1381,Money,7549
+377,Battle Of The Plague,Lost Lands,2154,Life,1821
+378,Battle Of Ignorance,Gondor,72,Life,7572
+380,Battle Of Broken Minds,Harad,584,Resourses,4795
+379,Attack Of The Dieing Forest,Harad,7468,Resourses,8360
+374,Attack Of Kreruh,Rohan,5241,Terrytory,3227
+382,Battle Of Meeg,Gondor,7532,Power,2175
+383,Battle Of Tribulation,Mordor,3593,Love,4273
+384,Assault Of Nature's Protectors,Gondor,3639,Vengeance,2223
+385,Attack Of Broken Homes,Rohan,3351,Money,3913
+386,Battle Of Ryg,Lost Lands,7888,Vengeance,4564
+387,Siege Of Pladaht,Gondor,4104,Love,967
+388,Siege Of Camouflage,Mordor,6076,Power,4969
+389,Battle Of Kings Hill,Numenor,230,Love,892
+391,Attack Of Vile Actions,Gondor,5555,Power,4174
+390,Battle Of Beliefs,Harad,4746,Resourses,4094
+392,Battle Of Nohsh,Lost Lands,679,Future,9958
+393,Attack Of Plell,Harad,650,Future,2887
+394,Siege Of Crujoht,Mordor,1604,Money,8703
+396,Battle Of The Atlantic,Lost Lands,594,Power,6459
+397,Battle Of Eternal Suffering,Gondor,6357,Love,9021
+395,Attack Of Poih,Lost Lands,6584,Life,3389
+398,Attack Of The True Prophet,Mordor,1345,Life,2088
+399,Battle Of Burning Fields,Lost Lands,6338,Money,2477
+401,Siege Of Cusk,Lost Lands,511,Life,9150
+400,Battle Of Independence,Mordor,6238,Money,1308
+402,Battle Of Tiigh,Numenor,7756,Love,1413
+403,Battle Of The Light,Lost Lands,6867,Resourses,4406
+404,Assault Of Last Rites,Mordor,5183,Money,3721
+359,Battle Of Clyeb,Rohan,6835,Resourses,6153
+405,Assault Of The Occult,Lost Lands,7605,Life,8850
+408,Assault Of Ruq,Mordor,2427,Resourses,8039
+409,Battle Of Wig,Gondor,961,Terrytory,146
+381,Siege Of Dybaht,Gondor,88,Love,6218
+373,Attack Of Opuh,Harad,281,Vengeance,2289
+412,Attack Of Delirium,Harad,1195,Future,5526
+407,Attack Of Pests,Lost Lands,6227,Power,8731
+413,Siege Of Frozen Lakes,Numenor,6894,Life,8387
+414,Assault Of Bykyd,Numenor,7293,Power,9420
+415,Battle Of Iagh,Gondor,1828,Life,308
+417,Siege Of Trogh,Mordor,1668,Love,3644
+416,Battle Of Eternal Bombardments,Gondor,6949,Money,2156
+419,Battle Of Wicob,Harad,7117,Power,6731
+418,Battle Of Clurd,Rohan,5195,Power,2990
+420,Attack Of Purification,Gondor,1609,Life,4371
+422,Siege Of Imbalance,Lost Lands,2970,Vengeance,3185
+421,Attack Of Strong Desires,Lost Lands,996,Life,5355
+423,Battle Of Lost Sons,Numenor,5834,Vengeance,4263
+426,Battle Of Gops,Gondor,4472,Life,8221
+424,Attack Of The Rebellion,Numenor,6084,Love,320
+425,Attack Of Iron,Numenor,5184,Future,3554
+427,Attack Of Crurd,Gondor,4695,Vengeance,3495
+429,Battle Of Prefog,Lost Lands,998,Life,7948
+428,Assault Of Kikid,Lost Lands,671,Resourses,475
+430,Attack Of Camouflage,Mordor,1035,Terrytory,9303
+406,Battle Of Freedom,Gondor,3099,Love,1154
+432,Battle Of Dishonesty,Harad,7950,Love,4872
+433,Assault Of The True Prophet,Numenor,1541,Life,2927
+434,Battle Of Duht,Harad,4896,Vengeance,7059
+435,Assault Of Drins,Rohan,1092,Vengeance,7511
+436,Assault Of Pryyd,Lost Lands,871,Terrytory,3201
+410,Battle Of Ueb,Harad,4198,Resourses,6832
+437,Battle Of Glylog,Harad,2869,Terrytory,3338
+438,Attack Of Broken Love,Lost Lands,6912,Terrytory,8074
+440,Siege Of Fools,Mordor,5560,Resourses,7472
+441,Battle Of Chemistry,Gondor,1181,Love,390
+442,Assault Of Cran,Lost Lands,2280,Future,5867
+445,Battle Of Justice,Lost Lands,6095,Life,4552
+411,Attack Of The Fiery Lake,Numenor,277,Money,278
+444,Battle Of Rilegh,Lost Lands,7403,Future,1064
+446,Battle Of Purification,Harad,4648,Love,3153
+447,Battle Of Wits,Mordor,5008,Vengeance,7566
+448,Attack Of Tycoons,Mordor,2488,Money,9353
+449,Assault Of The Ancestors,Rohan,3248,Love,6869
+450,Battle Of Nohst,Numenor,2092,Vengeance,3241
+452,Battle Of Tlequgh,Rohan,7204,Terrytory,6614
+451,Attack Of Nukih,Gondor,5424,Vengeance,2033
+454,Battle Of Regrets,Gondor,4603,Power,6896
+453,Siege Of The Burning Sea,Mordor,4390,Money,4643
+455,Attack Of Death's Rise,Numenor,7000,Love,9026
+456,Attack Of Betrayal,Numenor,6289,Vengeance,9707
+458,Battle Of Frekx,Mordor,1487,Power,7332
+443,Battle Of Gniht,Numenor,1454,Life,1681
+439,Attack Of Eternal Bombardments,Harad,4118,Love,4137
+459,Siege Of Flonaht,Lost Lands,626,Life,646
+461,Battle Of Poisoned Crops,Numenor,761,Terrytory,6361
+462,Battle Of Lost Brothers,Rohan,5794,Money,5647
+463,Battle Of Corrupted Minds,Lost Lands,7290,Love,6664
+464,Battle Of False Prophets,Lost Lands,1571,Money,3509
+457,Battle Of Krut,Rohan,5496,Power,9327
+467,Assault Of Qriid,Mordor,6280,Vengeance,3371
+468,Battle Of Qenugh,Lost Lands,6305,Terrytory,6645
+460,Battle Of Vlavob,Rohan,7349,Money,4304
+466,Battle Of Broll,Gondor,6114,Vengeance,398
+470,Attack Of Brothers,Rohan,1375,Resourses,8900
+471,Assault Of Bows,Mordor,6249,Money,3331
+472,Battle Of The Occult,Numenor,3766,Terrytory,1838
+473,Siege Of The Homeless,Rohan,6659,Life,2195
+474,Attack Of The Black Scar,Harad,5059,Future,9347
+475,Battle Of Plehn,Harad,7322,Life,465
+476,Battle Of Vryks,Rohan,1605,Vengeance,249
+477,Battle Of Qrytagh,Harad,1893,Power,9505
+479,Attack Of Heroes,Mordor,6032,Money,2766
+478,Battle Of The Eternal Day,Lost Lands,3428,Terrytory,6761
+481,Battle Of Frish,Lost Lands,1400,Money,1819
+431,Siege Of Fallen Angels,Rohan,3809,Vengeance,9996
+480,Battle Of Allies,Lost Lands,3663,Life,7639
+484,Assault Of Steel,Rohan,199,Life,3833
+469,Assault Of Ancients,Numenor,6390,Power,5139
+482,Battle Of Gnad,Mordor,4019,Future,2662
+487,Assault Of The Drained Sea,Mordor,4928,Power,6739
+486,Battle Of Lost Souls,Lost Lands,6789,Money,4292
+488,Battle Of Dishonesty,Numenor,1285,Love,4644
+489,Battle Of Woms,Harad,4830,Future,6092
+491,Battle Of Sowab,Harad,2630,Vengeance,7877
+490,Siege Of Umm,Numenor,1816,Money,1790
+492,Assault Of Death's Rise,Numenor,7509,Power,8186
+494,Siege Of The True King,Lost Lands,2598,Future,6713
+493,Battle Of Corrupted Lands,Gondor,1704,Power,9019
+495,Battle Of The Scorching Lands,Harad,6272,Terrytory,8522
+496,Battle Of The Risen,Gondor,612,Resourses,6205
+497,Battle Of Sat,Numenor,4879,Future,8299
+499,Assault Of Prozad,Mordor,5422,Money,3410
+498,Battle Of Gravib,Lost Lands,2194,Life,7637
+500,Assault Of Exploding Mountains,Numenor,6301,Power,1580
+501,Battle Of The Broken Mountain,Harad,2748,Future,9315
+502,Attack Of Strong Desires,Lost Lands,1618,Future,5148
+504,Assault Of New Orphans,Mordor,6912,Vengeance,8226
+503,Assault Of Covert Actions,Gondor,2,Resourses,9638
+505,Battle Of Grarb,Mordor,1987,Life,4866
+506,Assault Of Yts,Lost Lands,5787,Vengeance,58
+509,Assault Of False Prophets,Harad,1184,Terrytory,3377
+483,Attack Of Dranah,Gondor,4229,Power,5162
+508,Siege Of Neliht,Rohan,6705,Future,3689
+507,Battle Of Tlufob,Numenor,1810,Life,6441
+510,Battle Of Burning Fields,Mordor,4733,Resourses,5421
+512,Battle Of Vrohsh,Mordor,468,Power,497
+511,Attack Of The False Prophet,Numenor,1248,Power,1977
+514,Battle Of Travogh,Harad,7790,Future,8294
+513,Assault Of Knijad,Mordor,3115,Terrytory,5129
+515,Battle Of Vile Men,Rohan,1949,Money,2415
+516,Battle Of Kings Mountain,Lost Lands,7962,Love,3715
+517,Battle Of The River Bank,Harad,3825,Vengeance,9960
+485,Battle Of Mad Kings,Gondor,392,Love,9445
+519,Attack Of Pemm,Harad,4082,Vengeance,4951
+521,Siege Of Storms,Gondor,534,Power,5328
+523,Battle Of Gyph,Numenor,469,Vengeance,6783
+522,Battle Of Frozen Lakes,Gondor,6462,Terrytory,673
+525,Attack Of Fruuh,Rohan,4948,Vengeance,8332
+524,Assault Of Flumud,Rohan,5378,Power,28
+526,Assault Of Broken Laws,Lost Lands,6124,Money,4539
+527,Battle Of Storms,Numenor,2130,Future,6733
+528,Battle Of The Dunes,Harad,7911,Future,4217
+520,Battle Of Keyb,Harad,7680,Vengeance,6000
+529,Assault Of The Blood River,Mordor,1768,Life,1203
+518,Assault Of Sarb,Numenor,5187,Resourses,6034
+465,Battle Of Dohx,Harad,7390,Resourses,4497
+532,Battle Of Qurb,Numenor,200,Resourses,588
+534,Battle Of Klegeb,Rohan,5051,Future,3880
+535,Battle Of Naive Trust,Numenor,7467,Vengeance,726
+536,Attack Of The Scorching Lands,Gondor,4167,Resourses,7749
+533,Battle Of Covib,Harad,7995,Love,1537
+530,Battle Of The Curse,Numenor,960,Resourses,6131
+539,Attack Of Cybah,Mordor,2161,Vengeance,81
+541,Battle Of Dictators,Gondor,6986,Life,4293
+540,Assault Of Wits,Mordor,6732,Future,2544
+543,Attack Of Burning Fields,Harad,2101,Power,7666
+542,Assault Of The High Seas,Rohan,6154,Future,6587
+545,Siege Of Differences,Lost Lands,7803,Resourses,9240
+546,Battle Of Dawth,Lost Lands,1356,Money,4852
+547,Battle Of Fluub,Numenor,7342,Future,4280
+544,Assault Of Dictators,Harad,4597,Love,7679
+549,Battle Of Strong Desires,Mordor,6571,Vengeance,6975
+538,Attack Of Maidens,Lost Lands,2096,Money,4017
+550,Attack Of Heaven,Mordor,4306,Love,4324
+531,Battle Of Ard,Mordor,7839,Future,3334
+552,Assault Of Utopia,Lost Lands,5138,Vengeance,7788
+553,Assault Of Plul,Rohan,565,Resourses,8897
+554,Siege Of Glukuht,Mordor,4631,Love,3746
+555,Battle Of Bretegh,Lost Lands,5593,Terrytory,595
+557,Battle Of Death's Rise,Mordor,3538,Power,9626
+537,Assault Of Advisors,Rohan,756,Love,2946
+548,Assault Of The Atlantic,Rohan,7430,Love,6855
+559,Siege Of Strong Desires,Rohan,4021,Vengeance,4750
+560,Attack Of The Righteous,Mordor,5262,Power,9304
+561,Battle Of Fohm,Lost Lands,1212,Future,4118
+562,Siege Of Stomuht,Rohan,1462,Love,4319
+556,Siege Of Hallow Hill,Numenor,1420,Money,8330
+563,Battle Of Tratob,Numenor,6595,Resourses,276
+565,Battle Of Dictators,Lost Lands,2584,Love,7090
+566,Siege Of Scimitars,Gondor,4537,Money,5235
+564,Siege Of The Red Mountain,Mordor,7683,Future,3144
+567,Assault Of Broken Bones,Rohan,4310,Resourses,1277
+569,Battle Of Bunn,Rohan,7655,Resourses,897
+570,Battle Of Klifeb,Gondor,5301,Money,7863
+551,Battle Of Delirium,Numenor,5509,Terrytory,9141
+572,Siege Of Glorious Conquests,Lost Lands,5753,Love,4932
+573,Battle Of Red Waters,Numenor,4166,Power,5902
+568,Assault Of Dogh,Numenor,6634,Terrytory,8355
+571,Attack Of Tryzah,Gondor,3545,Power,3448
+575,Siege Of Utopia,Harad,1980,Love,2417
+576,Attack Of The Risen,Gondor,5693,Terrytory,9940
+578,Battle Of Aheb,Harad,1674,Future,6392
+580,Siege Of New Hope,Gondor,603,Terrytory,9576
+581,Battle Of Glihz,Rohan,1990,Life,9264
+582,Siege Of Cliht,Gondor,6562,Love,5659
+558,Siege Of Vile Men,Gondor,2602,Love,7103
+579,Battle Of The Scorching Lands,Rohan,4033,Future,3912
+583,Attack Of Jykih,Rohan,92,Terrytory,5783
+584,Assault Of Lost Friends,Gondor,1817,Power,7180
+577,Battle Of Pehz,Rohan,2468,Love,7792
+585,Attack Of The Falling Sky,Rohan,1230,Power,8557
+587,Attack Of Kings Betrayal,Mordor,327,Love,7097
+589,Battle Of Vrigh,Mordor,4237,Terrytory,9661
+591,Siege Of Pikiht,Harad,5153,Love,5883
+590,Battle Of Vlun,Harad,2448,Future,3187
+592,Battle Of Srewogh,Gondor,4331,Love,5537
+593,Attack Of Independence,Lost Lands,738,Power,1346
+594,Siege Of Hell,Harad,6565,Vengeance,916
+596,Siege Of Flib,Numenor,7535,Life,7432
+595,Siege Of The Burning Forest,Harad,4991,Future,1181
+598,Battle Of Storms,Gondor,2479,Love,6469
+597,Attack Of Groxoh,Numenor,7765,Love,8425
+599,Attack Of Storms,Numenor,1334,Resourses,9907
+600,Attack Of Maidens,Numenor,2218,Resourses,4853
+601,Siege Of Exploding Mountains,Numenor,5167,Love,1370
+602,Siege Of Maps,Lost Lands,4074,Future,8599
+603,Attack Of Flawoh,Rohan,6826,Resourses,7524
+604,Attack Of Qruoh,Numenor,4882,Love,4682
+605,Assault Of Trust,Gondor,5988,Life,5335
+606,Siege Of The Eclipse,Harad,616,Vengeance,1924
+607,Battle Of Starvation,Harad,2032,Terrytory,5891
+608,Battle Of Resources,Gondor,4172,Life,6227
+609,Siege Of Lust,Mordor,7612,Power,3392
+610,Assault Of Slaz,Rohan,6255,Vengeance,6236
+611,Battle Of Dishonesty,Harad,5392,Money,1333
+588,Siege Of Vile Actions,Rohan,5914,Power,7571
+586,Battle Of The Scorching Lands,Rohan,2597,Life,7156
+614,Siege Of Hallow Hill,Harad,4230,Money,140
+615,Battle Of Purification,Mordor,7381,Life,1592
+612,Battle Of Pawns,Rohan,7378,Money,9131
+616,Battle Of Krulst,Gondor,7295,Love,6061
+619,Battle Of Dusogh,Gondor,3803,Life,5302
+620,Assault Of The Light,Gondor,7650,Money,67
+618,Battle Of Qrolag,Rohan,2134,Resourses,4210
+621,Battle Of The Nomads,Lost Lands,6577,Life,5191
+623,Assault Of Ignorance,Rohan,4142,Terrytory,9816
+622,Battle Of Beliefs,Mordor,2787,Terrytory,4692
+626,Attack Of Ahr,Gondor,5379,Power,9145
+613,Attack Of Lost Sons,Harad,3156,Love,4032
+624,Battle Of Mad Kings,Mordor,5710,Vengeance,1255
+627,Battle Of Wrefig,Lost Lands,7658,Resourses,9599
+629,Attack Of Mad Minds,Mordor,1917,Terrytory,8962
+630,Battle Of Loyalties,Harad,2055,Resourses,1219
+628,Battle Of Iegh,Harad,2341,Love,1482
+631,Attack Of Courage,Gondor,2431,Life,9422
+632,Attack Of Loyalties,Mordor,2124,Love,6694
+633,Attack Of Lost Security,Gondor,3287,Resourses,1223
+634,Attack Of Ancients,Numenor,2692,Love,328
+635,Attack Of Drelz,Gondor,3985,Life,4155
+574,Siege Of The Oppressor,Mordor,3433,Love,2253
+636,Attack Of Muah,Harad,7753,Love,4373
+637,Battle Of Chiefs,Rohan,7669,Life,6375
+639,Battle Of Unforseen Victory,Numenor,1185,Love,500
+640,Battle Of Naive Trust,Gondor,557,Terrytory,4320
+642,Assault Of Plums,Harad,1028,Money,3636
+641,Assault Of Nilp,Harad,7259,Life,4383
+644,Assault Of The True Prophet,Mordor,4619,Future,1427
+643,Attack Of Klejih,Gondor,6310,Future,6253
+646,Battle Of Kings Betrayal,Lost Lands,1600,Power,565
+645,Battle Of Broken Pacts,Harad,3879,Money,676
+647,Assault Of Wryb,Harad,285,Love,7051
+649,Assault Of Closyd,Harad,473,Money,2443
+648,Siege Of Slamuht,Harad,6786,Terrytory,4806
+650,Siege Of False Promises,Numenor,5946,Power,8137
+651,Battle Of Naive Trust,Lost Lands,5702,Vengeance,7908
+653,Battle Of Poisoned Minds,Gondor,3404,Terrytory,8223
+652,Battle Of Chemistry,Gondor,72,Power,3432
+654,Attack Of Steel,Gondor,29,Future,1871
+655,Siege Of Vihz,Harad,810,Power,1160
+625,Battle Of The Risen,Lost Lands,7173,Terrytory,9646
+658,Battle Of Elig,Harad,4357,Love,3039
+657,Assault Of Gaded,Numenor,7807,Future,1491
+659,Siege Of The Peaks,Rohan,173,Resourses,3285
+660,Battle Of The Ancestors,Harad,1919,Love,5473
+662,Battle Of Last Resorts,Numenor,2223,Money,4879
+661,Battle Of Eternal Fires,Lost Lands,430,Future,5494
+663,Battle Of Poisoned Minds,Mordor,988,Money,3678
+664,Siege Of Klirst,Lost Lands,596,Money,5881
+666,Assault Of Dread,Rohan,5671,Future,2138
+665,Battle Of Imm,Rohan,6757,Resourses,5711
+667,Battle Of The Dead Sea,Gondor,3916,Love,7383
+656,Battle Of Ax,Mordor,4455,Money,3102
+670,Battle Of The Peaks,Lost Lands,2744,Resourses,7649
+671,Attack Of Deception,Gondor,4277,Life,1708
+669,Battle Of Mad Minds,Numenor,2494,Vengeance,2532
+668,Battle Of Fools,Rohan,1663,Love,9597
+638,Battle Of The Peaks,Lost Lands,2274,Resourses,3439
+675,Battle Of White Mountain,Gondor,4388,Terrytory,9417
+672,Siege Of Devotion,Harad,7993,Resourses,5957
+676,Battle Of Open Seas,Lost Lands,7676,Money,7115
+677,Battle Of Iron,Rohan,3778,Power,3225
+679,Siege Of The Black Scar,Gondor,5370,Power,2772
+678,Assault Of White Mountain,Lost Lands,4376,Terrytory,1739
+680,Siege Of The Atlantic,Rohan,7769,Power,2111
+681,Battle Of Prulf,Rohan,1954,Vengeance,2035
+682,Assault Of Gleb,Harad,2076,Power,2678
+683,Battle Of Ayg,Gondor,7167,Resourses,6906
+684,Battle Of Dradug,Harad,7871,Terrytory,6090
+685,Battle Of The Scourge,Gondor,591,Money,5519
+674,Siege Of Clufeht,Lost Lands,4449,Love,4632
+686,Siege Of Total Destruction,Lost Lands,4980,Power,5759
+689,Attack Of Eternal Suffering,Lost Lands,2694,Terrytory,3578
+688,Assault Of The Oppressor,Numenor,799,Terrytory,2816
+691,Battle Of Irigh,Rohan,7435,Money,772
+690,Attack Of Wroms,Harad,6168,Power,1611
+692,Assault Of Mapod,Harad,808,Vengeance,1213
+693,Battle Of The Eternal Day,Harad,7421,Power,4716
+694,Battle Of Mad Minds,Mordor,4137,Life,3800
+696,Battle Of Pests,Gondor,7719,Resourses,6425
+695,Assault Of Kings Hill,Gondor,6826,Resourses,1615
+697,Siege Of Death's Rise,Mordor,7680,Terrytory,1963
+698,Battle Of Troms,Mordor,3137,Love,5953
+699,Battle Of Club,Numenor,5515,Life,6465
+700,Battle Of Strinagh,Rohan,4125,Love,2747
+701,Battle Of Vluxib,Numenor,5108,Power,8518
+702,Assault Of Attrition,Mordor,1779,Love,6892
+703,Attack Of Allies,Gondor,532,Vengeance,4410
+617,Battle Of Tryb,Lost Lands,3671,Money,7045
+706,Attack Of The Scourge,Numenor,1808,Resourses,7929
+704,Attack Of Mad Minds,Lost Lands,1652,Vengeance,1599
+705,Battle Of Total Domination,Lost Lands,4397,Resourses,2516
+709,Siege Of Brykiht,Rohan,5113,Life,2262
+708,Battle Of Slips,Gondor,1659,Future,3189
+710,Attack Of Zytih,Rohan,369,Vengeance,6419
+711,Siege Of Total Destruction,Mordor,3426,Power,4187
+712,Attack Of Hallow Hill,Harad,4974,Future,9842
+713,Battle Of Broken Dreams,Numenor,4781,Resourses,3457
+714,Battle Of The Ancestors,Mordor,7532,Future,4766
+715,Battle Of The Eternal Day,Mordor,2556,Life,7673
+716,Battle Of Hosp,Rohan,7891,Money,378
+718,Siege Of Slogiht,Lost Lands,5162,Money,7874
+719,Battle Of Mad Minds,Gondor,3107,Resourses,1278
+673,Assault Of Olf,Gondor,5381,Resourses,2212
+687,Attack Of The Blood River,Mordor,7723,Resourses,7687
+722,Siege Of Grark,Numenor,3038,Vengeance,4078
+721,Battle Of Eternal Bombardments,Mordor,4780,Money,604
+723,Siege Of Drahsh,Mordor,1064,Love,9823
+724,Battle Of Qryzag,Numenor,5265,Money,7040
+720,Siege Of Equality,Lost Lands,783,Power,7050
+726,Assault Of The Blood River,Lost Lands,3143,Future,300
+725,Siege Of Plajyht,Gondor,4090,Future,9759
+728,Assault Of Differences,Gondor,1795,Vengeance,3321
+727,Battle Of Widows,Harad,257,Resourses,8025
+707,Attack Of Gryb,Harad,4429,Vengeance,532
+729,Battle Of Glimmering Hope,Numenor,6869,Vengeance,8323
+732,Battle Of Cutug,Lost Lands,3392,Resourses,6824
+734,Battle Of Burning Lands,Rohan,1994,Life,1007
+735,Battle Of The False Prophet,Lost Lands,2469,Power,2594
+730,Attack Of Fut,Rohan,4467,Money,4659
+731,Battle Of Gusk,Lost Lands,7911,Life,2096
+739,Battle Of Dictators,Gondor,5016,Resourses,6943
+737,Attack Of Glorious Conquests,Harad,6738,Terrytory,3046
+740,Battle Of Crihq,Lost Lands,5459,Money,847
+738,Battle Of The True Prophet,Lost Lands,1043,Resourses,6563
+742,Attack Of Clyjeh,Rohan,5066,Life,5496
+741,Siege Of Guyht,Gondor,7723,Future,4514
+744,Battle Of The High Seas,Numenor,7850,Life,8620
+743,Siege Of Tribulation,Rohan,5444,Power,1704
+745,Siege Of Wits,Rohan,7296,Vengeance,7458
+717,Battle Of Gleigh,Harad,2476,Money,4326
+733,Battle Of Cyxib,Numenor,6693,Life,1639
+748,Attack Of Vrulz,Rohan,1654,Money,1765
+749,Assault Of Jivyd,Gondor,5226,Love,6695
+750,Battle Of Death's Rise,Rohan,2747,Terrytory,4803
+752,Assault Of Vile Actions,Lost Lands,5200,Resourses,5613
+753,Battle Of Total Domination,Numenor,7651,Terrytory,3809
+751,Battle Of Scimitars,Numenor,5487,Money,69
+754,Siege Of Crad,Lost Lands,4878,Money,2755
+756,Battle Of Blagub,Mordor,4870,Money,2651
+755,Siege Of Ohq,Numenor,6406,Power,8323
+757,Attack Of Kriweh,Gondor,5929,Terrytory,4398
+758,Attack Of Lust,Harad,6872,Life,5017
+760,Siege Of Broken Dreams,Gondor,2057,Resourses,4134
+759,Assault Of The Rebellion,Lost Lands,4807,Future,7943
+762,Battle Of Mad Bulls,Gondor,5963,Life,2287
+761,Battle Of The Planet,Mordor,1900,Resourses,433
+763,Attack Of Broken Bones,Lost Lands,1065,Vengeance,1857
+764,Battle Of Krog,Gondor,6693,Power,7254
+765,Assault Of Frals,Gondor,3237,Resourses,4164
+766,Siege Of Iduht,Rohan,506,Vengeance,2270
+767,Siege Of Wrokuht,Harad,6269,Life,7356
+768,Battle Of The Broken Mountain,Harad,2630,Future,3789
+769,Battle Of Storms,Gondor,1327,Future,707
+736,Battle Of The Shores,Harad,367,Life,2233
+770,Siege Of New Orphans,Numenor,2009,Money,7088
+773,Assault Of Corrupted Lands,Numenor,7028,Future,3420
+772,Assault Of The Frozen Harbor,Lost Lands,7987,Terrytory,2312
+775,Battle Of Paqib,Gondor,2432,Terrytory,2596
+774,Battle Of Wrakx,Gondor,4735,Terrytory,6783
+746,Assault Of Broken Bones,Lost Lands,1391,Money,7409
+747,Battle Of Vengeance,Mordor,7428,Vengeance,5994
+779,Attack Of Burning Lands,Harad,4363,Love,3114
+776,Battle Of Plodyb,Gondor,4440,Vengeance,7649
+778,Battle Of The Light,Numenor,5233,Money,815
+781,Battle Of Silence,Harad,2402,Money,1732
+782,Attack Of Cemm,Lost Lands,4527,Money,7153
+783,Battle Of Tloheg,Mordor,2560,Love,2537
+785,Siege Of The Planet,Gondor,2963,Love,9471
+784,Battle Of Terror,Gondor,5395,Money,9015
+786,Battle Of Differences,Lost Lands,3158,Terrytory,1304
+788,Battle Of The Dark,Mordor,1881,Love,3073
+787,Battle Of Exploding Mountains,Gondor,364,Future,197
+790,Battle Of Zohst,Harad,4748,Power,5741
+789,Attack Of Broken Homes,Numenor,7472,Terrytory,7535
+791,Attack Of Pests,Harad,6796,Terrytory,2602
+793,Battle Of Last Rites,Gondor,1622,Money,3405
+792,Attack Of Death's Fall,Mordor,3427,Power,9490
+794,Attack Of Tenacity,Rohan,2203,Money,6210
+795,Siege Of Hilz,Mordor,1115,Money,1106
+797,Battle Of Truzogh,Lost Lands,1673,Power,1622
+796,Attack Of Puqeh,Mordor,4857,Resourses,5639
+798,Assault Of Silence,Gondor,348,Life,2723
+799,Siege Of The Burning Sea,Rohan,5625,Resourses,7001
+800,Battle Of Death's Fall,Harad,4862,Terrytory,197
+802,Battle Of The Dieing Forest,Numenor,6514,Future,4045
+801,Battle Of Kings Hill,Rohan,2816,Life,9237
+771,Battle Of The Blood River,Harad,5055,Life,1057
+803,Siege Of Horrors,Lost Lands,1533,Vengeance,8647
+806,Battle Of Nosab,Mordor,6384,Vengeance,7013
+805,Attack Of Wruq,Lost Lands,7377,Terrytory,7052
+808,Battle Of Fallen Angels,Lost Lands,3523,Money,1812
+807,Battle Of Pests,Numenor,5354,Resourses,9523
+804,Assault Of Sript,Numenor,1961,Future,9720
+810,Battle Of Broken Mountains,Harad,6518,Vengeance,6568
+811,Siege Of The Fiery Lake,Rohan,2885,Vengeance,2617
+812,Battle Of Spies,Numenor,4593,Life,5594
+814,Siege Of Kril,Lost Lands,7605,Resourses,6370
+780,Assault Of Treason,Lost Lands,2047,Love,8991
+815,Attack Of Tinih,Gondor,5462,Terrytory,4511
+817,Battle Of Broken Dreams,Numenor,7930,Love,5398
+818,Battle Of Poisoned Crops,Mordor,6837,Power,9804
+816,Siege Of Pawns,Lost Lands,2196,Love,3480
+819,Battle Of Mercy,Lost Lands,5324,Love,5527
+820,Attack Of The Eternal Night,Harad,2370,Vengeance,6157
+821,Assault Of The Falling Sky,Lost Lands,366,Terrytory,4541
+823,Battle Of Faq,Gondor,1622,Vengeance,3859
+822,Battle Of Hemm,Mordor,2868,Vengeance,6764
+824,Battle Of Crujug,Harad,4733,Power,2372
+825,Battle Of The Burning Sea,Gondor,3615,Power,3503
+827,Battle Of Ignorance,Lost Lands,3865,Vengeance,8815
+826,Siege Of Resources,Gondor,6140,Love,4059
+828,Attack Of Eternal Fires,Mordor,4093,Money,7378
+829,Battle Of Covert Actions,Gondor,4864,Vengeance,2218
+830,Battle Of Burning Plains,Numenor,4184,Resourses,2866
+777,Battle Of Ivory,Numenor,3884,Vengeance,8002
+813,Battle Of Cylk,Gondor,2842,Future,1747
+834,Attack Of Qlufoh,Harad,3164,Future,7681
+832,Attack Of Kross,Harad,6513,Love,6728
+835,Battle Of Horrors,Gondor,2999,Money,2387
+836,Attack Of The Infested,Mordor,4831,Money,2702
+837,Battle Of Storms,Mordor,3683,Resourses,5156
+838,Attack Of Or,Numenor,3,Money,5598
+840,Assault Of Regrets,Harad,1045,Future,3677
+841,Battle Of Delirium,Lost Lands,6841,Love,5583
+843,Battle Of Strirst,Numenor,1763,Future,5513
+809,Siege Of Burning Fields,Gondor,548,Life,5937
+842,Siege Of Bows,Harad,6175,Love,811
+844,Siege Of Roiht,Harad,333,Terrytory,8865
+845,Attack Of Vaweh,Numenor,4003,Vengeance,211
+846,Assault Of False Prophets,Harad,4813,Vengeance,4287
+847,Battle Of Kings Mountain,Harad,3295,Vengeance,3626
+849,Assault Of Liberty,Harad,6706,Vengeance,2228
+831,Battle Of Op,Numenor,4578,Terrytory,7506
+850,Attack Of Corrupted Lands,Rohan,1321,Money,9843
+851,Battle Of Widows,Lost Lands,7716,Future,123
+852,Battle Of Qrap,Harad,3950,Money,1768
+853,Battle Of Evugh,Gondor,4803,Life,8675
+854,Attack Of Mad Kings,Mordor,6936,Money,1569
+855,Battle Of Broken Wills,Harad,1617,Love,5886
+857,Battle Of Iron,Numenor,5758,Life,4645
+839,Battle Of The Scourge,Lost Lands,1657,Resourses,3849
+859,Siege Of Tlil,Mordor,6024,Future,2221
+858,Attack Of Loyalties,Numenor,7942,Life,3320
+860,Attack Of Cynuh,Mordor,5765,Resourses,14
+861,Assault Of Hell,Rohan,3360,Terrytory,9315
+863,Battle Of Purification,Rohan,2219,Life,5256
+856,Attack Of Lost Friends,Mordor,4029,Life,5358
+864,Battle Of Naive Trust,Gondor,5433,Terrytory,6008
+865,Siege Of Silence,Mordor,3522,Resourses,806
+868,Attack Of Stuluh,Harad,2137,Vengeance,6083
+867,Battle Of Kloph,Harad,3645,Life,9610
+866,Battle Of White Mountain,Gondor,5481,Terrytory,6291
+869,Siege Of Courage,Harad,2191,Resourses,7772
+870,Siege Of Tycoons,Mordor,111,Money,2467
+871,Battle Of Exploding Mountains,Numenor,6563,Vengeance,29
+872,Battle Of The False Prophet,Lost Lands,4488,Power,4718
+875,Battle Of Ekig,Numenor,1863,Life,5333
+873,Battle Of Crult,Harad,3777,Resourses,5573
+874,Battle Of Blinn,Rohan,3685,Resourses,6504
+876,Battle Of Gryrab,Mordor,5185,Terrytory,2097
+877,Attack Of Chemistry,Rohan,1328,Future,3061
+879,Battle Of Burning Lands,Lost Lands,111,Resourses,1493
+878,Siege Of Bows,Harad,5528,Love,5012
+880,Assault Of The Retreating Ocean,Mordor,4686,Future,6745
+881,Battle Of Roht,Harad,63,Love,6525
+883,Assault Of Vavud,Rohan,4481,Resourses,7918
+882,Battle Of Vik,Rohan,50,Future,7655
+885,Battle Of The Curse,Rohan,1942,Resourses,8949
+884,Attack Of Piwih,Rohan,5420,Power,5648
+886,Battle Of The Black Scar,Mordor,4138,Life,9927
+887,Battle Of Terror,Harad,5553,Money,2789
+888,Battle Of New Hope,Lost Lands,1394,Future,1767
+889,Assault Of Starvation,Harad,7435,Money,6497
+890,Battle Of Gnur,Lost Lands,2665,Terrytory,9775
+891,Battle Of Johs,Gondor,7068,Vengeance,7547
+892,Assault Of Grorod,Numenor,7945,Vengeance,6441
+893,Battle Of Glimmering Hope,Lost Lands,4529,Vengeance,7751
+894,Battle Of Terror,Mordor,2394,Terrytory,2394
+896,Battle Of Burning Lands,Rohan,4406,Resourses,9709
+895,Battle Of The Infested,Harad,3096,Terrytory,3152
+897,Attack Of Ancients,Rohan,4490,Terrytory,2681
+898,Battle Of Blomm,Gondor,1765,Vengeance,5631
+900,Battle Of Graeg,Mordor,183,Resourses,5941
+899,Attack Of Knahz,Numenor,3115,Power,9803
+902,Siege Of The Apocalypse,Mordor,6333,Love,2925
+901,Battle Of The Broken Mountain,Numenor,2049,Power,7122
+848,Assault Of Allies,Mordor,317,Money,8550
+903,Battle Of Broken Minds,Rohan,2073,Vengeance,7835
+906,Battle Of Pests,Lost Lands,7365,Power,7832
+905,Attack Of The False Prophet,Lost Lands,5302,Resourses,8175
+833,Battle Of Pruwub,Rohan,5968,Terrytory,2715
+904,Attack Of Frozen Fires,Lost Lands,1845,Future,1348
+909,Battle Of Xifugh,Mordor,4912,Life,8801
+907,Attack Of Tert,Gondor,612,Vengeance,7799
+912,Attack Of Tenacity,Lost Lands,3740,Love,6100
+911,Assault Of Burning Fields,Lost Lands,4127,Resourses,7521
+913,Battle Of Broken Bones,Mordor,1947,Resourses,8991
+914,Battle Of High Tide,Numenor,4772,Future,3422
+915,Battle Of The Atlantic,Mordor,6850,Vengeance,9224
+916,Assault Of Vlons,Rohan,3983,Life,7437
+917,Battle Of Riceb,Harad,3701,Terrytory,2691
+918,Siege Of Stubuht,Numenor,7213,Future,9443
+920,Assault Of Kings Mountain,Harad,364,Life,7830
+919,Battle Of Death's Rise,Lost Lands,302,Future,9343
+921,Battle Of Brothers,Mordor,1645,Vengeance,4266
+922,Battle Of Vile Men,Numenor,5307,Love,973
+924,Battle Of Jirst,Lost Lands,4118,Love,8427
+923,Assault Of The Falling Sky,Lost Lands,2458,Terrytory,4212
+926,Battle Of Drocogh,Gondor,7313,Resourses,8555
+925,Battle Of Kreg,Numenor,3893,Life,6097
+927,Battle Of Qriligh,Numenor,7938,Life,6370
+929,Attack Of Utopia,Numenor,2006,Love,7596
+928,Battle Of Tenacity,Rohan,1028,Future,4349
+930,Battle Of Impending Doom,Mordor,7904,Terrytory,94
+931,Battle Of Advisors,Harad,6140,Terrytory,8488
+932,Siege Of Cowards,Mordor,7692,Resourses,9635
+908,Siege Of Ogh,Harad,6214,Love,4098
+934,Battle Of Ok,Rohan,3622,Life,6581
+935,Battle Of Writib,Gondor,6581,Power,4333
+937,Siege Of The Peaks,Rohan,6685,Future,3066
+933,Siege Of Xihr,Lost Lands,7089,Future,506
+936,Battle Of The True King,Gondor,5920,Resourses,6157
+939,Battle Of Impending Doom,Rohan,1224,Life,8882
+940,Siege Of Broken Dreams,Lost Lands,150,Future,8936
+942,Assault Of Sal,Numenor,2933,Resourses,9762
+941,Battle Of The Risen,Harad,2870,Money,6265
+943,Battle Of Slorq,Lost Lands,6806,Resourses,8409
+944,Battle Of Biyg,Rohan,6298,Money,7795
+862,Battle Of Insanity,Gondor,7666,Future,7086
+947,Battle Of Spies,Harad,4094,Resourses,6665
+948,Battle Of Tuhs,Harad,7906,Power,1970
+946,Assault Of Final Rests,Rohan,6066,Resourses,2249
+949,Siege Of Gooht,Mordor,97,Life,1338
+945,Battle Of Deception,Mordor,6767,Resourses,5460
+910,Battle Of Gisagh,Lost Lands,6914,Life,5289
+952,Attack Of Broken Minds,Rohan,6426,Love,1412
+953,Battle Of Dishonesty,Lost Lands,2716,Future,3841
+954,Siege Of Loyalties,Numenor,2771,Vengeance,4831
+955,Battle Of Rirk,Harad,7453,Future,2737
+956,Assault Of Abed,Numenor,2371,Terrytory,446
+957,Battle Of Pluugh,Lost Lands,2505,Money,1105
+959,Siege Of Tycoons,Gondor,5678,Money,8495
+951,Battle Of Courage,Numenor,5870,Terrytory,4643
+960,Battle Of The Drained Sea,Numenor,5494,Money,2993
+961,Siege Of Srerst,Rohan,1604,Love,5549
+938,Assault Of Trust,Gondor,3731,Future,3083
+958,Attack Of Pests,Lost Lands,6780,Life,196
+962,Siege Of Frop,Numenor,6599,Love,9908
+963,Battle Of Independence,Rohan,7556,Life,625
+964,Battle Of Justice,Lost Lands,803,Future,314
+965,Attack Of Fallen Angels,Rohan,7368,Resourses,9425
+967,Battle Of The Night,Lost Lands,27,Future,9897
+966,Battle Of The Planet,Harad,5820,Love,6117
+968,Battle Of Aq,Lost Lands,3482,Life,7776
+970,Battle Of Mueg,Harad,5725,Life,4751
+969,Battle Of Nonegh,Mordor,7283,Resourses,8342
+972,Siege Of Silence,Rohan,7458,Future,9828
+973,Siege Of Nature,Rohan,1230,Vengeance,133
+971,Battle Of Broken Laws,Mordor,5522,Life,575
+975,Siege Of The Drained Sea,Gondor,4851,Life,4286
+974,Battle Of The Burning Forest,Rohan,3876,Vengeance,5177
+977,Attack Of Slis,Harad,7653,Money,7724
+978,Battle Of Qrobagh,Lost Lands,6862,Power,1011
+976,Siege Of Red Waters,Harad,3076,Vengeance,7292
+979,Battle Of Qraagh,Numenor,7755,Money,9128
+980,Attack Of Broken Love,Harad,1797,Vengeance,7336
+981,Siege Of The Red Mountain,Rohan,1009,Love,6869
+984,Assault Of Wrohs,Harad,1034,Vengeance,767
+982,Battle Of Beliefs,Gondor,202,Terrytory,730
+950,Battle Of Tryig,Mordor,6657,Love,6098
+987,Attack Of Fear,Mordor,6181,Life,4917
+988,Battle Of Freedom,Numenor,6370,Life,1431
+989,Battle Of Terror,Gondor,4519,Money,7276
+990,Siege Of Wuns,Gondor,5800,Future,1256
+991,Battle Of Blahx,Gondor,110,Love,613
+992,Battle Of Noib,Rohan,4222,Life,8172
+993,Attack Of Pafoh,Harad,1162,Power,9916
+994,Battle Of Delirium,Mordor,5694,Money,5463
+995,Battle Of The Ancestors,Rohan,7104,Life,9121
+996,Attack Of Kings Hill,Gondor,5735,Future,6667
+997,Attack Of Regrets,Mordor,5291,Love,8076
+998,Battle Of Vrirq,Lost Lands,4803,Resourses,5110
+999,Battle Of Qehn,Lost Lands,1576,Money,1361
+1001,Attack Of Wraxoh,Mordor,4373,Power,6571
+1000,Siege Of Tlaceht,Rohan,7134,Money,6799
+1003,Siege Of The Oppressor,Gondor,3979,Love,310
+1004,Assault Of False Prophets,Mordor,1505,Power,7011
+983,Attack Of Tyrants,Gondor,6795,Future,4194
+1005,Siege Of Frozen Lakes,Lost Lands,4282,Terrytory,5537
+1006,Siege Of Storms,Mordor,6347,Power,9929
+1007,Battle Of Grist,Lost Lands,11,Money,6056
+1008,Assault Of Tryxed,Harad,1640,Vengeance,7293
+986,Assault Of Imbalance,Gondor,7941,Life,9261
+1009,Battle Of Insanity,Rohan,3483,Money,5683
+1010,Attack Of Tenacity,Mordor,5518,Terrytory,9153
+1012,Battle Of The Red Mountain,Numenor,1259,Resourses,6086
+1013,Battle Of Pramm,Rohan,6472,Future,3805
+1011,Battle Of Tribulation,Lost Lands,653,Money,9133
+1014,Battle Of Creag,Numenor,458,Love,2040
+1002,Battle Of Advisors,Harad,3947,Money,8603
+985,Battle Of Gryugh,Gondor,7594,Money,6257
+1015,Battle Of Hafug,Numenor,652,Life,5019
+1016,,Numenor,4334,Money,7049

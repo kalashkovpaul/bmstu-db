@@ -1,1006 +1,1005 @@
-id, name, surname, residence, class, height, weight, gender, age, adventure
-1, Columbus, Underhill, Bywater, Harfoot, 89, 36, Male, 48, 8
-4, Nicol, Fairbairn, Tookland, Fallohide, 60, 24, Male, 36, 1
-3, Panteleon, Galpsi, Bridgefields, Stoor, 95, 25, Male, 39, 4
-6, Wandrille, Brockhouse, Buckland, Fallohide, 72, 30, Male, 69, 1
-5, Huebald, Goold, Green Hill, Fallohide, 87, 29, Male, 81, 10
-8, Poppo, Fairbairn, Westfarthing, Fallohide, 90, 25, Male, 92, 7
-10, Theodemir, Marsh, Bywater, Fallohide, 86, 37, Male, 41, 7
-12, Orgulas, Proudfoot, Green Hill, Stoor, 61, 39, Male, 59, 10
-11, Flambard, Hayward, Hobbiton, Stoor, 85, 20, Male, 37, 4
-14, Childebrand, Goold, Hobbiton, Harfoot, 69, 37, Male, 83, 2
-13, Berengar, Noaks, Bywater, Stoor, 80, 20, Male, 56, 2
-15, Corbinian, Whitfoot, Shire, Harfoot, 82, 27, Male, 83, 7
-16, Bruno, Puddifoot, Eastfarthing, Fallohide, 94, 28, Male, 47, 6
-17, Suger, Chubb, Shire, Stoor, 64, 27, Male, 52, 3
-18, Scudamor, Twofoot, Northfarthing, Harfoot, 75, 27, Male, 35, 10
-20, Andwise, Noaks, Westfarthing, Fallohide, 64, 28, Male, 91, 3
-21, Artaud, Bunce, Woody End, Stoor, 74, 36, Male, 40, 1
-19, Marcus, Meadows, Bywater, Fallohide, 96, 24, Male, 35, 2
-23, Chlodion, Sandheaver, Buckland, Harfoot, 66, 39, Male, 51, 10
-22, Godun, Underhill, Westmarch, Stoor, 86, 29, Male, 38, 6
-2, Hartgard, Whitfoot, Southfarthing, Harfoot, 80, 25, Male, 65, 8
-24, Bildad, Brandybuck, Westmarch, Fallohide, 70, 38, Male, 33, 8
-26, Imninon, Fairbairn, Hobbiton, Stoor, 77, 21, Male, 44, 4
-27, Timothy, Galpsi, Tuckborough, Stoor, 86, 21, Male, 66, 8
-28, Liudolf, Burrows, Shire, Fallohide, 87, 20, Male, 59, 7
-29, Celedor, Sandyman, Westfarthing, Harfoot, 60, 23, Male, 45, 2
-31, Farabert, Sandheaver, Southfarthing, Stoor, 80, 39, Male, 91, 4
-30, Dudo, Fallohide, Tookland, Stoor, 86, 34, Male, 79, 7
-34, Porro, Galpsi, Buckland, Harfoot, 65, 21, Male, 88, 5
-33, Sagramor, Hornblower, Westfarthing, Fallohide, 68, 22, Male, 47, 1
-32, Fulrad, Goldworthy, Marish, Harfoot, 83, 25, Male, 49, 10
-36, Wandregisilus, Marsh, Southfarthing, Harfoot, 81, 33, Male, 69, 9
-38, Hartgard, Townsend, Southfarthing, Harfoot, 66, 26, Male, 40, 9
-35, Odovacar, Galpsi, Westmarch, Fallohide, 92, 31, Male, 37, 5
-39, Audomar, Labingi, Shire, Fallohide, 64, 24, Male, 68, 5
-37, Marmadoc, Twofoot, Marish, Stoor, 76, 20, Male, 81, 5
-40, Ceufroy, Whitfoot, Tookland, Harfoot, 88, 30, Male, 33, 9
-42, Ebregisel, Brownlock, Marish, Fallohide, 73, 36, Male, 55, 9
-41, Gruffo, Burrow, Eastfarthing, Stoor, 94, 35, Male, 40, 1
-43, Merovech, Headstrong, Northfarthing, Fallohide, 76, 22, Male, 55, 5
-44, Magnachar, Smallburrow, Westfarthing, Harfoot, 81, 32, Male, 92, 5
-47, Grimald, Fairbairn, Hobbiton, Harfoot, 96, 36, Male, 33, 4
-46, Waiofar, Goodbody, Eastfarthing, Harfoot, 91, 28, Male, 52, 7
-45, Gorbaduc, Lightfoot, Westfarthing, Fallohide, 73, 33, Male, 42, 1
-50, Emmon, Headstrong, Westmarch, Fallohide, 64, 22, Male, 69, 10
-48, Hal, Headstrong, Buckland, Stoor, 92, 21, Male, 92, 3
-49, Berengar, Cotton, Shire, Stoor, 71, 26, Male, 52, 1
-52, Einhard, Mugwort, Green Hill, Stoor, 83, 26, Male, 35, 10
-54, Chrodegang, Gammidge, Westfarthing, Fallohide, 82, 38, Male, 77, 1
-51, Ratold, Fairbairn, Tuckborough, Fallohide, 81, 33, Male, 67, 6
-53, Marmaduke, Brockhouse, Westmarch, Stoor, 76, 33, Male, 79, 8
-56, Waltgaud, Zaragamba, Woody End, Stoor, 68, 29, Male, 72, 5
-55, Wulfram, Longhole, Westmarch, Stoor, 62, 37, Male, 51, 7
-59, Ted, Burrows, Southfarthing, Stoor, 83, 35, Male, 44, 3
-58, Godomar, Brown, Woody End, Stoor, 76, 33, Male, 89, 8
-57, Doderic, Lightfoot, Bridgefields, Fallohide, 66, 33, Male, 71, 10
-62, Cyricus, Tuk, Marish, Fallohide, 94, 26, Male, 41, 9
-60, Imbert, Underhill, Eastfarthing, Stoor, 88, 30, Male, 79, 9
-61, Guntramn, Maggot, Bywater, Stoor, 82, 38, Male, 41, 1
-64, Ingomer, Rumble, Westmarch, Fallohide, 68, 39, Male, 68, 7
-63, Ratold, Stoor, Northfarthing, Harfoot, 75, 39, Male, 82, 3
-66, Ferdibrand, Labingi, Eastfarthing, Fallohide, 60, 36, Male, 71, 10
-68, Wibert, Fairbairn, Bywater, Stoor, 88, 21, Male, 72, 3
-67, Poppo, Goodchild, Green Hill, Fallohide, 71, 31, Male, 55, 3
-65, Largo, Tuk, Shire, Fallohide, 99, 24, Male, 39, 7
-69, Badegisel, Twofoot, Tookland, Stoor, 76, 33, Male, 51, 7
-71, Obo, Marsh, Marish, Harfoot, 64, 24, Male, 70, 3
-72, Erling, Goold, Westfarthing, Fallohide, 67, 31, Male, 85, 1
-70, Goodwill, Sandyman, Green Hill, Fallohide, 70, 34, Male, 35, 7
-73, Orderic, Goldworthy, Bywater, Harfoot, 86, 20, Male, 89, 5
-74, Arnold, Cotton, Westfarthing, Fallohide, 86, 36, Male, 63, 6
-77, Cosimo, Chubb, Green Hill, Stoor, 85, 26, Male, 33, 7
-76, Adelbert, Lightfoot, Bridgefields, Fallohide, 63, 35, Male, 34, 5
-75, Iolo, Proudfoot, Eastfarthing, Fallohide, 80, 33, Male, 39, 1
-79, Angilbart, Fairbairn, Northfarthing, Harfoot, 70, 31, Male, 91, 10
-78, Reginald, Bolger, Shire, Stoor, 99, 36, Male, 67, 1
-80, Thankmar, Burrow, Marish, Stoor, 62, 37, Male, 57, 1
-81, Theodebert, Sandyman, Westmarch, Fallohide, 94, 36, Male, 55, 7
-83, Evroult, Fallohide, Bridgefields, Stoor, 63, 25, Male, 92, 2
-82, Grifo, Sackville, Tookland, Fallohide, 79, 35, Male, 56, 6
-84, Pippin, Gamgee, Tookland, Harfoot, 66, 26, Male, 51, 3
-85, Gerontius, Tunnelly, Eastfarthing, Harfoot, 63, 30, Male, 43, 10
-86, Bungo, Sandheaver, Bridgefields, Fallohide, 90, 29, Male, 85, 9
-87, Tobold, Brockhouse, Tuckborough, Harfoot, 86, 34, Male, 65, 2
-89, Bruno, Brown, Shire, Harfoot, 97, 23, Male, 60, 9
-88, Anskar, Lightfoot, Tookland, Fallohide, 74, 30, Male, 33, 4
-90, Turpin, Goodbody, Hobbiton, Stoor, 77, 28, Male, 68, 9
-91, Theodebert, Sandyman, Marish, Stoor, 65, 38, Male, 73, 3
-92, Grifo, Sackville, Woody End, Fallohide, 68, 28, Male, 40, 9
-93, Evroult, Fallohide, Westmarch, Fallohide, 93, 30, Male, 34, 6
-95, Gerontius, Tunnelly, Green Hill, Fallohide, 68, 36, Male, 73, 8
-94, Pippin, Gamgee, Woody End, Fallohide, 87, 21, Male, 76, 1
-96, Bungo, Sandheaver, Northfarthing, Stoor, 62, 30, Male, 41, 8
-97, Tobold, Brockhouse, Marish, Stoor, 87, 23, Male, 61, 7
-100, Turpin, Goodbody, Shire, Fallohide, 88, 31, Male, 65, 7
-98, Anskar, Lightfoot, Shire, Fallohide, 99, 31, Male, 46, 3
-99, Bruno, Brown, Hobbiton, Harfoot, 76, 39, Male, 79, 9
-101, Godobald, Fallohide, Woody End, Stoor, 75, 23, Male, 51, 5
-102, Wibert, Bracegirdle, Westmarch, Fallohide, 71, 26, Male, 81, 3
-104, Wilibald, Diggle, Bywater, Harfoot, 64, 22, Male, 35, 7
-105, Hartmut, Clayhanger, Buckland, Fallohide, 65, 38, Male, 57, 8
-103, Dodo, Gamgee, Westmarch, Harfoot, 61, 25, Male, 57, 7
-107, Ricfried, Marsh, Woody End, Stoor, 88, 37, Male, 78, 6
-106, Meneaduc, Galpsi, Northfarthing, Fallohide, 95, 37, Male, 77, 1
-108, Ramnulf, Brandagamba, Westmarch, Fallohide, 82, 26, Male, 49, 4
-109, Audovald, Noaks, Marish, Stoor, 62, 36, Male, 59, 10
-110, Samwise, Galpsi, Tookland, Harfoot, 69, 23, Male, 78, 3
-111, Theudebert, Greenhand, Northfarthing, Fallohide, 85, 22, Male, 92, 8
-113, Ricchar, Clayhanger, Hobbiton, Harfoot, 67, 24, Male, 84, 1
-112, Roderic, Marsh, Bridgefields, Fallohide, 91, 32, Male, 37, 2
-114, Saradoc, Bophin, Green Hill, Fallohide, 63, 25, Male, 52, 6
-115, Tobold, Goodchild, Green Hill, Stoor, 63, 33, Male, 68, 5
-117, Angegisis, Hornblower, Marish, Harfoot, 94, 37, Male, 51, 7
-116, Porro, Fallohide, Green Hill, Stoor, 99, 36, Male, 55, 3
-118, Lull, Fairbairn, Tookland, Stoor, 63, 25, Male, 58, 8
-119, Sigismond, Cotton, Tookland, Stoor, 78, 39, Male, 55, 7
-121, Lanfranc, Longhole, Bridgefields, Harfoot, 69, 21, Male, 33, 3
-120, Audoneus, Hayward, Southfarthing, Stoor, 73, 38, Male, 40, 7
-123, Hunald, Maggot, Eastfarthing, Fallohide, 67, 29, Male, 79, 5
-122, Atacinus, Hayward, Bridgefields, Fallohide, 66, 39, Male, 54, 10
-124, Dreux, Fallohide, Northfarthing, Stoor, 83, 21, Male, 86, 9
-126, Wido, Galbasi, Westmarch, Harfoot, 84, 33, Male, 68, 9
-127, Gararic, Burrows, Shire, Stoor, 74, 20, Male, 57, 7
-128, Celedor, Gamwich, Eastfarthing, Fallohide, 84, 27, Male, 47, 8
-125, Wandrille, Brandagamba, Marish, Fallohide, 60, 32, Male, 46, 8
-129, Lebuin, Goodbody, Hobbiton, Fallohide, 79, 34, Male, 77, 10
-131, Syagrius, Underhill, Bywater, Stoor, 72, 38, Male, 48, 9
-130, Trahand, Noaks, Marish, Fallohide, 87, 38, Male, 53, 8
-7, Melampus, Sandheaver, Tookland, Harfoot, 75, 32, Male, 67, 3
-132, Caradas, Banks, Northfarthing, Fallohide, 80, 31, Male, 36, 9
-134, Bodo, Meadows, Tookland, Fallohide, 75, 32, Male, 71, 8
-136, Willehad, Sandheaver, Southfarthing, Harfoot, 78, 35, Male, 47, 8
-135, Bingo, Bracegirdle, Tuckborough, Stoor, 69, 23, Male, 59, 6
-137, Nithard, Mugwort, Marish, Fallohide, 86, 35, Male, 52, 4
-139, Arnegisel, Marsh, Westfarthing, Harfoot, 61, 35, Male, 45, 8
-140, Ted, Marsh, Tookland, Fallohide, 93, 22, Male, 65, 9
-138, Suidbert, Brownlock, Westfarthing, Stoor, 60, 24, Male, 86, 9
-141, Ageric, Fallohide, Marish, Fallohide, 78, 24, Male, 47, 4
-142, Emme, Roper, Westmarch, Harfoot, 71, 33, Male, 47, 9
-143, Theodwin, Meadows, Shire, Harfoot, 89, 28, Male, 88, 5
-144, Theodebert, Twofoot, Bywater, Stoor, 65, 27, Male, 75, 1
-147, Guntram, Townsend, Southfarthing, Harfoot, 65, 39, Male, 92, 2
-146, Adalhard, Hornblower, Bywater, Harfoot, 64, 38, Male, 73, 2
-145, Rudigar, Goldworthy, Green Hill, Fallohide, 77, 36, Male, 81, 2
-148, Minto, Gamwich, Woody End, Fallohide, 61, 30, Male, 89, 5
-149, Wiseman, Bunce, Tuckborough, Fallohide, 64, 26, Male, 84, 7
-151, Monulph, Townsend, Tuckborough, Fallohide, 82, 31, Male, 49, 10
-150, Erling, Fallohide, Shire, Harfoot, 63, 21, Male, 81, 7
-153, Marcus, Greenholm, Westmarch, Fallohide, 68, 29, Male, 64, 2
-154, Wiseman, Boffin, Hobbiton, Harfoot, 85, 20, Male, 55, 9
-157, Enurchus, Fairbairn, Southfarthing, Fallohide, 96, 37, Male, 71, 7
-152, Garivald, Harfoot, Green Hill, Fallohide, 87, 27, Male, 79, 3
-156, Dreux, Longhole, Tuckborough, Fallohide, 66, 30, Male, 67, 4
-155, Amator, Brown, Bridgefields, Stoor, 76, 24, Male, 73, 3
-25, Samson, Cotton, Hobbiton, Fallohide, 69, 23, Male, 36, 1
-159, Helisachar, Tuk, Bridgefields, Stoor, 80, 38, Male, 87, 10
-158, Richer, Zaragamba, Westmarch, Harfoot, 91, 27, Male, 46, 6
-161, Siegfried, Boffin, Buckland, Fallohide, 95, 20, Male, 75, 1
-160, Inigo, Meadows, Tookland, Harfoot, 93, 20, Male, 69, 3
-9, Habaccuc, Bolger, Eastfarthing, Fallohide, 89, 32, Male, 34, 8
-163, Marcho, Pott, Hobbiton, Fallohide, 61, 37, Male, 85, 10
-164, Crassus, Labingi, Bywater, Harfoot, 80, 31, Male, 73, 7
-165, Gunthar, Diggle, Westmarch, Stoor, 82, 27, Male, 85, 10
-166, Burchard, Sandyman, Hobbiton, Fallohide, 61, 38, Male, 60, 1
-168, Fridolin, Brandagamba, Tookland, Stoor, 77, 21, Male, 66, 5
-169, Gondulph, Greenholm, Hobbiton, Harfoot, 70, 34, Male, 83, 6
-167, Isengrin, Hornblower, Buckland, Stoor, 71, 26, Male, 71, 2
-170, Ebroin, Pott, Northfarthing, Fallohide, 69, 26, Male, 63, 9
-171, Turpin, Sandyman, Hobbiton, Fallohide, 73, 29, Male, 51, 3
-172, Munderic, Goodenough, Woody End, Fallohide, 80, 30, Male, 81, 6
-174, Emmeran, Zaragamba, Eastfarthing, Stoor, 83, 23, Male, 54, 4
-173, Nevelung, Hlothran, Westfarthing, Fallohide, 69, 39, Male, 38, 10
-175, Basso, Hornblower, Bywater, Fallohide, 85, 33, Male, 52, 9
-176, Longo, Sackville, Eastfarthing, Harfoot, 65, 39, Male, 87, 6
-177, Bovo, Galbasi, Southfarthing, Fallohide, 91, 35, Male, 41, 6
-179, Gundovald, Clayhanger, Marish, Stoor, 67, 30, Male, 64, 4
-180, Theudebert, Bracegirdle, Hobbiton, Fallohide, 66, 29, Male, 65, 9
-178, Longo, Cotton, Tuckborough, Fallohide, 62, 26, Male, 58, 8
-182, Anno, Burrow, Shire, Stoor, 99, 30, Male, 84, 5
-181, Hildigrim, Roper, Tuckborough, Harfoot, 60, 33, Male, 36, 6
-183, Rudolph, Bolger, Westfarthing, Stoor, 79, 38, Male, 53, 2
-184, Chararic, Brandagamba, Green Hill, Stoor, 77, 24, Male, 66, 8
-186, Conrad, Fallohide, Northfarthing, Stoor, 78, 38, Male, 57, 4
-185, Otto, Diggle, Marish, Harfoot, 97, 33, Male, 38, 3
-188, Radigis, Sackville, Green Hill, Harfoot, 80, 27, Male, 37, 10
-187, Meneaduc, Gamwich, Green Hill, Harfoot, 78, 28, Male, 45, 2
-189, Heribald, Gardner, Westmarch, Harfoot, 87, 33, Male, 72, 7
-191, Thietmar, Proudfoot, Bridgefields, Stoor, 68, 26, Male, 65, 1
-192, Willibald, Bophin, Bywater, Stoor, 98, 22, Male, 53, 8
-190, Mungo, Longholes, Shire, Stoor, 82, 25, Male, 83, 5
-194, Hildigard, Brownlock, Westmarch, Harfoot, 70, 39, Male, 62, 5
-193, Iago, Fallohide, Green Hill, Harfoot, 77, 39, Male, 68, 2
-195, Norbert, Proudfoot, Shire, Harfoot, 84, 21, Male, 75, 1
-196, Panteleon, Fallohide, Shire, Fallohide, 63, 38, Male, 82, 8
-198, Sadoc, Goodchild, Tuckborough, Fallohide, 77, 36, Male, 70, 6
-199, Jo, Goldworthy, Eastfarthing, Stoor, 69, 36, Male, 38, 6
-197, Togo, Burrowes, Westfarthing, Harfoot, 60, 22, Male, 33, 8
-201, Nibs, Goold, Marish, Fallohide, 82, 30, Male, 67, 6
-200, Drogo, Proudfoot, Bridgefields, Harfoot, 63, 23, Male, 67, 9
-202, Fulrad, Stoor, Westfarthing, Stoor, 96, 22, Male, 58, 9
-204, Medard, Bophin, Buckland, Fallohide, 86, 34, Male, 51, 5
-203, Berthaire, Noaks, Northfarthing, Stoor, 67, 30, Male, 43, 7
-207, Griffon, Goodbody, Shire, Fallohide, 92, 21, Male, 85, 2
-206, Sichar, Sackville, Bridgefields, Stoor, 75, 21, Male, 39, 7
-205, Mungo, Sandyman, Buckland, Stoor, 82, 39, Male, 34, 9
-133, Prospero, Brownlock, Westfarthing, Harfoot, 82, 33, Male, 48, 5
-208, Halfast, Greenholm, Tuckborough, Harfoot, 86, 35, Male, 51, 4
-211, Lull, Harfoot, Woody End, Fallohide, 82, 28, Male, 70, 6
-210, Brocard, Bophin, Tookland, Fallohide, 89, 26, Male, 76, 8
-213, Unroch, Rumble, Tuckborough, Stoor, 77, 31, Male, 87, 8
-214, Arbitio, Harfoot, Westmarch, Harfoot, 88, 33, Male, 56, 10
-212, Robur, Tuk, Bywater, Harfoot, 63, 34, Male, 88, 5
-215, Dreux, Roper, Hobbiton, Fallohide, 63, 28, Male, 68, 9
-217, Ouus, Bophin, Northfarthing, Stoor, 79, 28, Male, 82, 2
-218, Birinus, Brownlock, Westfarthing, Stoor, 88, 28, Male, 52, 2
-216, Polo, Bolger, Marish, Harfoot, 62, 20, Male, 80, 9
-220, Riquier, Banks, Northfarthing, Harfoot, 86, 39, Male, 38, 3
-219, Corbinian, Meadows, Bywater, Fallohide, 65, 28, Male, 36, 1
-221, Eracle, Hayward, Tookland, Harfoot, 98, 39, Male, 68, 4
-223, Clodomir, Longhole, Tookland, Fallohide, 68, 28, Male, 70, 6
-224, Bertelis, Tuk, Green Hill, Harfoot, 84, 25, Male, 89, 7
-222, Gereon, Townsend, Woody End, Harfoot, 89, 37, Male, 75, 4
-225, Gundolpho, Clayhanger, Westfarthing, Fallohide, 71, 30, Male, 66, 10
-226, Angilbart, Labingi, Woody End, Fallohide, 83, 35, Male, 43, 3
-227, Alaric, Hogg, Shire, Stoor, 63, 35, Male, 54, 6
-229, Aega, Headstrong, Westfarthing, Stoor, 88, 24, Male, 87, 8
-228, Godomar, Puddifoot, Southfarthing, Stoor, 84, 26, Male, 55, 4
-230, Arnulf, Puddifoot, Northfarthing, Harfoot, 65, 37, Male, 78, 9
-232, Mosco, Boffin, Westmarch, Harfoot, 73, 24, Male, 56, 3
-231, Flodoard, Baggins, Bridgefields, Fallohide, 93, 24, Male, 41, 9
-234, Bruno, Oldbuck, Eastfarthing, Stoor, 62, 20, Male, 66, 8
-233, Emmon, Lightfoot, Marish, Stoor, 85, 24, Male, 43, 2
-235, Gundovald, Sandyman, Hobbiton, Fallohide, 77, 21, Male, 49, 3
-237, Gundolpho, Bracegirdle, Buckland, Stoor, 89, 29, Male, 52, 2
-236, Leufroy, Greenholm, Green Hill, Fallohide, 77, 21, Male, 59, 9
-239, Carl, Hlothran, Bywater, Harfoot, 68, 30, Male, 69, 5
-238, Marmadoc, Bunce, Buckland, Stoor, 63, 21, Male, 34, 2
-241, Artaud, Bolger, Westmarch, Harfoot, 79, 37, Male, 44, 10
-240, Caradas, Sackville, Tuckborough, Fallohide, 76, 28, Male, 84, 8
-244, Wazo, Hayward, Bywater, Fallohide, 76, 21, Male, 59, 8
-243, Boso, Goodchild, Tookland, Fallohide, 97, 39, Male, 63, 4
-246, Maixent, Longhole, Bywater, Stoor, 63, 29, Male, 63, 6
-245, Giseler, Diggle, Woody End, Fallohide, 69, 39, Male, 71, 2
-247, Ansovald, Proudfoot, Northfarthing, Stoor, 97, 26, Male, 58, 4
-248, Berno, Longholes, Westmarch, Harfoot, 97, 20, Male, 83, 1
-250, Theodwin, Headstrong, Bywater, Harfoot, 78, 34, Male, 87, 5
-251, Bruno, Bophin, Bridgefields, Stoor, 98, 28, Male, 39, 10
-249, Aigulf, Hlothran, Bywater, Stoor, 61, 25, Male, 79, 10
-252, Merobaudes, Hayward, Bywater, Fallohide, 70, 32, Male, 34, 9
-254, Hamfast, Brandagamba, Eastfarthing, Harfoot, 66, 22, Male, 74, 2
-253, Warmann, Fallohide, Northfarthing, Fallohide, 84, 34, Male, 91, 5
-255, Corbinian, Zaragamba, Shire, Fallohide, 75, 22, Male, 80, 4
-256, Porro, Fallohide, Westfarthing, Stoor, 67, 32, Male, 39, 5
-257, Maraulf, Hayward, Northfarthing, Stoor, 88, 21, Male, 73, 3
-258, Theodard, Baggins, Southfarthing, Stoor, 83, 33, Male, 60, 3
-259, Wiseman, Banks, Southfarthing, Stoor, 69, 27, Male, 36, 6
-260, Nibs, Clayhanger, Bridgefields, Harfoot, 95, 25, Male, 67, 7
-261, Thierry, Noaks, Northfarthing, Harfoot, 89, 22, Male, 86, 6
-264, Dado, Fairbairn, Bridgefields, Stoor, 73, 31, Male, 62, 6
-263, Lul, Bracegirdle, Shire, Fallohide, 99, 31, Male, 52, 2
-262, Sigismund, Gawkroger, Bridgefields, Stoor, 72, 35, Male, 70, 2
-265, Merimas, Hlothran, Bywater, Harfoot, 74, 34, Male, 68, 10
-267, Grossman, Sackville, Tuckborough, Stoor, 80, 33, Male, 43, 5
-266, Godobald, Proudfoot, Tookland, Fallohide, 72, 35, Male, 39, 3
-268, Guntramn, Galbasi, Shire, Stoor, 62, 24, Male, 62, 4
-269, Angilbart, Pott, Marish, Stoor, 88, 31, Male, 58, 2
-271, Ranugad, Baggins, Shire, Stoor, 71, 20, Male, 60, 7
-270, Gormadoc, Oldbuck, Bywater, Harfoot, 96, 30, Male, 42, 9
-273, Audramnus, Goodenough, Northfarthing, Harfoot, 90, 32, Male, 39, 2
-272, Roderic, Clayhanger, Eastfarthing, Stoor, 69, 21, Male, 78, 8
-275, Fulvus, Sackville, Bywater, Stoor, 74, 27, Male, 37, 9
-274, Maiuel, Stoor, Bridgefields, Fallohide, 89, 20, Male, 70, 4
-277, Aega, Bophin, Northfarthing, Harfoot, 62, 26, Male, 35, 4
-278, Marmadoc, Greenholm, Tuckborough, Fallohide, 71, 37, Male, 55, 8
-276, Orderic, Puddifoot, Westmarch, Fallohide, 69, 31, Male, 50, 10
-279, Arculf, Greenholm, Tookland, Harfoot, 68, 21, Male, 82, 9
-281, Gozolon, Boffin, Westmarch, Fallohide, 60, 33, Male, 79, 7
-280, Wido, Roper, Hobbiton, Stoor, 70, 23, Male, 74, 2
-282, Godun, Boffin, Tuckborough, Stoor, 78, 31, Male, 66, 8
-284, Pancras, Lightfoot, Marish, Fallohide, 81, 35, Male, 63, 8
-283, Gozolon, Townsend, Eastfarthing, Harfoot, 94, 23, Male, 74, 1
-286, Berno, Longholes, Bridgefields, Fallohide, 99, 21, Male, 89, 9
-285, Banazir, Goldworthy, Westmarch, Fallohide, 70, 31, Male, 67, 9
-287, Leutfrid, Tuk, Woody End, Stoor, 98, 38, Male, 76, 2
-288, Kalimac, Pott, Shire, Stoor, 63, 33, Male, 53, 4
-290, Tescelin, Boffin, Marish, Harfoot, 89, 21, Male, 80, 8
-291, Crassus, Greenhand, Eastfarthing, Harfoot, 82, 28, Male, 72, 4
-289, Atacinus, Whitfoot, Woody End, Stoor, 62, 22, Male, 88, 7
-293, Vulmar, Galpsi, Bywater, Stoor, 66, 35, Male, 53, 2
-292, Columbus, Gammidge, Tookland, Fallohide, 80, 27, Male, 40, 6
-294, Atacinus, Gamgee, Bywater, Fallohide, 80, 35, Male, 68, 4
-295, Tomacca, Brown, Bywater, Harfoot, 66, 30, Male, 36, 2
-296, Bucca, Fairbairn, Bywater, Harfoot, 79, 21, Male, 83, 3
-298, Ferdinand, Bracegirdle, Westmarch, Stoor, 96, 32, Male, 70, 2
-297, Fulbert, Labingi, Woody End, Fallohide, 93, 22, Male, 87, 10
-300, Bladud, Bracegirdle, Hobbiton, Fallohide, 78, 22, Male, 91, 1
-299, Sunnegisil, Brown, Tuckborough, Harfoot, 71, 27, Male, 43, 9
-301, Clodio, Zaragamba, Northfarthing, Harfoot, 88, 36, Male, 48, 6
-302, Liudhard, Gardner, Bridgefields, Harfoot, 74, 25, Male, 72, 5
-303, Erard, Galpsi, Southfarthing, Fallohide, 76, 34, Male, 62, 8
-305, Marmaduke, Baggins, Green Hill, Fallohide, 86, 39, Male, 92, 10
-304, Angegisis, Headstrong, Woody End, Harfoot, 84, 29, Male, 40, 8
-306, Merimas, Longhole, Tuckborough, Fallohide, 92, 23, Male, 70, 2
-307, Orlando, Gamwich, Tuckborough, Fallohide, 85, 35, Male, 66, 8
-308, Besso, Roper, Northfarthing, Harfoot, 84, 27, Male, 37, 2
-310, Agobard, Gawkroger, Bywater, Harfoot, 67, 34, Male, 65, 3
-309, Ceufroy, Greenhand, Tuckborough, Stoor, 81, 23, Male, 58, 8
-311, Clovis, Brownlock, Southfarthing, Harfoot, 97, 30, Male, 74, 7
-313, Artaud, Gawkroger, Eastfarthing, Fallohide, 99, 25, Male, 43, 8
-312, Magneric, Underhill, Southfarthing, Harfoot, 70, 26, Male, 91, 2
-314, Angegisis, Goodenough, Westmarch, Harfoot, 83, 29, Male, 57, 2
-315, Hob, Gamgee, Hobbiton, Stoor, 93, 37, Male, 45, 4
-318, Tobold, Gardner, Woody End, Fallohide, 79, 20, Male, 47, 3
-317, Waleran, Goold, Shire, Harfoot, 68, 28, Male, 79, 10
-316, Ceredic, Gammidge, Westfarthing, Fallohide, 96, 21, Male, 80, 3
-319, Nevelung, Oldbuck, Hobbiton, Harfoot, 73, 28, Male, 88, 7
-320, Andica, Baggins, Green Hill, Stoor, 82, 27, Male, 68, 6
-322, Bero, Labingi, Green Hill, Harfoot, 98, 38, Male, 78, 3
-321, Chlodowig, Noaks, Hobbiton, Fallohide, 93, 23, Male, 76, 3
-323, Imninon, Marsh, Bridgefields, Harfoot, 74, 37, Male, 60, 3
-324, Agiulf, Galbasi, Marish, Fallohide, 68, 29, Male, 61, 7
-325, Dodinas, Butcher, Marish, Stoor, 99, 20, Male, 76, 9
-326, Agobard, Goodbody, Marish, Stoor, 83, 34, Male, 71, 2
-328, Timothy, Meadows, Buckland, Fallohide, 81, 31, Male, 35, 9
-327, Hlodver, Brownlock, Westfarthing, Fallohide, 68, 30, Male, 45, 10
-329, Matfrid, Brownlock, Bridgefields, Harfoot, 78, 24, Male, 44, 6
-331, Waleran, Diggle, Woody End, Harfoot, 62, 31, Male, 54, 10
-330, Angilbart, Gawkroger, Eastfarthing, Fallohide, 62, 39, Male, 65, 1
-332, Chlodomer, Headstrong, Buckland, Fallohide, 79, 30, Male, 33, 6
-334, Gondulph, Townsend, Bywater, Stoor, 79, 38, Male, 82, 3
-333, Dodo, Goodenough, Northfarthing, Harfoot, 79, 29, Male, 36, 8
-337, Will, Sackville, Buckland, Stoor, 84, 39, Male, 43, 4
-162, Abbo, Underhill, Southfarthing, Harfoot, 80, 23, Male, 56, 2
-336, Emme, Took, Westfarthing, Harfoot, 67, 34, Male, 60, 9
-335, Hildeprand, Sandyman, Eastfarthing, Fallohide, 61, 29, Male, 37, 8
-340, Ricbodo, Puddifoot, Northfarthing, Harfoot, 82, 33, Male, 84, 3
-338, Willehad, Harfoot, Buckland, Stoor, 83, 35, Male, 77, 7
-339, Andwise, Fallohide, Shire, Fallohide, 75, 39, Male, 76, 1
-341, Gifemund, Sandheaver, Westmarch, Stoor, 75, 37, Male, 78, 8
-342, Lebuin, Marsh, Buckland, Fallohide, 74, 30, Male, 78, 10
-343, Leodegar, Bracegirdle, Woody End, Fallohide, 98, 30, Male, 86, 2
-345, Emme, Bophin, Bywater, Fallohide, 75, 23, Male, 85, 3
-344, Tassilo, Headstrong, Shire, Stoor, 80, 28, Male, 48, 10
-346, Clodio, Smallburrow, Tuckborough, Harfoot, 87, 20, Male, 42, 1
-347, Bilba, Headstrong, Westfarthing, Harfoot, 81, 29, Male, 52, 2
-348, Pacatian, Lightfoot, Shire, Harfoot, 69, 37, Male, 39, 4
-349, Isengrim, Sackville, Buckland, Fallohide, 65, 33, Male, 34, 4
-351, Wiseman, Hogg, Hobbiton, Harfoot, 78, 39, Male, 73, 7
-350, Fulvus, Bunce, Westmarch, Harfoot, 93, 20, Male, 34, 5
-353, Floribert, Galbasi, Eastfarthing, Fallohide, 60, 25, Male, 72, 7
-352, Wido, Harfoot, Hobbiton, Fallohide, 96, 38, Male, 37, 7
-354, Gondulph, Burrows, Buckland, Harfoot, 87, 24, Male, 73, 10
-356, Audoen, Burrow, Marish, Harfoot, 87, 35, Male, 64, 6
-355, Dodinas, Goodchild, Buckland, Stoor, 69, 34, Male, 87, 6
-357, Sicho, Greenholm, Westmarch, Fallohide, 92, 34, Male, 60, 10
-358, Hamson, Puddifoot, Hobbiton, Harfoot, 83, 28, Male, 67, 7
-360, Bungo, Brandagamba, Westfarthing, Fallohide, 84, 29, Male, 70, 9
-359, Richomer, Rumble, Tuckborough, Fallohide, 89, 24, Male, 79, 7
-361, Uffo, Stoor, Bywater, Stoor, 80, 22, Male, 75, 3
-363, Ceufroy, Brandagamba, Bridgefields, Fallohide, 78, 26, Male, 89, 8
-362, Habaccuc, Stoor, Hobbiton, Fallohide, 67, 35, Male, 71, 1
-365, Tobias, Butcher, Shire, Stoor, 69, 21, Male, 70, 9
-364, Helinand, Fairbairn, Hobbiton, Harfoot, 65, 35, Male, 74, 9
-366, Samson, Proudfoot, Woody End, Harfoot, 73, 34, Male, 59, 1
-368, Huebald, Goodchild, Woody End, Fallohide, 87, 34, Male, 75, 9
-367, Lothar, Headstrong, Eastfarthing, Fallohide, 70, 27, Male, 79, 10
-369, Berengar, Gawkroger, Shire, Stoor, 97, 31, Male, 59, 3
-370, Chilperic, Burrows, Eastfarthing, Harfoot, 97, 30, Male, 62, 2
-371, Uffo, Stoor, Hobbiton, Harfoot, 94, 23, Male, 45, 3
-373, Ceufroy, Brandagamba, Eastfarthing, Stoor, 62, 22, Male, 56, 1
-372, Habaccuc, Stoor, Hobbiton, Harfoot, 74, 32, Male, 69, 3
-375, Tobias, Butcher, Northfarthing, Fallohide, 65, 23, Male, 46, 1
-374, Helinand, Fairbairn, Shire, Fallohide, 90, 26, Male, 80, 6
-376, Samson, Proudfoot, Eastfarthing, Stoor, 98, 25, Male, 35, 7
-378, Huebald, Goodchild, Southfarthing, Fallohide, 60, 29, Male, 70, 5
-377, Lothar, Headstrong, Green Hill, Harfoot, 71, 24, Male, 65, 4
-379, Berengar, Gawkroger, Buckland, Fallohide, 65, 28, Male, 82, 10
-381, Tomburan, Brown, Westfarthing, Fallohide, 95, 23, Male, 38, 5
-380, Chilperic, Burrows, Buckland, Fallohide, 66, 29, Male, 71, 4
-382, Vicelin, Oldbuck, Bywater, Stoor, 95, 38, Male, 33, 8
-384, Sago, Harfoot, Bywater, Fallohide, 82, 37, Male, 51, 9
-385, Godobald, Pott, Northfarthing, Fallohide, 79, 27, Male, 52, 10
-383, Ferdinand, Burrows, Bridgefields, Harfoot, 96, 35, Male, 48, 8
-386, Carambo, Brownlock, Westfarthing, Fallohide, 69, 24, Male, 50, 9
-388, Sigismond, Brownlock, Green Hill, Fallohide, 64, 24, Male, 36, 9
-387, Jo, Marsh, Green Hill, Harfoot, 61, 26, Male, 76, 10
-389, Ted, Harfoot, Buckland, Fallohide, 95, 22, Male, 70, 3
-390, Aega, Hogg, Bridgefields, Stoor, 73, 29, Male, 36, 8
-391, Wulfhard, Hayward, Woody End, Stoor, 60, 37, Male, 91, 5
-392, Merovech, Brownlock, Westmarch, Harfoot, 81, 34, Male, 38, 9
-393, Ebregisel, Labingi, Tookland, Harfoot, 78, 24, Male, 65, 10
-394, Audovald, Burrows, Marish, Harfoot, 79, 33, Male, 74, 8
-395, Fulcaire, Stoor, Northfarthing, Stoor, 65, 22, Male, 57, 2
-396, Heribert, Fairbairn, Woody End, Fallohide, 81, 21, Male, 56, 3
-397, Isengrin, Gamwich, Eastfarthing, Harfoot, 61, 20, Male, 67, 1
-399, Orderic, Longhole, Shire, Harfoot, 81, 35, Male, 90, 6
-400, Richomeres, Sandheaver, Buckland, Stoor, 63, 36, Male, 81, 7
-398, Ceufroy, Mugwort, Marish, Harfoot, 86, 26, Male, 68, 9
-401, Drogon, Brown, Westfarthing, Harfoot, 95, 28, Male, 55, 1
-402, Munderic, Whitfoot, Woody End, Harfoot, 99, 29, Male, 78, 1
-403, Nob, Hogg, Buckland, Harfoot, 68, 31, Male, 78, 3
-404, Lull, Diggle, Bywater, Fallohide, 92, 25, Male, 78, 10
-405, Bucca, Stoor, Eastfarthing, Harfoot, 81, 35, Male, 75, 5
-407, Faro, Sandheaver, Bridgefields, Stoor, 92, 24, Male, 78, 9
-406, Rathier, Hogg, Buckland, Fallohide, 73, 39, Male, 91, 4
-408, Theodard, Hlothran, Northfarthing, Harfoot, 76, 26, Male, 64, 2
-410, Columbus, Burrows, Westmarch, Fallohide, 91, 37, Male, 57, 5
-409, Balderic, Tunnelly, Bridgefields, Stoor, 79, 31, Male, 90, 7
-242, Marcoul, Greenhand, Tuckborough, Harfoot, 85, 31, Male, 85, 10
-411, Engelbert, Brockhouse, Eastfarthing, Stoor, 89, 21, Male, 38, 7
-412, Erard, Twofoot, Eastfarthing, Harfoot, 98, 39, Male, 75, 1
-414, Hilduin, Brown, Bywater, Fallohide, 62, 36, Male, 89, 3
-413, Zwentibold, Banks, Buckland, Harfoot, 99, 30, Male, 76, 3
-416, Jocelin, Maggot, Bywater, Stoor, 95, 37, Male, 40, 9
-417, Andica, Gardner, Westfarthing, Harfoot, 86, 36, Male, 56, 2
-415, Flavus, Hlothran, Buckland, Harfoot, 71, 29, Male, 87, 6
-419, Cyr, Zaragamba, Westmarch, Stoor, 80, 34, Male, 83, 7
-418, Wandrille, Greenhand, Marish, Harfoot, 95, 29, Male, 37, 6
-422, Isumbras, Boffin, Hobbiton, Stoor, 97, 25, Male, 63, 2
-420, Hamilcar, Bunce, Green Hill, Stoor, 74, 35, Male, 48, 9
-421, Gundobad, Gammidge, Tuckborough, Stoor, 73, 30, Male, 45, 4
-423, Hartmut, Stoor, Westfarthing, Stoor, 76, 28, Male, 78, 5
-424, Wilimar, Sackville, Westfarthing, Harfoot, 62, 24, Male, 73, 2
-425, Otker, Oldbuck, Green Hill, Harfoot, 92, 27, Male, 35, 5
-426, Corbus, Goold, Marish, Stoor, 79, 36, Male, 62, 3
-428, Hildigrim, Goodbody, Bridgefields, Fallohide, 87, 23, Male, 55, 4
-431, Merovech, Burrows, Eastfarthing, Fallohide, 76, 38, Male, 43, 2
-427, Jo, Mugwort, Tuckborough, Stoor, 75, 32, Male, 90, 10
-430, Sigeric, Bophin, Green Hill, Harfoot, 97, 21, Male, 77, 8
-429, Leuthard, Took, Shire, Harfoot, 68, 31, Male, 77, 8
-432, Giselbert, Meadows, Westmarch, Stoor, 84, 25, Male, 42, 4
-434, Adelard, Goodbody, Westmarch, Harfoot, 62, 38, Male, 53, 4
-433, Rudigar, Diggle, Bywater, Fallohide, 72, 22, Male, 70, 9
-435, Warmann, Diggle, Tookland, Harfoot, 84, 33, Male, 53, 7
-436, Valdemar, Galbasi, Southfarthing, Stoor, 75, 27, Male, 56, 9
-437, Bucca, Roper, Buckland, Stoor, 89, 28, Male, 87, 5
-209, Wazo, Whitfoot, Bywater, Fallohide, 71, 30, Male, 90, 5
-438, Hubert, Hayward, Bywater, Harfoot, 80, 39, Male, 35, 6
-439, Rathar, Oldbuck, Shire, Harfoot, 62, 24, Male, 58, 9
-440, Gundabald, Goold, Hobbiton, Fallohide, 82, 31, Male, 56, 4
-442, Charles, Proudfoot, Westfarthing, Harfoot, 67, 23, Male, 88, 3
-443, Odilon, Brockhouse, Eastfarthing, Stoor, 74, 25, Male, 50, 10
-441, Magnachar, Sandheaver, Westfarthing, Fallohide, 78, 21, Male, 66, 3
-444, Togo, Hlothran, Westfarthing, Fallohide, 98, 35, Male, 92, 9
-445, Wilibald, Brandagamba, Eastfarthing, Harfoot, 90, 35, Male, 38, 8
-446, Samlad, Headstrong, Northfarthing, Stoor, 76, 24, Male, 70, 7
-448, Berenger, Goldworthy, Green Hill, Harfoot, 99, 38, Male, 41, 3
-447, Hildigrim, Longhole, Tookland, Fallohide, 72, 30, Male, 38, 4
-450, Timba, Hayward, Westmarch, Harfoot, 97, 21, Male, 64, 4
-449, Gerontius, Gamwich, Westfarthing, Fallohide, 64, 32, Male, 68, 10
-452, Alberic, Smallburrow, Bridgefields, Fallohide, 95, 24, Male, 40, 8
-451, Agobard, Gardner, Eastfarthing, Harfoot, 67, 27, Male, 35, 10
-455, Balderic, Hogg, Eastfarthing, Fallohide, 78, 28, Male, 65, 10
-454, Bladud, Roper, Bywater, Fallohide, 89, 35, Male, 41, 9
-453, Taurin, Goodbody, Bywater, Harfoot, 64, 36, Male, 61, 9
-456, Thierry, Gammidge, Bywater, Fallohide, 79, 31, Male, 45, 5
-457, Nick, Goold, Tuckborough, Harfoot, 97, 23, Male, 44, 3
-458, Asselin, Greenholm, Bridgefields, Stoor, 92, 31, Male, 56, 3
-460, Hildebald, Headstrong, Tuckborough, Stoor, 80, 26, Male, 60, 1
-461, Gereon, Proudfoot, Buckland, Harfoot, 84, 30, Male, 35, 3
-459, Sago, Burrows, Westmarch, Harfoot, 79, 39, Male, 76, 3
-463, Aregisel, Twofoot, Bywater, Harfoot, 74, 35, Male, 71, 2
-462, Wulfhard, Longhole, Southfarthing, Fallohide, 96, 37, Male, 45, 1
-464, Besso, Hayward, Northfarthing, Fallohide, 78, 33, Male, 41, 7
-466, Benild, Gamgee, Bridgefields, Stoor, 90, 24, Male, 58, 3
-467, Orderic, Chubb, Shire, Harfoot, 75, 20, Male, 90, 6
-465, Thietmar, Brownlock, Westfarthing, Stoor, 73, 26, Male, 85, 4
-468, Fortinbras, Maggot, Bridgefields, Harfoot, 94, 37, Male, 44, 1
-470, Nibelung, Burrows, Southfarthing, Fallohide, 88, 38, Male, 84, 4
-471, Theodon, Cotton, Northfarthing, Fallohide, 92, 37, Male, 85, 9
-469, Audovald, Galpsi, Bridgefields, Harfoot, 84, 30, Male, 51, 6
-472, Cyr, Brockhouse, Eastfarthing, Stoor, 79, 38, Male, 87, 9
-473, Gundahar, Tuk, Bridgefields, Fallohide, 82, 23, Male, 66, 1
-474, Aregisel, Zaragamba, Bridgefields, Fallohide, 90, 34, Male, 48, 7
-475, Butilin, Chubb, Buckland, Fallohide, 77, 37, Male, 40, 4
-477, Audramnus, Gamgee, Eastfarthing, Fallohide, 97, 28, Male, 86, 6
-476, Wazo, Bracegirdle, Green Hill, Stoor, 81, 35, Male, 55, 1
-479, Berchar, Fallohide, Westfarthing, Stoor, 63, 34, Male, 66, 6
-478, Chlodomer, Twofoot, Tuckborough, Stoor, 93, 21, Male, 67, 2
-481, Fulrad, Rumble, Westfarthing, Stoor, 69, 23, Male, 39, 10
-480, Wilcome, Goodenough, Buckland, Fallohide, 73, 32, Male, 58, 2
-482, Ilberic, Townsend, Buckland, Stoor, 79, 30, Male, 54, 8
-484, Merry, Pott, Southfarthing, Stoor, 84, 25, Male, 80, 1
-483, Marcoul, Rumble, Southfarthing, Harfoot, 80, 32, Male, 85, 3
-485, Cottar, Oldbuck, Westfarthing, Harfoot, 83, 38, Male, 59, 1
-487, Theutgaud, Brandagamba, Bywater, Stoor, 76, 24, Male, 53, 8
-486, Walaric, Stoor, Westfarthing, Harfoot, 71, 37, Male, 56, 3
-488, Nicol, Goold, Southfarthing, Stoor, 70, 22, Male, 45, 4
-490, Marcus, Sandyman, Bridgefields, Stoor, 68, 35, Male, 36, 4
-489, Nick, Diggle, Northfarthing, Harfoot, 86, 20, Male, 64, 7
-491, Wandregisilus, Zaragamba, Shire, Stoor, 73, 31, Male, 80, 8
-493, Amator, Gawkroger, Westfarthing, Stoor, 80, 23, Male, 48, 4
-492, Clotaire, Longholes, Shire, Fallohide, 75, 33, Male, 58, 8
-494, Crassus, Proudfoot, Southfarthing, Harfoot, 91, 24, Male, 59, 6
-495, Medard, Twofoot, Woody End, Stoor, 71, 35, Male, 40, 10
-497, Fulbert, Brown, Bridgefields, Harfoot, 66, 24, Male, 37, 9
-496, Sancho, Butcher, Tuckborough, Stoor, 68, 21, Male, 56, 1
-498, Gozolon, Gamgee, Southfarthing, Stoor, 64, 39, Male, 50, 4
-499, Hubert, Townsend, Northfarthing, Stoor, 85, 28, Male, 62, 9
-501, Frodo, Baggins, Buckland, Stoor, 66, 27, Male, 70, 9
-500, Gundahar, Burrow, Green Hill, Stoor, 71, 21, Male, 82, 9
-502, Bilbo, Baggins, Marish, Stoor, 90, 22, Male, 39, 10
-503, Peregrin, Tuk, Bridgefields, Harfoot, 90, 27, Male, 61, 2
-504, Sam, Gamgee, Bywater, Stoor, 73, 28, Male, 38, 10
-505, Merry, Brandybuck, Tuckborough, Stoor, 87, 25, Male, 36, 8
-506, Lyla, Goold, Northfarthing, Stoor, 78, 28, Female, 46, 8
-507, Dianthus, Lightfoot, Westmarch, Fallohide, 78, 35, Female, 85, 4
-512, Amarylla, Burrow, Woody End, Stoor, 64, 27, Female, 80, 10
-514, Viola, Hogg, Westfarthing, Harfoot, 84, 34, Female, 52, 4
-511, Narcissa, Oldbuck, Tuckborough, Fallohide, 72, 20, Female, 62, 10
-509, Hilda, Burrows, Woody End, Fallohide, 69, 31, Female, 88, 6
-515, Daffodila, Galbasi, Green Hill, Harfoot, 92, 29, Female, 61, 3
-516, Calaminth, Lightfoot, Marish, Harfoot, 90, 34, Female, 56, 8
-518, Calamintha, Noaks, Shire, Stoor, 94, 21, Female, 56, 1
-519, Peony, Fallohide, Tuckborough, Stoor, 98, 24, Female, 54, 1
-517, Lalia, Harfoot, Bridgefields, Stoor, 65, 34, Female, 40, 10
-520, Bell, Sandyman, Eastfarthing, Fallohide, 63, 21, Female, 76, 2
-510, Gilly, Burrow, Green Hill, Fallohide, 93, 37, Female, 60, 9
-521, Daffodila, Sandyman, Westfarthing, Fallohide, 60, 24, Female, 54, 2
-524, Cercis, Gawkroger, Tookland, Fallohide, 96, 37, Female, 84, 3
-525, Dahlia, Hornblower, Eastfarthing, Stoor, 74, 32, Female, 51, 7
-523, Peona, Longholes, Westmarch, Harfoot, 92, 24, Female, 59, 2
-526, Alchemilla, Lightfoot, Southfarthing, Stoor, 60, 38, Female, 79, 7
-528, Belba, Galpsi, Marish, Stoor, 68, 25, Female, 69, 10
-529, Agate, Butcher, Marish, Stoor, 66, 33, Female, 81, 1
-527, Camella, Longholes, Shire, Harfoot, 80, 33, Female, 64, 10
-522, Dahlia, Townsend, Tookland, Stoor, 87, 37, Female, 64, 8
-532, Diamond, Gamgee, Shire, Stoor, 75, 29, Female, 39, 9
-531, Jade, Noaks, Tuckborough, Harfoot, 60, 20, Female, 81, 7
-533, Celeste, Headstrong, Westmarch, Fallohide, 65, 24, Female, 50, 7
-534, Lamia, Brockhouse, Tookland, Stoor, 94, 33, Female, 50, 7
-535, Virginia, Marsh, Westmarch, Stoor, 60, 36, Female, 77, 4
-536, Celeste, Sandyman, Tookland, Stoor, 92, 29, Female, 89, 1
-513, Camella, Twofoot, Westfarthing, Fallohide, 82, 39, Female, 77, 9
-539, Sapphire, Stoor, Northfarthing, Harfoot, 82, 39, Female, 41, 9
-538, Belladonna, Bunce, Buckland, Fallohide, 62, 24, Female, 89, 1
-540, Amsonia, Goold, Westmarch, Harfoot, 75, 26, Female, 36, 7
-542, Angelona, Burrow, Eastfarthing, Harfoot, 71, 24, Female, 87, 1
-541, Canna, Longhole, Tookland, Fallohide, 96, 33, Female, 56, 1
-543, Hildibrand, Twofoot, Bywater, Fallohide, 86, 20, Female, 54, 4
-544, Gilly, Galpsi, Eastfarthing, Harfoot, 93, 31, Female, 43, 6
-545, Nemisa, Pott, Westmarch, Stoor, 61, 39, Female, 87, 3
-546, Hanna, Lightfoot, Eastfarthing, Fallohide, 69, 24, Female, 39, 10
-548, Celosia, Longholes, Bywater, Harfoot, 82, 35, Female, 57, 10
-547, Berylla, Longholes, Westfarthing, Stoor, 90, 26, Female, 36, 7
-550, Calla, Fallohide, Tuckborough, Fallohide, 66, 33, Female, 40, 8
-549, Calla, Burrows, Westmarch, Fallohide, 68, 30, Female, 79, 10
-551, Chica, Greenholm, Hobbiton, Stoor, 77, 26, Female, 42, 7
-553, Melilot, Sandheaver, Southfarthing, Stoor, 62, 28, Female, 70, 3
-552, Emerald, Underhill, Westfarthing, Fallohide, 82, 39, Female, 80, 6
-554, Peona, Gamwich, Woody End, Harfoot, 92, 30, Female, 62, 6
-555, Heather, Burrow, Eastfarthing, Harfoot, 71, 38, Female, 89, 5
-557, Belladonna, Marsh, Buckland, Fallohide, 80, 39, Female, 34, 6
-558, Camassia, Goold, Northfarthing, Fallohide, 62, 24, Female, 91, 1
-556, Crocosmia, Oldbuck, Tuckborough, Harfoot, 93, 31, Female, 68, 5
-560, Lavender, Proudfoot, Northfarthing, Harfoot, 96, 32, Female, 92, 8
-561, Camomile, Noaks, Marish, Harfoot, 97, 26, Female, 70, 6
-559, Gerbera, Whitfoot, Bywater, Fallohide, 80, 35, Female, 73, 1
-562, Gaura, Longhole, Westmarch, Harfoot, 82, 38, Female, 49, 4
-563, Dandelion, Puddifoot, Tuckborough, Fallohide, 82, 27, Female, 53, 9
-565, Verbena, Sackville, Tookland, Stoor, 81, 21, Female, 40, 5
-564, Petunia, Banks, Westfarthing, Fallohide, 91, 25, Female, 37, 6
-566, Ruby, Hayward, Westmarch, Fallohide, 75, 26, Female, 45, 3
-568, Beryl, Whitfoot, Bywater, Harfoot, 78, 27, Female, 58, 3
-567, Anemone, Rumble, Southfarthing, Harfoot, 81, 34, Female, 87, 3
-569, Opal, Pott, Hobbiton, Fallohide, 60, 22, Female, 61, 8
-570, Azalea, Tuk, Bywater, Harfoot, 84, 27, Female, 52, 2
-537, Diamond, Proudfoot, Eastfarthing, Stoor, 81, 22, Female, 88, 7
-573, Malva, Tunnelly, Westmarch, Harfoot, 89, 34, Female, 65, 2
-571, Primula, Goldworthy, Shire, Fallohide, 89, 38, Female, 68, 2
-574, Canna, Smallburrow, Hobbiton, Harfoot, 71, 25, Female, 74, 2
-530, Anagellis, Goodenough, Buckland, Stoor, 94, 24, Female, 71, 9
-572, Belba, Longholes, Hobbiton, Stoor, 75, 29, Female, 53, 1
-578, Brunnera, Gardner, Eastfarthing, Fallohide, 67, 21, Female, 60, 2
-575, Pimpernel, Cotton, Bywater, Stoor, 75, 29, Female, 66, 8
-579, Malva, Tunnelly, Shire, Stoor, 91, 29, Female, 85, 6
-581, Maple, Mugwort, Westmarch, Harfoot, 67, 31, Female, 71, 1
-582, Cercis, Chubb, Shire, Fallohide, 75, 23, Female, 74, 8
-580, Zinnia, Headstrong, Westfarthing, Harfoot, 81, 29, Female, 67, 4
-576, Celeste, Gammidge, Tuckborough, Stoor, 96, 37, Female, 52, 3
-583, Belladonna, Smallburrow, Green Hill, Harfoot, 95, 31, Female, 78, 6
-586, Narcissa, Greenholm, Bridgefields, Harfoot, 90, 26, Female, 83, 2
-585, Iris, Gammidge, Buckland, Stoor, 84, 31, Female, 49, 9
-587, Brunnera, Brownlock, Tookland, Harfoot, 79, 37, Female, 53, 8
-589, Adamanta, Longhole, Marish, Fallohide, 86, 27, Female, 90, 7
-588, Gazania, Meadows, Southfarthing, Stoor, 61, 33, Female, 69, 1
-508, Berylla, Hlothran, Southfarthing, Fallohide, 87, 26, Female, 61, 9
-590, Anagelli, Pott, Marish, Harfoot, 82, 30, Female, 61, 9
-592, Pearl, Hornblower, Tuckborough, Harfoot, 70, 27, Female, 86, 4
-593, Hilda, Whitfoot, Bridgefields, Harfoot, 62, 38, Female, 44, 3
-594, Lyla, Roper, Tuckborough, Harfoot, 67, 28, Female, 90, 4
-596, Calla, Goodenough, Eastfarthing, Stoor, 81, 27, Female, 68, 4
-595, Crocosmia, Greenhand, Westfarthing, Fallohide, 61, 38, Female, 80, 8
-584, Elanor, Stoor, Shire, Stoor, 75, 29, Female, 81, 5
-598, Cosma, Cotton, Westfarthing, Harfoot, 93, 36, Female, 46, 6
-599, Celosia, Pott, Southfarthing, Fallohide, 77, 23, Female, 35, 2
-600, Anagelli, Tunnelly, Eastfarthing, Fallohide, 84, 38, Female, 59, 2
-601, Pimpanella, Clayhanger, Bywater, Fallohide, 84, 27, Female, 65, 1
-602, Tulip, Brown, Bridgefields, Fallohide, 76, 30, Female, 41, 3
-603, Lily, Burrowes, Tookland, Stoor, 85, 30, Female, 58, 3
-606, Begona, Brockhouse, Green Hill, Harfoot, 84, 34, Female, 45, 3
-607, Heliconia, Stoor, Tuckborough, Harfoot, 96, 26, Female, 70, 10
-604, Belladonna, Brockhouse, Green Hill, Stoor, 74, 22, Female, 79, 9
-605, Adaldrida, Greenhand, Buckland, Stoor, 95, 37, Female, 41, 5
-608, Diamond, Brandagamba, Hobbiton, Fallohide, 66, 31, Female, 90, 6
-597, Camassia, Diggle, Northfarthing, Harfoot, 69, 37, Female, 81, 10
-610, Celosa, Sandheaver, Tookland, Harfoot, 95, 30, Female, 41, 5
-612, Coryda, Roper, Westmarch, Stoor, 93, 37, Female, 37, 5
-611, Gaura, Underhill, Hobbiton, Stoor, 67, 35, Female, 48, 9
-609, Malva, Goold, Southfarthing, Harfoot, 76, 33, Female, 79, 2
-613, Veronica, Twofoot, Eastfarthing, Stoor, 82, 33, Female, 67, 7
-615, Viola, Underhill, Shire, Stoor, 65, 30, Female, 60, 4
-616, Calendine, Labingi, Northfarthing, Harfoot, 82, 24, Female, 47, 1
-618, Heliconia, Burrowes, Buckland, Fallohide, 84, 26, Female, 71, 8
-617, Celosa, Cotton, Woody End, Fallohide, 80, 28, Female, 43, 8
-620, Lily, Diggle, Eastfarthing, Stoor, 91, 21, Female, 90, 7
-623, Narcissa, Burrow, Woody End, Stoor, 68, 21, Female, 42, 8
-622, Amarantha, Goodbody, Marish, Stoor, 89, 38, Female, 63, 4
-577, Monarda, Smallburrow, Westmarch, Fallohide, 73, 32, Female, 76, 8
-621, Malva, Cotton, Southfarthing, Harfoot, 86, 21, Female, 44, 5
-624, Calceola, Gardner, Hobbiton, Stoor, 95, 37, Female, 50, 1
-626, Heliconia, Longhole, Tuckborough, Stoor, 97, 39, Female, 71, 1
-627, Cleome, Maggot, Green Hill, Harfoot, 98, 33, Female, 77, 8
-629, Diascia, Oldbuck, Tookland, Fallohide, 85, 22, Female, 79, 9
-625, Pearl, Chubb, Buckland, Harfoot, 68, 32, Female, 77, 10
-630, Holly, Goold, Tookland, Fallohide, 61, 37, Female, 42, 8
-631, Cleoma, Brownlock, Tuckborough, Harfoot, 77, 33, Female, 90, 10
-628, Jasmina, Took, Westmarch, Harfoot, 82, 21, Female, 71, 6
-633, Eglantine, Whitfoot, Shire, Stoor, 98, 35, Female, 56, 5
-632, Amsonia, Gardner, Bridgefields, Fallohide, 62, 28, Female, 84, 9
-636, Eglantine, Harfoot, Shire, Stoor, 63, 29, Female, 61, 2
-637, Jasmina, Mugwort, Green Hill, Stoor, 76, 31, Female, 68, 2
-635, Lonicera, Bolger, Shire, Stoor, 67, 35, Female, 62, 3
-634, Dicentra, Bolger, Southfarthing, Stoor, 75, 20, Female, 43, 6
-638, Chica, Labingi, Shire, Fallohide, 83, 31, Female, 76, 8
-640, Diascia, Longhole, Westmarch, Harfoot, 94, 21, Female, 55, 7
-641, Camellia, Burrow, Tuckborough, Fallohide, 62, 29, Female, 67, 10
-591, Dandelia, Rumble, Bywater, Fallohide, 92, 20, Female, 47, 2
-642, Viola, Butcher, Westfarthing, Stoor, 95, 30, Female, 38, 7
-644, Daffodila, Gamwich, Woody End, Harfoot, 78, 34, Female, 40, 5
-643, Alyssa, Puddifoot, Bywater, Fallohide, 80, 34, Female, 90, 6
-645, Malva, Hornblower, Eastfarthing, Stoor, 74, 33, Female, 66, 8
-646, Myrtle, Hayward, Tuckborough, Fallohide, 95, 20, Female, 72, 8
-649, Emerald, Hlothran, Northfarthing, Fallohide, 71, 29, Female, 71, 5
-647, Lamia, Gardner, Eastfarthing, Stoor, 85, 37, Female, 83, 8
-648, Gladiola, Meadows, Bridgefields, Stoor, 95, 31, Female, 54, 10
-650, Peona, Gamwich, Marish, Harfoot, 79, 24, Female, 46, 10
-639, Adaldrida, Goodbody, Green Hill, Harfoot, 89, 32, Female, 76, 3
-619, Lotus, Townsend, Tuckborough, Stoor, 63, 23, Female, 63, 9
-653, Lobelia, Goodenough, Bridgefields, Stoor, 82, 24, Female, 63, 8
-655, Calla, Oldbuck, Green Hill, Harfoot, 96, 20, Female, 41, 6
-654, Lamia, Longhole, Eastfarthing, Stoor, 78, 31, Female, 85, 8
-658, Amaryllis, Hogg, Buckland, Harfoot, 68, 25, Female, 35, 7
-656, Camomila, Maggot, Buckland, Stoor, 77, 35, Female, 57, 4
-657, Calamintha, Greenholm, Tuckborough, Stoor, 81, 33, Female, 69, 7
-659, Camomila, Burrowes, Shire, Harfoot, 86, 27, Female, 46, 10
-660, Primula, Banks, Green Hill, Harfoot, 78, 31, Female, 39, 8
-661, Melilot, Goodenough, Tookland, Fallohide, 71, 34, Female, 64, 2
-662, Poinsetta, Gawkroger, Bridgefields, Stoor, 62, 39, Female, 79, 7
-665, Gardenia, Goldworthy, Northfarthing, Fallohide, 76, 29, Female, 56, 5
-614, Gerania, Galpsi, Marish, Harfoot, 86, 34, Female, 81, 1
-664, Veronica, Puddifoot, Bywater, Fallohide, 63, 23, Female, 36, 7
-667, Laura, Labingi, Westfarthing, Fallohide, 94, 27, Female, 37, 3
-666, Chica, Gardner, Buckland, Stoor, 94, 37, Female, 36, 7
-668, Forsythia, Whitfoot, Green Hill, Fallohide, 77, 20, Female, 64, 7
-669, Belladonna, Took, Tookland, Stoor, 75, 24, Female, 34, 2
-671, Eranthis, Headstrong, Woody End, Harfoot, 85, 26, Female, 47, 4
-672, Achilla, Cotton, Green Hill, Harfoot, 96, 32, Female, 88, 7
-670, Forsythia, Fairbairn, Bywater, Stoor, 94, 22, Female, 82, 10
-673, Begonia, Tuk, Tookland, Harfoot, 88, 29, Female, 81, 6
-674, Dianthus, Boffin, Buckland, Harfoot, 96, 29, Female, 37, 4
-676, Hildibrand, Hayward, Tuckborough, Fallohide, 97, 34, Female, 33, 3
-675, Diascia, Sandyman, Tuckborough, Harfoot, 87, 31, Female, 34, 4
-678, Lobelia, Burrow, Shire, Stoor, 64, 32, Female, 91, 8
-677, Peona, Gawkroger, Eastfarthing, Harfoot, 88, 23, Female, 37, 3
-680, Berylla, Clayhanger, Northfarthing, Fallohide, 82, 27, Female, 58, 10
-679, Angelica, Whitfoot, Tuckborough, Fallohide, 95, 30, Female, 62, 9
-682, Camomile, Stoor, Bridgefields, Stoor, 88, 32, Female, 57, 1
-681, Dandelion, Mugwort, Eastfarthing, Stoor, 79, 25, Female, 67, 7
-683, Cleoma, Stoor, Eastfarthing, Harfoot, 73, 25, Female, 88, 2
-685, Myrtle, Galpsi, Hobbiton, Fallohide, 97, 25, Female, 75, 4
-684, Pearl, Goodbody, Northfarthing, Harfoot, 80, 28, Female, 75, 2
-686, Clover, Fairbairn, Buckland, Stoor, 68, 26, Female, 89, 3
-687, Iris, Chubb, Woody End, Harfoot, 63, 30, Female, 35, 9
-663, Lantana, Smallburrow, Tuckborough, Fallohide, 89, 30, Female, 45, 3
-688, Hildigrim, Gamwich, Eastfarthing, Stoor, 62, 26, Female, 38, 2
-690, Achilla, Twofoot, Bywater, Stoor, 85, 25, Female, 48, 10
-689, Canna, Diggle, Hobbiton, Fallohide, 60, 29, Female, 86, 2
-691, Melilot, Hogg, Buckland, Harfoot, 65, 31, Female, 52, 2
-694, Estella, Galbasi, Shire, Harfoot, 76, 31, Female, 48, 6
-692, Lobelia, Harfoot, Hobbiton, Stoor, 79, 34, Female, 76, 1
-695, Jasmina, Marsh, Hobbiton, Stoor, 60, 25, Female, 44, 4
-697, Rose, Longhole, Marish, Stoor, 61, 20, Female, 39, 9
-693, Jasmina, Mugwort, Bywater, Stoor, 71, 20, Female, 76, 8
-699, Hanna, Mugwort, Bywater, Harfoot, 63, 35, Female, 51, 3
-700, Agate, Zaragamba, Eastfarthing, Stoor, 88, 37, Female, 55, 2
-702, Lyla, Twofoot, Northfarthing, Harfoot, 63, 22, Female, 51, 7
-698, Mahonia, Brockhouse, Green Hill, Harfoot, 91, 20, Female, 88, 1
-703, Dahlia, Twofoot, Shire, Fallohide, 80, 26, Female, 43, 9
-704, Calyca, Brownlock, Green Hill, Fallohide, 87, 25, Female, 83, 1
-701, Dora, Chubb, Southfarthing, Fallohide, 77, 23, Female, 82, 4
-706, Berylla, Labingi, Shire, Stoor, 89, 36, Female, 87, 3
-705, Canna, Bophin, Southfarthing, Harfoot, 98, 27, Female, 52, 5
-707, Rosa, Headstrong, Hobbiton, Fallohide, 89, 39, Female, 79, 2
-708, Calaminth, Brandybuck, Eastfarthing, Stoor, 83, 32, Female, 40, 7
-709, Cercis, Whitfoot, Tuckborough, Fallohide, 72, 21, Female, 46, 5
-711, Peony, Hlothran, Bywater, Fallohide, 94, 20, Female, 47, 10
-710, Anagelli, Marsh, Westfarthing, Fallohide, 82, 37, Female, 77, 9
-712, Lyla, Townsend, Shire, Stoor, 79, 26, Female, 53, 4
-713, Gladiola, Gamgee, Hobbiton, Fallohide, 76, 39, Female, 90, 5
-715, Lalia, Hlothran, Northfarthing, Fallohide, 93, 30, Female, 53, 3
-714, Lunaria, Burrows, Northfarthing, Stoor, 70, 21, Female, 78, 10
-716, Viola, Sandyman, Tookland, Stoor, 73, 33, Female, 91, 8
-717, Garnette, Marsh, Green Hill, Stoor, 77, 27, Female, 69, 8
-718, Datura, Sandheaver, Marish, Harfoot, 90, 23, Female, 83, 1
-720, Celeste, Marsh, Northfarthing, Harfoot, 87, 36, Female, 76, 8
-719, Pimpernel, Stoor, Northfarthing, Stoor, 60, 32, Female, 38, 3
-722, Meadow, Noaks, Westmarch, Stoor, 65, 27, Female, 44, 4
-723, Melilot, Harfoot, Green Hill, Fallohide, 93, 28, Female, 46, 6
-721, Azalea, Greenhand, Eastfarthing, Stoor, 95, 37, Female, 36, 7
-724, Verbena, Greenholm, Westmarch, Stoor, 70, 35, Female, 59, 5
-727, Catalpa, Hayward, Westmarch, Harfoot, 95, 27, Female, 58, 3
-726, Gaura, Brandagamba, Eastfarthing, Harfoot, 96, 31, Female, 66, 3
-728, Hanna, Sandheaver, Eastfarthing, Stoor, 71, 37, Female, 39, 5
-725, Narcissa, Marsh, Eastfarthing, Fallohide, 70, 23, Female, 36, 9
-730, Clematis, Hayward, Tookland, Harfoot, 63, 24, Female, 47, 9
-729, Anagellis, Gawkroger, Bridgefields, Fallohide, 63, 35, Female, 47, 4
-733, Nemisa, Zaragamba, Hobbiton, Stoor, 63, 21, Female, 43, 3
-731, Liatris, Goodenough, Westfarthing, Harfoot, 80, 32, Female, 42, 2
-732, Dandelion, Brandagamba, Woody End, Stoor, 83, 36, Female, 55, 9
-651, Elanor, Brandybuck, Woody End, Fallohide, 66, 22, Female, 82, 5
-736, Meadow, Goldworthy, Tookland, Harfoot, 97, 21, Female, 62, 3
-734, Lavenda, Goldworthy, Buckland, Fallohide, 67, 33, Female, 66, 5
-737, Monarda, Stoor, Eastfarthing, Stoor, 76, 27, Female, 69, 2
-739, Hilda, Sandyman, Woody End, Stoor, 64, 20, Female, 73, 8
-741, Petunia, Brockhouse, Westmarch, Harfoot, 96, 34, Female, 33, 8
-738, Brodia, Bracegirdle, Buckland, Harfoot, 88, 23, Female, 36, 8
-740, Lavender, Underhill, Green Hill, Stoor, 69, 32, Female, 76, 2
-743, Dianthus, Clayhanger, Bridgefields, Harfoot, 81, 25, Female, 87, 10
-744, Meadow, Lightfoot, Tookland, Stoor, 66, 36, Female, 91, 3
-745, Clematis, Gamwich, Buckland, Stoor, 94, 37, Female, 65, 3
-696, Gerbera, Burrows, Shire, Stoor, 86, 35, Female, 92, 7
-746, Catalpa, Tuk, Tookland, Harfoot, 85, 27, Female, 80, 4
-747, Nemisa, Gawkroger, Buckland, Fallohide, 66, 30, Female, 70, 9
-751, Adamanta, Greenhand, Buckland, Harfoot, 95, 33, Female, 75, 6
-749, Dianthus, Underhill, Eastfarthing, Harfoot, 82, 27, Female, 74, 9
-750, Lysima, Bolger, Shire, Stoor, 68, 39, Female, 65, 6
-748, Belba, Maggot, Southfarthing, Stoor, 73, 24, Female, 74, 1
-752, Liatra, Bolger, Hobbiton, Stoor, 99, 35, Female, 49, 8
-754, Donnamira, Brockhouse, Shire, Harfoot, 89, 34, Female, 55, 3
-755, Garnette, Whitfoot, Westmarch, Harfoot, 98, 35, Female, 37, 8
-735, Liatra, Underhill, Bywater, Harfoot, 68, 38, Female, 58, 2
-742, Lobelia, Goodchild, Woody End, Stoor, 97, 25, Female, 81, 2
-756, Adaldrida, Roper, Westmarch, Stoor, 61, 39, Female, 92, 6
-760, Opal, Bolger, Buckland, Stoor, 75, 23, Female, 34, 2
-652, Gilly, Cotton, Eastfarthing, Stoor, 76, 39, Female, 34, 1
-758, Brunnera, Burrowes, Southfarthing, Stoor, 73, 35, Female, 81, 5
-759, Primrose, Fairbairn, Tookland, Stoor, 90, 37, Female, 87, 8
-761, Rosa, Tunnelly, Shire, Harfoot, 95, 28, Female, 46, 10
-765, Daisy, Marsh, Tookland, Harfoot, 95, 22, Female, 37, 2
-766, Rose, Bolger, Tuckborough, Harfoot, 77, 33, Female, 79, 7
-763, Dandelia, Clayhanger, Buckland, Harfoot, 83, 32, Female, 59, 10
-768, Lotus, Hornblower, Northfarthing, Fallohide, 63, 20, Female, 70, 6
-770, Tulip, Rumble, Marish, Harfoot, 82, 29, Female, 60, 5
-764, Salvia, Hayward, Green Hill, Fallohide, 83, 35, Female, 77, 8
-757, Lila, Labingi, Tookland, Stoor, 62, 24, Female, 91, 2
-762, Opal, Goodenough, Marish, Stoor, 69, 27, Female, 85, 4
-771, Esmerelda, Smallburrow, Southfarthing, Stoor, 90, 27, Female, 62, 8
-773, Asphodel, Pott, Tookland, Stoor, 94, 20, Female, 83, 3
-774, Cleome, Goodbody, Eastfarthing, Harfoot, 83, 33, Female, 57, 8
-767, Heliconia, Brockhouse, Eastfarthing, Fallohide, 69, 23, Female, 71, 2
-776, Poinsetta, Whitfoot, Tuckborough, Stoor, 87, 35, Female, 77, 10
-775, Pearl, Headstrong, Bywater, Stoor, 82, 39, Female, 40, 7
-772, Anagella, Brandybuck, Northfarthing, Harfoot, 97, 25, Female, 67, 7
-779, Monarda, Oldbuck, Marish, Stoor, 88, 34, Female, 42, 7
-778, Dicentra, Boffin, Tuckborough, Fallohide, 94, 33, Female, 67, 3
-777, Laura, Brockhouse, Green Hill, Fallohide, 77, 20, Female, 42, 7
-781, Allia, Butcher, Tookland, Fallohide, 70, 37, Female, 39, 8
-780, Adamanta, Labingi, Northfarthing, Stoor, 74, 34, Female, 44, 2
-783, Angelica, Zaragamba, Buckland, Fallohide, 65, 22, Female, 55, 6
-784, Lily, Gammidge, Northfarthing, Fallohide, 62, 31, Female, 70, 7
-786, Gilly, Harfoot, Eastfarthing, Harfoot, 90, 32, Female, 91, 6
-785, Sapphire, Lightfoot, Northfarthing, Harfoot, 61, 26, Female, 79, 10
-788, Adamanta, Twofoot, Hobbiton, Fallohide, 81, 28, Female, 82, 3
-787, Catalpa, Galbasi, Northfarthing, Fallohide, 87, 32, Female, 72, 4
-790, Zinnia, Banks, Bridgefields, Harfoot, 83, 34, Female, 41, 2
-789, Begona, Harfoot, Northfarthing, Fallohide, 78, 34, Female, 84, 4
-791, Celesta, Harfoot, Woody End, Stoor, 79, 34, Female, 87, 3
-792, Anagellis, Mugwort, Tuckborough, Fallohide, 82, 38, Female, 51, 3
-793, Cercis, Took, Marish, Harfoot, 77, 38, Female, 52, 9
-794, Silene, Galpsi, Hobbiton, Harfoot, 69, 22, Female, 33, 1
-796, Opal, Bolger, Northfarthing, Fallohide, 76, 35, Female, 45, 3
-795, Hyacynth, Gammidge, Tuckborough, Stoor, 89, 28, Female, 43, 9
-798, Nigella, Tuk, Bywater, Fallohide, 78, 29, Female, 62, 10
-797, Lalia, Proudfoot, Buckland, Stoor, 96, 21, Female, 61, 10
-799, Gazania, Pott, Buckland, Harfoot, 88, 35, Female, 60, 3
-800, Peony, Stoor, Woody End, Stoor, 76, 21, Female, 46, 7
-802, Amaranth, Tuk, Westmarch, Stoor, 79, 30, Female, 45, 6
-801, Hildibrand, Mugwort, Bridgefields, Harfoot, 96, 23, Female, 71, 1
-803, Valera, Banks, Westmarch, Stoor, 82, 27, Female, 77, 8
-804, Berylla, Burrowes, Tookland, Stoor, 82, 37, Female, 34, 8
-805, Marigold, Took, Woody End, Stoor, 69, 34, Female, 70, 9
-782, Nigella, Pott, Bywater, Fallohide, 80, 29, Female, 87, 3
-806, Calaminth, Goodbody, Tookland, Stoor, 93, 29, Female, 92, 4
-809, Diascia, Tuk, Westfarthing, Harfoot, 74, 36, Female, 64, 3
-808, Angelona, Greenholm, Southfarthing, Stoor, 81, 30, Female, 74, 10
-769, Meadow, Whitfoot, Northfarthing, Harfoot, 66, 31, Female, 59, 3
-811, Diamond, Butcher, Eastfarthing, Harfoot, 87, 25, Female, 67, 4
-807, Liatra, Greenholm, Shire, Stoor, 93, 29, Female, 76, 10
-813, Dora, Sandheaver, Bridgefields, Fallohide, 73, 29, Female, 85, 2
-816, Jasmina, Gamwich, Shire, Fallohide, 84, 27, Female, 49, 5
-814, Sapphire, Gammidge, Tookland, Harfoot, 78, 35, Female, 76, 6
-817, Agate, Galpsi, Eastfarthing, Fallohide, 66, 34, Female, 60, 4
-815, Pearl, Fairbairn, Westfarthing, Stoor, 65, 26, Female, 35, 4
-819, Forsythia, Roper, Hobbiton, Fallohide, 81, 36, Female, 61, 7
-818, Lavender, Bophin, Hobbiton, Harfoot, 75, 29, Female, 37, 1
-820, Scilla, Gamwich, Woody End, Fallohide, 79, 22, Female, 48, 10
-822, Camomila, Chubb, Southfarthing, Harfoot, 82, 32, Female, 35, 7
-812, Maple, Butcher, Woody End, Stoor, 76, 22, Female, 48, 10
-824, Jasmina, Goldworthy, Tuckborough, Stoor, 90, 28, Female, 33, 2
-825, Calaminth, Butcher, Tuckborough, Stoor, 79, 25, Female, 54, 7
-810, Camella, Banks, Tuckborough, Fallohide, 94, 32, Female, 64, 2
-826, Estella, Puddifoot, Green Hill, Harfoot, 88, 39, Female, 70, 3
-827, Opal, Longhole, Marish, Stoor, 68, 32, Female, 77, 3
-828, Lavenda, Hogg, Southfarthing, Harfoot, 71, 33, Female, 54, 1
-753, Calendine, Pott, Westmarch, Harfoot, 80, 33, Female, 38, 1
-830, Lyla, Proudfoot, Woody End, Stoor, 62, 30, Female, 68, 4
-832, Brunnera, Brandybuck, Buckland, Stoor, 71, 38, Female, 57, 1
-831, Pimpanella, Burrows, Tuckborough, Harfoot, 94, 23, Female, 83, 8
-821, Anagelli, Butcher, Shire, Stoor, 66, 33, Female, 39, 5
-834, Peony, Labingi, Marish, Harfoot, 88, 23, Female, 60, 4
-837, Lantana, Brockhouse, Bridgefields, Fallohide, 78, 28, Female, 49, 7
-835, Beryl, Baggins, Marish, Fallohide, 87, 27, Female, 74, 8
-836, Achilla, Lightfoot, Northfarthing, Stoor, 72, 36, Female, 60, 10
-838, Angelica, Bunce, Tuckborough, Stoor, 72, 30, Female, 78, 8
-840, Amsonia, Pott, Shire, Fallohide, 88, 26, Female, 75, 2
-839, Alyssa, Bracegirdle, Westfarthing, Harfoot, 84, 37, Female, 65, 6
-841, Dora, Sackville, Buckland, Stoor, 93, 39, Female, 54, 10
-842, Agate, Tuk, Marish, Harfoot, 62, 36, Female, 39, 8
-844, Holly, Galbasi, Marish, Harfoot, 61, 28, Female, 57, 5
-843, Hyacynth, Hornblower, Eastfarthing, Stoor, 99, 31, Female, 90, 7
-847, Tanta, Oldbuck, Green Hill, Stoor, 81, 27, Female, 91, 5
-845, Poinsetta, Fallohide, Buckland, Fallohide, 72, 38, Female, 53, 2
-846, Catalpa, Bolger, Southfarthing, Harfoot, 93, 37, Female, 65, 10
-848, Tulip, Hogg, Buckland, Harfoot, 74, 27, Female, 42, 7
-849, Primula, Harfoot, Westfarthing, Stoor, 71, 36, Female, 55, 2
-850, Primula, Banks, Southfarthing, Harfoot, 62, 23, Female, 61, 9
-851, Melilot, Bracegirdle, Tookland, Fallohide, 99, 37, Female, 37, 8
-852, Rose, Burrow, Bridgefields, Harfoot, 88, 37, Female, 55, 3
-853, Lysima, Clayhanger, Tuckborough, Fallohide, 71, 27, Female, 88, 10
-855, Gardenia, Smallburrow, Westfarthing, Fallohide, 64, 34, Female, 41, 6
-856, Gaura, Cotton, Bridgefields, Harfoot, 63, 30, Female, 86, 1
-854, Peona, Cotton, Hobbiton, Harfoot, 92, 35, Female, 47, 8
-858, Peony, Lightfoot, Marish, Harfoot, 64, 37, Female, 78, 6
-857, Nemisia, Fallohide, Eastfarthing, Fallohide, 62, 35, Female, 91, 7
-859, Meadow, Gammidge, Shire, Fallohide, 78, 28, Female, 53, 5
-860, Dora, Took, Tookland, Harfoot, 90, 38, Female, 36, 9
-862, Nemisia, Twofoot, Marish, Harfoot, 78, 25, Female, 40, 4
-823, Adaldrida, Twofoot, Green Hill, Harfoot, 81, 29, Female, 61, 10
-833, Hanna, Burrow, Tuckborough, Harfoot, 98, 37, Female, 67, 2
-864, Ruby, Longhole, Westfarthing, Fallohide, 67, 32, Female, 80, 5
-829, Laura, Brown, Bridgefields, Stoor, 62, 29, Female, 43, 10
-866, Holly, Headstrong, Marish, Stoor, 63, 24, Female, 51, 5
-863, Camella, Tuk, Westfarthing, Stoor, 91, 39, Female, 77, 1
-868, Diascia, Greenhand, Tuckborough, Fallohide, 80, 29, Female, 91, 7
-870, Amaryllis, Labingi, Shire, Harfoot, 77, 23, Female, 89, 7
-867, Bessera, Hayward, Bywater, Harfoot, 62, 22, Female, 53, 8
-872, Amaryllis, Stoor, Southfarthing, Fallohide, 88, 23, Female, 89, 7
-869, Dahlia, Hlothran, Marish, Stoor, 65, 29, Female, 61, 1
-875, Cerasta, Boffin, Westfarthing, Stoor, 88, 31, Female, 58, 2
-873, Gladiola, Whitfoot, Eastfarthing, Stoor, 83, 30, Female, 46, 3
-877, Zinnia, Stoor, Shire, Stoor, 87, 26, Female, 42, 10
-874, Calla, Bracegirdle, Green Hill, Fallohide, 76, 37, Female, 80, 10
-876, Peony, Burrow, Hobbiton, Stoor, 95, 24, Female, 76, 1
-879, Estella, Goold, Westmarch, Harfoot, 77, 31, Female, 89, 2
-878, Celosia, Chubb, Buckland, Harfoot, 90, 21, Female, 75, 4
-880, Poppy, Greenholm, Bywater, Stoor, 96, 38, Female, 83, 8
-882, Petunia, Greenhand, Westmarch, Harfoot, 67, 26, Female, 58, 3
-881, Gerania, Cotton, Woody End, Harfoot, 96, 37, Female, 46, 6
-884, Lunaria, Smallburrow, Woody End, Harfoot, 94, 34, Female, 47, 1
-883, Achilla, Pott, Westmarch, Stoor, 64, 28, Female, 57, 4
-886, Iris, Mugwort, Northfarthing, Harfoot, 76, 35, Female, 87, 5
-885, Celeste, Bunce, Woody End, Stoor, 98, 29, Female, 74, 6
-887, Goldilocks, Pott, Bridgefields, Harfoot, 90, 34, Female, 48, 8
-888, Cleoma, Gamwich, Buckland, Harfoot, 70, 27, Female, 55, 7
-890, Pimpernel, Proudfoot, Woody End, Stoor, 62, 34, Female, 61, 7
-889, Achilla, Burrow, Marish, Harfoot, 85, 28, Female, 68, 4
-891, Holly, Gawkroger, Southfarthing, Harfoot, 72, 37, Female, 37, 7
-892, Lonicera, Hayward, Southfarthing, Harfoot, 76, 31, Female, 49, 8
-893, Lunaria, Bolger, Westfarthing, Fallohide, 94, 25, Female, 47, 4
-894, Monarda, Labingi, Bywater, Stoor, 97, 25, Female, 55, 2
-895, Gardenia, Sackville, Hobbiton, Stoor, 82, 33, Female, 89, 9
-897, Calceola, Lightfoot, Tuckborough, Fallohide, 65, 21, Female, 87, 10
-898, Hyacinth, Goodenough, Westmarch, Fallohide, 69, 20, Female, 72, 3
-861, Linaria, Hornblower, Tookland, Harfoot, 79, 39, Female, 73, 3
-900, Cleoma, Goodchild, Bywater, Fallohide, 87, 31, Female, 84, 5
-899, Cerasta, Sandheaver, Bridgefields, Stoor, 98, 38, Female, 57, 5
-902, Monarda, Hornblower, Marish, Stoor, 96, 31, Female, 65, 2
-901, Gazania, Bunce, Marish, Stoor, 65, 30, Female, 48, 5
-904, Celosia, Rumble, Bywater, Harfoot, 77, 22, Female, 37, 9
-903, Dicentra, Mugwort, Woody End, Stoor, 75, 37, Female, 76, 7
-905, Salva, Clayhanger, Marish, Harfoot, 61, 36, Female, 69, 8
-906, Agate, Banks, Westmarch, Harfoot, 78, 25, Female, 63, 8
-907, Gazania, Goodchild, Buckland, Stoor, 61, 21, Female, 76, 6
-909, Anagellis, Rumble, Northfarthing, Fallohide, 75, 32, Female, 82, 9
-910, Maple, Harfoot, Bridgefields, Stoor, 73, 29, Female, 44, 2
-911, Eranthis, Proudfoot, Northfarthing, Fallohide, 67, 34, Female, 38, 9
-912, Magnolia, Maggot, Marish, Stoor, 75, 30, Female, 35, 6
-908, Amaranth, Goodenough, Shire, Harfoot, 90, 30, Female, 43, 6
-913, Holly, Bunce, Eastfarthing, Fallohide, 78, 32, Female, 53, 4
-871, Rowan, Tuk, Tookland, Harfoot, 73, 36, Female, 84, 3
-914, Anagella, Underhill, Bridgefields, Stoor, 72, 31, Female, 55, 9
-896, Dahlia, Burrowes, Woody End, Fallohide, 71, 36, Female, 62, 3
-915, Esmerelda, Sackville, Buckland, Stoor, 86, 37, Female, 43, 3
-919, Primrose, Diggle, Bywater, Stoor, 77, 29, Female, 68, 2
-920, Lily, Mugwort, Marish, Stoor, 75, 20, Female, 43, 10
-918, Caltha, Brandybuck, Southfarthing, Harfoot, 97, 20, Female, 85, 4
-921, Nemisa, Hlothran, Buckland, Stoor, 91, 36, Female, 54, 7
-924, Myrtle, Bophin, Woody End, Harfoot, 77, 27, Female, 82, 10
-923, Gladiola, Maggot, Bridgefields, Stoor, 82, 32, Female, 42, 2
-922, Pearl, Tuk, Westmarch, Harfoot, 77, 29, Female, 35, 7
-925, Angelica, Goodbody, Hobbiton, Fallohide, 96, 29, Female, 71, 6
-927, Mahonia, Goodbody, Bywater, Harfoot, 67, 38, Female, 90, 5
-926, Lobelia, Gamwich, Hobbiton, Fallohide, 71, 28, Female, 57, 8
-928, Gilly, Marsh, Tookland, Harfoot, 85, 29, Female, 53, 9
-929, Holly, Bracegirdle, Green Hill, Harfoot, 71, 29, Female, 44, 9
-917, Celosa, Labingi, Marish, Stoor, 71, 36, Female, 86, 10
-931, Adamanta, Gawkroger, Eastfarthing, Stoor, 73, 35, Female, 77, 9
-933, Gerania, Tunnelly, Northfarthing, Harfoot, 74, 24, Female, 41, 7
-932, Marigold, Stoor, Westfarthing, Stoor, 79, 35, Female, 70, 2
-934, Monarda, Pott, Bridgefields, Stoor, 84, 22, Female, 59, 9
-936, Iris, Gamwich, Bridgefields, Stoor, 83, 26, Female, 69, 3
-935, Lunaria, Townsend, Bywater, Harfoot, 67, 39, Female, 66, 1
-865, Amsonia, Underhill, Shire, Fallohide, 91, 27, Female, 68, 3
-937, Melilot, Brockhouse, Westmarch, Fallohide, 93, 29, Female, 85, 7
-939, Amarylla, Burrowes, Buckland, Stoor, 96, 26, Female, 60, 6
-940, Hilda, Banks, Westfarthing, Fallohide, 66, 37, Female, 41, 9
-941, Rosa, Tunnelly, Buckland, Fallohide, 80, 35, Female, 87, 9
-942, Forsythia, Pott, Green Hill, Harfoot, 88, 27, Female, 81, 6
-944, Anagelli, Whitfoot, Westfarthing, Stoor, 83, 22, Female, 51, 4
-943, Goldilocks, Longholes, Marish, Stoor, 81, 36, Female, 62, 4
-945, Corna, Pott, Southfarthing, Stoor, 66, 25, Female, 60, 3
-946, Datura, Longhole, Bridgefields, Stoor, 81, 28, Female, 68, 5
-947, Daisy, Townsend, Eastfarthing, Harfoot, 87, 22, Female, 48, 4
-948, Marigold, Puddifoot, Marish, Fallohide, 69, 38, Female, 49, 2
-949, Hilda, Goodbody, Southfarthing, Fallohide, 76, 39, Female, 82, 7
-951, Cleome, Pott, Westfarthing, Harfoot, 98, 30, Female, 46, 9
-952, Brunnera, Galbasi, Marish, Stoor, 82, 28, Female, 86, 5
-950, Calaminth, Puddifoot, Bywater, Stoor, 92, 25, Female, 91, 6
-954, Gladiola, Marsh, Hobbiton, Harfoot, 71, 36, Female, 43, 1
-955, Azalea, Goodchild, Marish, Harfoot, 60, 36, Female, 63, 3
-938, Lantana, Clayhanger, Westmarch, Harfoot, 62, 30, Female, 81, 1
-956, Rowan, Bracegirdle, Tookland, Fallohide, 80, 28, Female, 52, 2
-957, Salva, Goodchild, Westfarthing, Fallohide, 76, 38, Female, 35, 6
-959, Lily, Hornblower, Westmarch, Fallohide, 76, 36, Female, 54, 8
-960, Lantana, Brown, Northfarthing, Fallohide, 91, 29, Female, 87, 8
-958, Iris, Bracegirdle, Hobbiton, Stoor, 65, 23, Female, 74, 2
-961, Datura, Bophin, Tuckborough, Harfoot, 98, 29, Female, 77, 2
-962, Cercis, Gammidge, Westfarthing, Fallohide, 67, 22, Female, 87, 9
-963, Dianthus, Brandagamba, Bywater, Stoor, 69, 38, Female, 34, 1
-964, Asphodel, Cotton, Bywater, Fallohide, 60, 30, Female, 69, 10
-965, Heliconia, Boffin, Woody End, Harfoot, 95, 22, Female, 48, 5
-966, Silene, Burrows, Hobbiton, Fallohide, 95, 22, Female, 38, 9
-967, Calceola, Gamwich, Marish, Stoor, 67, 33, Female, 51, 2
-968, Dicentra, Goldworthy, Bywater, Stoor, 78, 37, Female, 66, 1
-969, Gerbera, Fairbairn, Bridgefields, Harfoot, 99, 22, Female, 42, 8
-970, Celesta, Clayhanger, Northfarthing, Harfoot, 81, 39, Female, 65, 8
-953, Gilly, Twofoot, Hobbiton, Harfoot, 97, 20, Female, 86, 9
-971, Nemisia, Bracegirdle, Hobbiton, Fallohide, 97, 34, Female, 85, 1
-973, Menegilda, Gammidge, Eastfarthing, Fallohide, 83, 36, Female, 64, 1
-974, Sapphire, Sandheaver, Marish, Harfoot, 94, 34, Female, 64, 8
-916, Eglantine, Tunnelly, Northfarthing, Fallohide, 63, 32, Female, 33, 3
-976, Eranthis, Baggins, Southfarthing, Fallohide, 87, 26, Female, 41, 3
-977, Gaura, Brownlock, Bridgefields, Stoor, 87, 24, Female, 62, 10
-978, Diamond, Greenholm, Bridgefields, Fallohide, 67, 34, Female, 34, 4
-975, Hildigrim, Gammidge, Buckland, Harfoot, 65, 35, Female, 52, 6
-981, Pearl, Oldbuck, Southfarthing, Fallohide, 77, 32, Female, 55, 7
-979, Adaldrida, Labingi, Woody End, Fallohide, 76, 23, Female, 89, 4
-982, Mahonia, Brandybuck, Marish, Harfoot, 96, 21, Female, 63, 3
-983, Bessera, Proudfoot, Hobbiton, Stoor, 80, 31, Female, 87, 8
-984, Viola, Burrow, Tookland, Fallohide, 96, 30, Female, 51, 3
-985, Lyla, Gamgee, Southfarthing, Fallohide, 76, 27, Female, 64, 3
-986, Crocosmia, Mugwort, Hobbiton, Harfoot, 73, 26, Female, 66, 7
-987, Diascia, Gamwich, Shire, Fallohide, 76, 28, Female, 43, 1
-988, Linaria, Sackville, Tuckborough, Stoor, 67, 30, Female, 86, 5
-989, Meadow, Noaks, Shire, Harfoot, 60, 31, Female, 37, 2
-991, Poinsetta, Bolger, Westmarch, Stoor, 72, 29, Female, 90, 3
-980, Ruellia, Goodbody, Eastfarthing, Harfoot, 72, 21, Female, 60, 3
-990, Dandelia, Twofoot, Bywater, Harfoot, 95, 30, Female, 86, 5
-993, Gaura, Tuk, Tookland, Harfoot, 88, 27, Female, 62, 8
-994, Pearl, Took, Westmarch, Harfoot, 82, 25, Female, 67, 1
-930, Gerbera, Cotton, Shire, Fallohide, 78, 24, Female, 62, 10
-996, Camellia, Sackville, Westmarch, Harfoot, 92, 32, Female, 72, 5
-998, Daffodil, Baggins, Bridgefields, Stoor, 69, 31, Female, 88, 4
-997, Dahlia, Brownlock, Woody End, Fallohide, 79, 37, Female, 92, 1
-999, Amaryllis, Headstrong, Buckland, Fallohide, 79, 31, Female, 61, 5
-1000, Corna, Gamwich, Westfarthing, Fallohide, 76, 21, Female, 45, 1
-1001, Lonicera, Brownlock, Eastfarthing, Harfoot, 62, 28, Female, 39, 3
-992, Alyssa, Galpsi, Westfarthing, Stoor, 99, 26, Female, 42, 2
-972, Alyssa, Hlothran, Tookland, Fallohide, 72, 32, Female, 87, 6
-1002, Celosa, Twofoot, Eastfarthing, Harfoot, 65, 33, Female, 54, 6
-1003, Salvia, Oldbuck, Bridgefields, Stoor, 82, 25, Female, 70, 6
-1004, Gilly, Longhole, Westmarch, Stoor, 68, 25, Female, 73, 3
-995, Melilot, Stoor, Buckland, Fallohide, 90, 39, Female, 35, 7
-1005, Heather, Goodchild, Northfarthing, Stoor, 69, 37, Female, 60, 5
+2,Hartgard,Whitfoot,Shire,Harfoot,71,37,61,Male,9
+3,Panteleon,Galpsi,Woody End,Harfoot,68,32,60,Male,7
+4,Nicol,Fairbairn,Westmarch,Harfoot,76,25,83,Male,8
+5,Huebald,Goold,Tuckborough,Stoor,61,26,82,Male,6
+9,Habaccuc,Bolger,Bywater,Harfoot,68,39,44,Male,3
+8,Poppo,Fairbairn,Westmarch,Fallohide,60,26,53,Male,1
+12,Orgulas,Proudfoot,Southfarthing,Fallohide,87,24,85,Male,4
+11,Flambard,Hayward,Westmarch,Stoor,73,24,77,Male,7
+10,Theodemir,Marsh,Eastfarthing,Stoor,63,37,87,Male,10
+14,Childebrand,Goold,Shire,Harfoot,84,21,78,Male,7
+13,Berengar,Noaks,Hobbiton,Fallohide,69,21,42,Male,7
+15,Corbinian,Whitfoot,Shire,Fallohide,64,30,80,Male,8
+16,Bruno,Puddifoot,Westmarch,Harfoot,82,20,88,Male,9
+17,Suger,Chubb,Southfarthing,Stoor,98,31,40,Male,4
+19,Marcus,Meadows,Shire,Stoor,77,26,40,Male,10
+18,Scudamor,Twofoot,Westfarthing,Fallohide,69,20,55,Male,9
+21,Artaud,Bunce,Buckland,Stoor,68,24,91,Male,4
+22,Godun,Underhill,Shire,Harfoot,78,34,48,Male,6
+20,Andwise,Noaks,Woody End,Stoor,73,28,53,Male,9
+23,Chlodion,Sandheaver,Buckland,Fallohide,80,38,66,Male,10
+25,Samson,Cotton,Northfarthing,Fallohide,78,30,70,Male,10
+24,Bildad,Brandybuck,Bridgefields,Harfoot,84,35,50,Male,3
+26,Imninon,Fairbairn,Eastfarthing,Harfoot,61,22,44,Male,4
+28,Liudolf,Burrows,Bridgefields,Fallohide,86,35,48,Male,6
+29,Celedor,Sandyman,Shire,Stoor,80,29,73,Male,8
+27,Timothy,Galpsi,Marish,Fallohide,85,39,86,Male,10
+30,Dudo,Fallohide,Westmarch,Stoor,62,22,76,Male,3
+31,Farabert,Sandheaver,Buckland,Harfoot,79,23,68,Male,7
+33,Sagramor,Hornblower,Tuckborough,Stoor,78,31,79,Male,6
+32,Fulrad,Goldworthy,Westfarthing,Harfoot,93,30,55,Male,8
+35,Odovacar,Galpsi,Tookland,Harfoot,81,30,83,Male,2
+34,Porro,Galpsi,Southfarthing,Fallohide,83,20,55,Male,9
+36,Wandregisilus,Marsh,Marish,Fallohide,72,36,79,Male,3
+37,Marmadoc,Twofoot,Tookland,Stoor,84,26,61,Male,7
+38,Hartgard,Townsend,Bridgefields,Harfoot,93,35,53,Male,3
+1,Columbus,Underhill,Tuckborough,Harfoot,96,27,69,Male,10
+41,Gruffo,Burrow,Green Hill,Stoor,90,26,49,Male,5
+40,Ceufroy,Whitfoot,Green Hill,Fallohide,60,33,53,Male,1
+42,Ebregisel,Brownlock,Bridgefields,Harfoot,97,28,36,Male,10
+44,Magnachar,Smallburrow,Woody End,Stoor,61,33,60,Male,7
+45,Gorbaduc,Lightfoot,Shire,Harfoot,97,36,92,Male,9
+43,Merovech,Headstrong,Hobbiton,Harfoot,92,24,87,Male,8
+47,Grimald,Fairbairn,Woody End,Fallohide,63,37,81,Male,2
+46,Waiofar,Goodbody,Eastfarthing,Fallohide,81,30,89,Male,8
+48,Hal,Headstrong,Eastfarthing,Stoor,74,38,75,Male,9
+49,Berengar,Cotton,Eastfarthing,Stoor,68,35,75,Male,5
+50,Emmon,Headstrong,Westfarthing,Fallohide,79,20,47,Male,6
+51,Ratold,Fairbairn,Tookland,Stoor,99,25,79,Male,5
+52,Einhard,Mugwort,Southfarthing,Fallohide,85,28,36,Male,10
+53,Marmaduke,Brockhouse,Northfarthing,Stoor,77,34,62,Male,8
+54,Chrodegang,Gammidge,Green Hill,Harfoot,97,37,44,Male,8
+55,Wulfram,Longhole,Northfarthing,Fallohide,60,35,72,Male,8
+56,Waltgaud,Zaragamba,Westmarch,Fallohide,74,39,65,Male,4
+57,Doderic,Lightfoot,Woody End,Harfoot,98,36,44,Male,7
+59,Ted,Burrows,Bywater,Stoor,60,32,73,Male,7
+58,Godomar,Brown,Tuckborough,Stoor,65,38,63,Male,1
+60,Imbert,Underhill,Green Hill,Stoor,93,35,88,Male,10
+62,Cyricus,Tuk,Green Hill,Fallohide,71,29,43,Male,2
+63,Ratold,Stoor,Hobbiton,Harfoot,89,39,65,Male,3
+61,Guntramn,Maggot,Eastfarthing,Harfoot,83,22,37,Male,10
+64,Ingomer,Rumble,Marish,Harfoot,64,31,66,Male,2
+66,Ferdibrand,Labingi,Westmarch,Stoor,70,21,66,Male,8
+65,Largo,Tuk,Marish,Fallohide,81,29,71,Male,9
+68,Wibert,Fairbairn,Tookland,Harfoot,70,21,77,Male,10
+67,Poppo,Goodchild,Woody End,Harfoot,74,25,63,Male,8
+69,Badegisel,Twofoot,Hobbiton,Harfoot,64,37,52,Male,9
+70,Goodwill,Sandyman,Eastfarthing,Harfoot,87,35,89,Male,5
+72,Erling,Goold,Woody End,Harfoot,87,29,79,Male,10
+71,Obo,Marsh,Westmarch,Fallohide,67,31,84,Male,5
+73,Orderic,Goldworthy,Eastfarthing,Fallohide,63,32,70,Male,2
+74,Arnold,Cotton,Bridgefields,Stoor,94,27,62,Male,6
+39,Audomar,Labingi,Marish,Harfoot,90,21,86,Male,9
+75,Iolo,Proudfoot,Bywater,Fallohide,85,31,79,Male,8
+78,Reginald,Bolger,Woody End,Fallohide,80,31,43,Male,9
+77,Cosimo,Chubb,Tuckborough,Harfoot,83,34,49,Male,5
+79,Angilbart,Fairbairn,Westfarthing,Harfoot,61,20,63,Male,9
+80,Thankmar,Burrow,Southfarthing,Fallohide,83,38,40,Male,9
+82,Grifo,Sackville,Bywater,Harfoot,66,26,84,Male,2
+6,Wandrille,Brockhouse,Buckland,Harfoot,87,31,53,Male,2
+84,Pippin,Gamgee,Tookland,Stoor,76,27,90,Male,10
+85,Gerontius,Tunnelly,Bridgefields,Fallohide,84,23,84,Male,8
+83,Evroult,Fallohide,Eastfarthing,Fallohide,81,21,35,Male,6
+86,Bungo,Sandheaver,Eastfarthing,Fallohide,68,32,90,Male,2
+87,Tobold,Brockhouse,Tuckborough,Stoor,79,35,33,Male,8
+89,Bruno,Brown,Eastfarthing,Stoor,96,33,75,Male,1
+91,Theodebert,Sandyman,Tookland,Fallohide,63,26,69,Male,4
+90,Turpin,Goodbody,Buckland,Harfoot,70,28,60,Male,7
+81,Theodebert,Sandyman,Hobbiton,Harfoot,78,33,34,Male,8
+88,Anskar,Lightfoot,Bridgefields,Fallohide,66,25,37,Male,6
+94,Pippin,Gamgee,Marish,Fallohide,99,21,55,Male,8
+93,Evroult,Fallohide,Tuckborough,Stoor,87,21,71,Male,3
+95,Gerontius,Tunnelly,Eastfarthing,Fallohide,83,38,73,Male,7
+96,Bungo,Sandheaver,Southfarthing,Harfoot,74,30,42,Male,9
+98,Anskar,Lightfoot,Woody End,Fallohide,78,23,73,Male,1
+99,Bruno,Brown,Shire,Fallohide,81,26,72,Male,1
+97,Tobold,Brockhouse,Northfarthing,Harfoot,60,33,61,Male,9
+100,Turpin,Goodbody,Eastfarthing,Harfoot,94,35,47,Male,5
+7,Melampus,Sandheaver,Westfarthing,Harfoot,87,39,92,Male,10
+103,Dodo,Gamgee,Westmarch,Harfoot,90,31,33,Male,6
+102,Wibert,Bracegirdle,Westfarthing,Stoor,67,34,36,Male,9
+101,Godobald,Fallohide,Bywater,Harfoot,97,32,42,Male,2
+105,Hartmut,Clayhanger,Green Hill,Fallohide,70,36,44,Male,3
+107,Ricfried,Marsh,Woody End,Stoor,80,33,47,Male,2
+106,Meneaduc,Galpsi,Eastfarthing,Harfoot,64,31,57,Male,10
+108,Ramnulf,Brandagamba,Northfarthing,Stoor,77,36,45,Male,4
+109,Audovald,Noaks,Woody End,Harfoot,97,31,34,Male,7
+76,Adelbert,Lightfoot,Bridgefields,Harfoot,77,36,77,Male,3
+112,Roderic,Marsh,Tuckborough,Fallohide,65,22,45,Male,10
+111,Theudebert,Greenhand,Southfarthing,Fallohide,67,39,69,Male,2
+114,Saradoc,Bophin,Bridgefields,Stoor,92,21,75,Male,7
+113,Ricchar,Clayhanger,Buckland,Harfoot,62,35,36,Male,8
+116,Porro,Fallohide,Westfarthing,Harfoot,97,23,90,Male,6
+115,Tobold,Goodchild,Woody End,Stoor,99,26,84,Male,9
+118,Lull,Fairbairn,Southfarthing,Harfoot,83,22,52,Male,1
+92,Grifo,Sackville,Marish,Stoor,67,31,85,Male,3
+117,Angegisis,Hornblower,Bridgefields,Harfoot,78,36,75,Male,3
+121,Lanfranc,Longhole,Northfarthing,Harfoot,65,20,67,Male,5
+119,Sigismond,Cotton,Tookland,Fallohide,77,24,56,Male,6
+124,Dreux,Fallohide,Marish,Harfoot,96,39,43,Male,10
+110,Samwise,Galpsi,Westfarthing,Stoor,85,39,83,Male,10
+123,Hunald,Maggot,Westfarthing,Fallohide,67,32,64,Male,3
+125,Wandrille,Brandagamba,Bywater,Harfoot,69,21,52,Male,3
+126,Wido,Galbasi,Bywater,Harfoot,96,28,70,Male,4
+127,Gararic,Burrows,Eastfarthing,Stoor,69,32,61,Male,3
+104,Wilibald,Diggle,Green Hill,Stoor,97,20,43,Male,8
+128,Celedor,Gamwich,Hobbiton,Harfoot,83,31,51,Male,2
+131,Syagrius,Underhill,Hobbiton,Stoor,98,36,65,Male,6
+130,Trahand,Noaks,Bywater,Stoor,63,29,75,Male,1
+132,Caradas,Banks,Green Hill,Harfoot,65,20,90,Male,5
+134,Bodo,Meadows,Hobbiton,Harfoot,74,20,36,Male,6
+133,Prospero,Brownlock,Green Hill,Stoor,74,33,90,Male,4
+135,Bingo,Bracegirdle,Buckland,Harfoot,82,33,39,Male,4
+122,Atacinus,Hayward,Eastfarthing,Harfoot,83,22,86,Male,3
+137,Nithard,Mugwort,Green Hill,Stoor,95,22,39,Male,9
+136,Willehad,Sandheaver,Shire,Fallohide,70,24,51,Male,3
+129,Lebuin,Goodbody,Southfarthing,Fallohide,89,21,55,Male,10
+139,Arnegisel,Marsh,Green Hill,Stoor,74,32,65,Male,5
+144,Theodebert,Twofoot,Bywater,Harfoot,65,38,86,Male,1
+142,Emme,Roper,Bywater,Fallohide,64,24,49,Male,4
+141,Ageric,Fallohide,Bridgefields,Harfoot,70,29,78,Male,2
+120,Audoneus,Hayward,Woody End,Harfoot,67,39,51,Male,8
+143,Theodwin,Meadows,Bridgefields,Fallohide,65,32,38,Male,1
+147,Guntram,Townsend,Green Hill,Stoor,80,24,88,Male,7
+146,Adalhard,Hornblower,Tookland,Fallohide,61,24,61,Male,4
+149,Wiseman,Bunce,Westmarch,Harfoot,82,28,39,Male,8
+151,Monulph,Townsend,Green Hill,Stoor,94,32,66,Male,8
+138,Suidbert,Brownlock,Southfarthing,Stoor,84,27,47,Male,6
+140,Ted,Marsh,Tuckborough,Stoor,87,33,64,Male,5
+148,Minto,Gamwich,Bridgefields,Fallohide,81,39,54,Male,4
+153,Marcus,Greenholm,Woody End,Fallohide,94,22,37,Male,3
+155,Amator,Brown,Westmarch,Fallohide,91,39,79,Male,6
+154,Wiseman,Boffin,Buckland,Harfoot,98,39,90,Male,9
+156,Dreux,Longhole,Tuckborough,Fallohide,83,21,49,Male,5
+158,Richer,Zaragamba,Shire,Fallohide,84,26,56,Male,5
+159,Helisachar,Tuk,Buckland,Stoor,67,25,51,Male,4
+157,Enurchus,Fairbairn,Northfarthing,Stoor,78,20,76,Male,9
+161,Siegfried,Boffin,Eastfarthing,Harfoot,65,28,60,Male,7
+162,Abbo,Underhill,Shire,Harfoot,83,36,86,Male,4
+160,Inigo,Meadows,Shire,Harfoot,64,21,58,Male,6
+165,Gunthar,Diggle,Shire,Fallohide,80,26,84,Male,10
+164,Crassus,Labingi,Bywater,Harfoot,69,24,81,Male,10
+166,Burchard,Sandyman,Bywater,Harfoot,93,27,41,Male,4
+167,Isengrin,Hornblower,Northfarthing,Stoor,61,30,73,Male,7
+163,Marcho,Pott,Southfarthing,Harfoot,84,30,53,Male,6
+168,Fridolin,Brandagamba,Marish,Fallohide,97,21,78,Male,6
+169,Gondulph,Greenholm,Bywater,Stoor,98,20,65,Male,6
+171,Turpin,Sandyman,Tookland,Fallohide,79,20,89,Male,1
+170,Ebroin,Pott,Tuckborough,Stoor,64,22,83,Male,5
+172,Munderic,Goodenough,Westfarthing,Fallohide,64,37,54,Male,2
+174,Emmeran,Zaragamba,Tuckborough,Harfoot,99,28,90,Male,5
+173,Nevelung,Hlothran,Tookland,Fallohide,69,24,53,Male,7
+175,Basso,Hornblower,Southfarthing,Fallohide,89,34,91,Male,9
+176,Longo,Sackville,Buckland,Harfoot,82,34,88,Male,5
+177,Bovo,Galbasi,Woody End,Fallohide,96,33,67,Male,5
+150,Erling,Fallohide,Tookland,Fallohide,85,33,87,Male,3
+179,Gundovald,Clayhanger,Marish,Fallohide,78,20,48,Male,3
+181,Hildigrim,Roper,Green Hill,Stoor,84,37,80,Male,8
+180,Theudebert,Bracegirdle,Bridgefields,Fallohide,60,39,77,Male,7
+152,Garivald,Harfoot,Bywater,Stoor,87,35,63,Male,10
+183,Rudolph,Bolger,Woody End,Stoor,72,39,91,Male,2
+185,Otto,Diggle,Woody End,Stoor,64,25,53,Male,10
+184,Chararic,Brandagamba,Tookland,Stoor,83,35,57,Male,1
+186,Conrad,Fallohide,Marish,Fallohide,91,20,68,Male,4
+178,Longo,Cotton,Bywater,Fallohide,84,24,37,Male,2
+187,Meneaduc,Gamwich,Westfarthing,Stoor,65,24,35,Male,10
+190,Mungo,Longholes,Tookland,Fallohide,76,24,46,Male,3
+182,Anno,Burrow,Eastfarthing,Fallohide,80,23,63,Male,7
+191,Thietmar,Proudfoot,Northfarthing,Stoor,69,24,86,Male,7
+188,Radigis,Sackville,Westmarch,Harfoot,63,35,81,Male,4
+192,Willibald,Bophin,Bridgefields,Fallohide,60,23,47,Male,10
+194,Hildigard,Brownlock,Tuckborough,Stoor,62,31,51,Male,8
+145,Rudigar,Goldworthy,Southfarthing,Fallohide,84,22,63,Male,10
+189,Heribald,Gardner,Woody End,Harfoot,64,33,84,Male,1
+197,Togo,Burrowes,Woody End,Stoor,65,25,87,Male,5
+198,Sadoc,Goodchild,Green Hill,Harfoot,93,24,74,Male,6
+200,Drogo,Proudfoot,Westmarch,Harfoot,64,20,48,Male,7
+199,Jo,Goldworthy,Westfarthing,Fallohide,64,35,87,Male,2
+201,Nibs,Goold,Northfarthing,Harfoot,66,34,87,Male,10
+203,Berthaire,Noaks,Shire,Harfoot,80,31,56,Male,2
+202,Fulrad,Stoor,Woody End,Stoor,84,22,46,Male,3
+204,Medard,Bophin,Woody End,Fallohide,67,39,87,Male,8
+205,Mungo,Sandyman,Westmarch,Stoor,98,20,44,Male,3
+206,Sichar,Sackville,Shire,Harfoot,87,28,58,Male,7
+207,Griffon,Goodbody,Tuckborough,Harfoot,73,21,36,Male,5
+208,Halfast,Greenholm,Tuckborough,Stoor,78,28,85,Male,7
+209,Wazo,Whitfoot,Tuckborough,Fallohide,60,37,61,Male,9
+196,Panteleon,Fallohide,Woody End,Fallohide,72,26,83,Male,10
+212,Robur,Tuk,Northfarthing,Stoor,70,29,33,Male,7
+195,Norbert,Proudfoot,Woody End,Stoor,91,33,73,Male,4
+215,Dreux,Roper,Hobbiton,Stoor,87,36,63,Male,3
+213,Unroch,Rumble,Marish,Fallohide,78,21,40,Male,6
+210,Brocard,Bophin,Hobbiton,Stoor,81,25,79,Male,8
+216,Polo,Bolger,Bywater,Stoor,94,20,54,Male,5
+217,Ouus,Bophin,Bywater,Stoor,82,27,51,Male,2
+214,Arbitio,Harfoot,Green Hill,Fallohide,99,21,77,Male,1
+218,Birinus,Brownlock,Bridgefields,Harfoot,85,26,82,Male,6
+220,Riquier,Banks,Bridgefields,Harfoot,92,28,91,Male,1
+221,Eracle,Hayward,Tuckborough,Stoor,89,30,48,Male,2
+193,Iago,Fallohide,Northfarthing,Harfoot,96,34,78,Male,7
+223,Clodomir,Longhole,Buckland,Stoor,88,25,39,Male,2
+225,Gundolpho,Clayhanger,Eastfarthing,Fallohide,87,34,45,Male,6
+222,Gereon,Townsend,Westfarthing,Harfoot,74,35,34,Male,10
+226,Angilbart,Labingi,Bridgefields,Fallohide,88,23,46,Male,6
+228,Godomar,Puddifoot,Tuckborough,Fallohide,94,32,87,Male,9
+229,Aega,Headstrong,Bridgefields,Harfoot,61,38,86,Male,6
+219,Corbinian,Meadows,Westmarch,Harfoot,71,29,48,Male,9
+230,Arnulf,Puddifoot,Northfarthing,Harfoot,98,31,86,Male,3
+231,Flodoard,Baggins,Shire,Harfoot,82,36,85,Male,2
+233,Emmon,Lightfoot,Bywater,Stoor,93,31,35,Male,4
+232,Mosco,Boffin,Hobbiton,Harfoot,70,32,55,Male,5
+234,Bruno,Oldbuck,Tookland,Stoor,96,27,73,Male,1
+237,Gundolpho,Bracegirdle,Woody End,Stoor,63,28,69,Male,3
+235,Gundovald,Sandyman,Green Hill,Fallohide,60,21,57,Male,6
+236,Leufroy,Greenholm,Southfarthing,Stoor,90,27,59,Male,10
+239,Carl,Hlothran,Buckland,Harfoot,81,25,62,Male,5
+240,Caradas,Sackville,Hobbiton,Harfoot,89,31,76,Male,9
+238,Marmadoc,Bunce,Bywater,Fallohide,75,29,73,Male,10
+242,Marcoul,Greenhand,Shire,Fallohide,61,29,45,Male,5
+241,Artaud,Bolger,Southfarthing,Stoor,91,35,46,Male,3
+243,Boso,Goodchild,Tuckborough,Fallohide,80,24,45,Male,5
+244,Wazo,Hayward,Marish,Stoor,81,21,42,Male,4
+245,Giseler,Diggle,Hobbiton,Fallohide,61,25,55,Male,6
+246,Maixent,Longhole,Green Hill,Fallohide,97,29,88,Male,2
+248,Berno,Longholes,Tookland,Harfoot,79,35,73,Male,2
+247,Ansovald,Proudfoot,Westmarch,Fallohide,75,33,81,Male,4
+211,Lull,Harfoot,Shire,Stoor,92,34,67,Male,5
+249,Aigulf,Hlothran,Buckland,Stoor,78,29,76,Male,7
+252,Merobaudes,Hayward,Marish,Harfoot,62,36,35,Male,5
+251,Bruno,Bophin,Hobbiton,Harfoot,95,21,69,Male,10
+253,Warmann,Fallohide,Westmarch,Stoor,98,35,45,Male,9
+254,Hamfast,Brandagamba,Tookland,Stoor,91,27,92,Male,5
+255,Corbinian,Zaragamba,Tuckborough,Harfoot,77,37,33,Male,5
+257,Maraulf,Hayward,Hobbiton,Harfoot,98,22,60,Male,10
+256,Porro,Fallohide,Eastfarthing,Stoor,82,21,82,Male,1
+258,Theodard,Baggins,Westmarch,Stoor,70,32,79,Male,3
+260,Nibs,Clayhanger,Bridgefields,Stoor,96,39,70,Male,8
+259,Wiseman,Banks,Tuckborough,Harfoot,78,20,59,Male,2
+262,Sigismund,Gawkroger,Green Hill,Stoor,63,38,83,Male,1
+261,Thierry,Noaks,Northfarthing,Harfoot,65,24,43,Male,9
+263,Lul,Bracegirdle,Tuckborough,Harfoot,93,34,57,Male,5
+265,Merimas,Hlothran,Westfarthing,Stoor,60,33,79,Male,10
+264,Dado,Fairbairn,Shire,Fallohide,89,24,90,Male,10
+267,Grossman,Sackville,Tookland,Fallohide,97,32,73,Male,6
+266,Godobald,Proudfoot,Tuckborough,Stoor,81,31,50,Male,8
+268,Guntramn,Galbasi,Green Hill,Harfoot,66,34,81,Male,7
+224,Bertelis,Tuk,Buckland,Stoor,97,33,89,Male,5
+250,Theodwin,Headstrong,Buckland,Harfoot,85,34,62,Male,9
+272,Roderic,Clayhanger,Northfarthing,Harfoot,87,28,77,Male,2
+271,Ranugad,Baggins,Southfarthing,Harfoot,80,31,63,Male,3
+273,Audramnus,Goodenough,Green Hill,Stoor,69,38,77,Male,6
+275,Fulvus,Sackville,Green Hill,Fallohide,60,32,57,Male,1
+274,Maiuel,Stoor,Buckland,Harfoot,92,34,51,Male,8
+227,Alaric,Hogg,Bridgefields,Stoor,75,29,91,Male,8
+277,Aega,Bophin,Eastfarthing,Stoor,99,26,59,Male,10
+279,Arculf,Greenholm,Buckland,Fallohide,94,39,56,Male,4
+278,Marmadoc,Greenholm,Eastfarthing,Harfoot,99,39,36,Male,7
+280,Wido,Roper,Bridgefields,Fallohide,65,30,88,Male,2
+281,Gozolon,Boffin,Marish,Harfoot,91,33,89,Male,8
+282,Godun,Boffin,Southfarthing,Fallohide,93,39,37,Male,10
+283,Gozolon,Townsend,Shire,Fallohide,61,20,67,Male,1
+270,Gormadoc,Oldbuck,Green Hill,Harfoot,62,24,89,Male,8
+269,Angilbart,Pott,Tuckborough,Stoor,88,27,82,Male,3
+286,Berno,Longholes,Buckland,Fallohide,77,38,86,Male,9
+288,Kalimac,Pott,Bridgefields,Harfoot,68,29,64,Male,4
+289,Atacinus,Whitfoot,Northfarthing,Harfoot,68,34,76,Male,6
+287,Leutfrid,Tuk,Bridgefields,Fallohide,74,23,56,Male,2
+291,Crassus,Greenhand,Bywater,Stoor,77,32,67,Male,3
+290,Tescelin,Boffin,Southfarthing,Stoor,77,20,91,Male,5
+292,Columbus,Gammidge,Tookland,Fallohide,94,22,66,Male,6
+293,Vulmar,Galpsi,Tuckborough,Fallohide,73,30,60,Male,9
+294,Atacinus,Gamgee,Tookland,Stoor,65,26,82,Male,3
+295,Tomacca,Brown,Woody End,Harfoot,85,25,57,Male,5
+284,Pancras,Lightfoot,Buckland,Harfoot,65,31,71,Male,7
+298,Ferdinand,Bracegirdle,Westmarch,Harfoot,84,23,50,Male,5
+296,Bucca,Fairbairn,Shire,Fallohide,80,39,91,Male,3
+299,Sunnegisil,Brown,Shire,Stoor,82,32,76,Male,4
+300,Bladud,Bracegirdle,Southfarthing,Harfoot,64,21,51,Male,9
+302,Liudhard,Gardner,Westmarch,Harfoot,78,31,72,Male,7
+303,Erard,Galpsi,Tuckborough,Fallohide,77,37,91,Male,1
+301,Clodio,Zaragamba,Shire,Stoor,76,31,73,Male,3
+304,Angegisis,Headstrong,Marish,Fallohide,93,29,83,Male,5
+306,Merimas,Longhole,Bywater,Stoor,82,24,87,Male,9
+305,Marmaduke,Baggins,Green Hill,Fallohide,77,31,53,Male,4
+307,Orlando,Gamwich,Bridgefields,Harfoot,95,29,62,Male,3
+308,Besso,Roper,Hobbiton,Harfoot,91,22,92,Male,2
+309,Ceufroy,Greenhand,Tuckborough,Harfoot,73,39,86,Male,7
+311,Clovis,Brownlock,Westmarch,Stoor,67,31,35,Male,4
+310,Agobard,Gawkroger,Shire,Harfoot,74,34,39,Male,1
+285,Banazir,Goldworthy,Bridgefields,Harfoot,69,22,79,Male,6
+313,Artaud,Gawkroger,Shire,Fallohide,88,33,86,Male,5
+314,Angegisis,Goodenough,Tookland,Stoor,83,24,78,Male,9
+317,Waleran,Goold,Shire,Stoor,95,22,67,Male,9
+316,Ceredic,Gammidge,Green Hill,Harfoot,88,20,91,Male,2
+315,Hob,Gamgee,Woody End,Fallohide,82,34,41,Male,10
+318,Tobold,Gardner,Buckland,Fallohide,79,34,64,Male,4
+319,Nevelung,Oldbuck,Hobbiton,Fallohide,82,24,69,Male,6
+321,Chlodowig,Noaks,Eastfarthing,Stoor,65,30,51,Male,3
+320,Andica,Baggins,Marish,Fallohide,86,30,50,Male,6
+323,Imninon,Marsh,Southfarthing,Fallohide,63,36,77,Male,2
+322,Bero,Labingi,Green Hill,Stoor,65,31,35,Male,1
+324,Agiulf,Galbasi,Westmarch,Fallohide,79,28,43,Male,1
+325,Dodinas,Butcher,Northfarthing,Fallohide,71,32,65,Male,5
+327,Hlodver,Brownlock,Hobbiton,Fallohide,76,21,56,Male,4
+312,Magneric,Underhill,Woody End,Fallohide,80,27,91,Male,5
+326,Agobard,Goodbody,Shire,Stoor,96,38,72,Male,4
+329,Matfrid,Brownlock,Tuckborough,Stoor,91,25,77,Male,4
+330,Angilbart,Gawkroger,Westfarthing,Stoor,92,37,58,Male,9
+332,Chlodomer,Headstrong,Shire,Fallohide,89,39,54,Male,4
+331,Waleran,Diggle,Tuckborough,Fallohide,93,22,76,Male,9
+334,Gondulph,Townsend,Tuckborough,Fallohide,68,25,52,Male,9
+333,Dodo,Goodenough,Bridgefields,Harfoot,77,25,73,Male,3
+335,Hildeprand,Sandyman,Tookland,Fallohide,65,36,62,Male,1
+276,Orderic,Puddifoot,Westmarch,Harfoot,85,33,39,Male,9
+336,Emme,Took,Green Hill,Stoor,79,29,47,Male,3
+337,Will,Sackville,Tookland,Stoor,63,29,78,Male,10
+340,Ricbodo,Puddifoot,Marish,Harfoot,91,22,85,Male,4
+338,Willehad,Harfoot,Shire,Fallohide,86,33,90,Male,1
+341,Gifemund,Sandheaver,Marish,Harfoot,88,30,63,Male,9
+342,Lebuin,Marsh,Shire,Harfoot,67,32,75,Male,4
+343,Leodegar,Bracegirdle,Tuckborough,Harfoot,97,28,88,Male,9
+344,Tassilo,Headstrong,Green Hill,Stoor,93,35,58,Male,9
+346,Clodio,Smallburrow,Bridgefields,Fallohide,98,22,61,Male,7
+345,Emme,Bophin,Green Hill,Harfoot,94,20,72,Male,8
+347,Bilba,Headstrong,Tuckborough,Fallohide,97,31,82,Male,4
+350,Fulvus,Bunce,Hobbiton,Stoor,84,21,56,Male,5
+348,Pacatian,Lightfoot,Bridgefields,Harfoot,95,30,40,Male,3
+349,Isengrim,Sackville,Bridgefields,Stoor,86,34,76,Male,2
+351,Wiseman,Hogg,Hobbiton,Fallohide,77,32,33,Male,5
+352,Wido,Harfoot,Eastfarthing,Stoor,70,37,36,Male,8
+339,Andwise,Fallohide,Tuckborough,Stoor,71,21,42,Male,10
+355,Dodinas,Goodchild,Woody End,Fallohide,68,36,78,Male,10
+354,Gondulph,Burrows,Shire,Stoor,99,39,53,Male,9
+356,Audoen,Burrow,Westfarthing,Fallohide,92,30,91,Male,3
+357,Sicho,Greenholm,Eastfarthing,Fallohide,61,38,72,Male,3
+358,Hamson,Puddifoot,Westmarch,Stoor,74,37,60,Male,6
+359,Richomer,Rumble,Shire,Fallohide,66,32,71,Male,5
+361,Uffo,Stoor,Woody End,Fallohide,90,30,44,Male,1
+360,Bungo,Brandagamba,Buckland,Fallohide,95,35,61,Male,10
+362,Habaccuc,Stoor,Westmarch,Stoor,83,37,64,Male,1
+363,Ceufroy,Brandagamba,Bridgefields,Harfoot,88,31,52,Male,10
+365,Tobias,Butcher,Eastfarthing,Harfoot,97,33,68,Male,4
+364,Helinand,Fairbairn,Green Hill,Fallohide,76,30,88,Male,6
+368,Huebald,Goodchild,Tookland,Fallohide,67,20,80,Male,2
+366,Samson,Proudfoot,Westfarthing,Harfoot,84,29,63,Male,5
+367,Lothar,Headstrong,Hobbiton,Fallohide,69,20,52,Male,8
+369,Berengar,Gawkroger,Tuckborough,Fallohide,72,36,44,Male,2
+370,Chilperic,Burrows,Westfarthing,Fallohide,68,29,47,Male,5
+372,Habaccuc,Stoor,Hobbiton,Stoor,82,26,84,Male,2
+371,Uffo,Stoor,Northfarthing,Stoor,87,27,66,Male,4
+373,Ceufroy,Brandagamba,Southfarthing,Fallohide,77,33,38,Male,8
+297,Fulbert,Labingi,Southfarthing,Fallohide,62,29,55,Male,4
+376,Samson,Proudfoot,Westmarch,Stoor,74,38,84,Male,3
+374,Helinand,Fairbairn,Hobbiton,Fallohide,65,26,66,Male,4
+379,Berengar,Gawkroger,Hobbiton,Fallohide,79,39,43,Male,3
+377,Lothar,Headstrong,Marish,Stoor,69,28,45,Male,5
+328,Timothy,Meadows,Northfarthing,Fallohide,81,26,61,Male,10
+353,Floribert,Galbasi,Shire,Stoor,73,35,41,Male,4
+381,Tomburan,Brown,Hobbiton,Fallohide,85,21,51,Male,9
+383,Ferdinand,Burrows,Green Hill,Fallohide,83,22,49,Male,3
+382,Vicelin,Oldbuck,Hobbiton,Harfoot,73,27,81,Male,4
+385,Godobald,Pott,Tookland,Fallohide,77,39,66,Male,3
+384,Sago,Harfoot,Westfarthing,Stoor,98,24,61,Male,5
+386,Carambo,Brownlock,Bywater,Stoor,84,34,83,Male,8
+387,Jo,Marsh,Southfarthing,Fallohide,81,31,70,Male,9
+375,Tobias,Butcher,Northfarthing,Stoor,60,33,66,Male,8
+388,Sigismond,Brownlock,Bywater,Stoor,79,31,77,Male,8
+391,Wulfhard,Hayward,Westmarch,Fallohide,74,37,43,Male,2
+392,Merovech,Brownlock,Buckland,Harfoot,61,29,64,Male,4
+390,Aega,Hogg,Westmarch,Harfoot,99,38,87,Male,7
+393,Ebregisel,Labingi,Tuckborough,Stoor,81,26,55,Male,1
+394,Audovald,Burrows,Westfarthing,Fallohide,86,39,42,Male,5
+396,Heribert,Fairbairn,Bywater,Fallohide,97,25,40,Male,6
+397,Isengrin,Gamwich,Bywater,Fallohide,99,30,47,Male,10
+395,Fulcaire,Stoor,Woody End,Harfoot,91,26,44,Male,1
+399,Orderic,Longhole,Southfarthing,Fallohide,68,34,64,Male,2
+378,Huebald,Goodchild,Bridgefields,Stoor,67,27,41,Male,4
+401,Drogon,Brown,Westfarthing,Harfoot,94,36,60,Male,8
+400,Richomeres,Sandheaver,Woody End,Harfoot,88,38,90,Male,1
+403,Nob,Hogg,Bridgefields,Harfoot,63,27,79,Male,1
+402,Munderic,Whitfoot,Tookland,Fallohide,64,25,58,Male,1
+405,Bucca,Stoor,Hobbiton,Stoor,94,33,70,Male,4
+404,Lull,Diggle,Northfarthing,Stoor,64,28,65,Male,9
+406,Rathier,Hogg,Tookland,Fallohide,85,36,87,Male,2
+408,Theodard,Hlothran,Bridgefields,Harfoot,78,36,81,Male,8
+409,Balderic,Tunnelly,Buckland,Fallohide,62,26,38,Male,4
+380,Chilperic,Burrows,Tookland,Harfoot,83,39,85,Male,9
+410,Columbus,Burrows,Southfarthing,Stoor,99,32,42,Male,7
+412,Erard,Twofoot,Shire,Stoor,61,29,39,Male,1
+411,Engelbert,Brockhouse,Bridgefields,Stoor,97,26,48,Male,10
+413,Zwentibold,Banks,Northfarthing,Harfoot,74,34,65,Male,4
+407,Faro,Sandheaver,Green Hill,Stoor,76,25,46,Male,1
+415,Flavus,Hlothran,Westfarthing,Harfoot,66,35,83,Male,9
+416,Jocelin,Maggot,Woody End,Fallohide,61,24,83,Male,10
+417,Andica,Gardner,Woody End,Harfoot,93,35,64,Male,4
+418,Wandrille,Greenhand,Woody End,Harfoot,81,20,58,Male,3
+419,Cyr,Zaragamba,Bridgefields,Harfoot,84,37,75,Male,8
+420,Hamilcar,Bunce,Tuckborough,Harfoot,92,22,48,Male,1
+421,Gundobad,Gammidge,Hobbiton,Harfoot,64,39,87,Male,4
+422,Isumbras,Boffin,Tuckborough,Fallohide,73,35,57,Male,6
+423,Hartmut,Stoor,Northfarthing,Fallohide,64,23,51,Male,9
+425,Otker,Oldbuck,Bridgefields,Fallohide,94,31,57,Male,7
+424,Wilimar,Sackville,Bridgefields,Harfoot,86,28,67,Male,9
+426,Corbus,Goold,Tookland,Fallohide,74,20,49,Male,5
+428,Hildigrim,Goodbody,Shire,Harfoot,67,29,86,Male,10
+427,Jo,Mugwort,Tuckborough,Harfoot,63,34,45,Male,2
+430,Sigeric,Bophin,Green Hill,Fallohide,85,29,50,Male,2
+429,Leuthard,Took,Westfarthing,Stoor,83,26,62,Male,9
+432,Giselbert,Meadows,Woody End,Harfoot,76,30,62,Male,4
+431,Merovech,Burrows,Westfarthing,Harfoot,93,31,53,Male,3
+433,Rudigar,Diggle,Shire,Harfoot,72,33,68,Male,9
+398,Ceufroy,Mugwort,Tookland,Stoor,94,37,67,Male,9
+434,Adelard,Goodbody,Tookland,Fallohide,79,29,71,Male,4
+436,Valdemar,Galbasi,Buckland,Fallohide,98,29,68,Male,7
+438,Hubert,Hayward,Green Hill,Fallohide,82,27,53,Male,2
+437,Bucca,Roper,Northfarthing,Stoor,92,31,49,Male,6
+439,Rathar,Oldbuck,Woody End,Fallohide,83,27,68,Male,8
+435,Warmann,Diggle,Tookland,Harfoot,79,27,56,Male,2
+440,Gundabald,Goold,Bridgefields,Stoor,92,31,49,Male,2
+442,Charles,Proudfoot,Bywater,Stoor,90,32,46,Male,9
+389,Ted,Harfoot,Tuckborough,Harfoot,71,36,85,Male,10
+444,Togo,Hlothran,Green Hill,Fallohide,96,23,46,Male,6
+445,Wilibald,Brandagamba,Westfarthing,Stoor,98,26,50,Male,4
+441,Magnachar,Sandheaver,Tookland,Stoor,60,35,88,Male,3
+447,Hildigrim,Longhole,Southfarthing,Stoor,72,34,54,Male,3
+448,Berenger,Goldworthy,Woody End,Harfoot,66,22,35,Male,4
+449,Gerontius,Gamwich,Hobbiton,Fallohide,77,32,87,Male,9
+450,Timba,Hayward,Woody End,Fallohide,94,39,65,Male,10
+452,Alberic,Smallburrow,Southfarthing,Stoor,81,20,71,Male,6
+451,Agobard,Gardner,Tookland,Stoor,99,21,71,Male,5
+443,Odilon,Brockhouse,Eastfarthing,Fallohide,85,36,64,Male,2
+414,Hilduin,Brown,Shire,Fallohide,76,39,60,Male,2
+455,Balderic,Hogg,Southfarthing,Harfoot,90,22,74,Male,8
+458,Asselin,Greenholm,Westmarch,Harfoot,60,37,69,Male,7
+457,Nick,Goold,Southfarthing,Stoor,93,23,48,Male,4
+454,Bladud,Roper,Buckland,Harfoot,91,32,83,Male,7
+459,Sago,Burrows,Woody End,Harfoot,63,22,37,Male,1
+453,Taurin,Goodbody,Buckland,Stoor,86,37,92,Male,1
+462,Wulfhard,Longhole,Buckland,Fallohide,98,28,75,Male,4
+463,Aregisel,Twofoot,Westfarthing,Harfoot,84,35,42,Male,9
+460,Hildebald,Headstrong,Northfarthing,Fallohide,74,30,49,Male,3
+464,Besso,Hayward,Tuckborough,Stoor,95,22,76,Male,5
+465,Thietmar,Brownlock,Northfarthing,Stoor,64,38,84,Male,1
+467,Orderic,Chubb,Northfarthing,Harfoot,73,31,51,Male,2
+466,Benild,Gamgee,Westfarthing,Harfoot,91,34,92,Male,8
+469,Audovald,Galpsi,Woody End,Harfoot,74,28,85,Male,5
+468,Fortinbras,Maggot,Hobbiton,Stoor,62,28,58,Male,9
+470,Nibelung,Burrows,Westmarch,Stoor,90,27,88,Male,2
+471,Theodon,Cotton,Tookland,Harfoot,78,28,42,Male,3
+473,Gundahar,Tuk,Tookland,Harfoot,75,36,68,Male,6
+472,Cyr,Brockhouse,Marish,Harfoot,81,25,35,Male,7
+474,Aregisel,Zaragamba,Green Hill,Fallohide,76,34,87,Male,3
+475,Butilin,Chubb,Tuckborough,Stoor,70,24,78,Male,7
+477,Audramnus,Gamgee,Westfarthing,Stoor,90,34,77,Male,6
+476,Wazo,Bracegirdle,Eastfarthing,Harfoot,64,30,77,Male,9
+479,Berchar,Fallohide,Woody End,Stoor,72,25,80,Male,2
+480,Wilcome,Goodenough,Green Hill,Stoor,97,24,65,Male,8
+478,Chlodomer,Twofoot,Eastfarthing,Fallohide,89,26,40,Male,3
+481,Fulrad,Rumble,Tookland,Fallohide,99,37,57,Male,4
+482,Ilberic,Townsend,Shire,Stoor,77,27,64,Male,1
+483,Marcoul,Rumble,Southfarthing,Fallohide,84,27,53,Male,10
+484,Merry,Pott,Westfarthing,Stoor,82,25,63,Male,8
+485,Cottar,Oldbuck,Bridgefields,Harfoot,81,20,76,Male,10
+486,Walaric,Stoor,Tuckborough,Harfoot,81,34,54,Male,7
+487,Theutgaud,Brandagamba,Buckland,Fallohide,84,25,36,Male,3
+488,Nicol,Goold,Eastfarthing,Fallohide,60,27,76,Male,5
+489,Nick,Diggle,Tookland,Fallohide,75,23,78,Male,3
+491,Wandregisilus,Zaragamba,Tookland,Harfoot,79,35,62,Male,8
+490,Marcus,Sandyman,Bridgefields,Harfoot,78,27,87,Male,5
+492,Clotaire,Longholes,Bywater,Harfoot,77,20,92,Male,7
+493,Amator,Gawkroger,Westfarthing,Harfoot,76,36,57,Male,1
+494,Crassus,Proudfoot,Tuckborough,Harfoot,72,22,55,Male,7
+456,Thierry,Gammidge,Woody End,Harfoot,64,32,60,Male,9
+496,Sancho,Butcher,Southfarthing,Stoor,98,36,82,Male,2
+498,Gozolon,Gamgee,Bridgefields,Stoor,68,33,78,Male,4
+495,Medard,Twofoot,Bywater,Stoor,72,30,90,Male,1
+499,Hubert,Townsend,Hobbiton,Harfoot,86,32,87,Male,9
+501,Frodo,Baggins,Marish,Stoor,74,27,80,Male,8
+500,Gundahar,Burrow,Bywater,Harfoot,97,22,72,Male,7
+461,Gereon,Proudfoot,Shire,Stoor,87,28,57,Male,4
+497,Fulbert,Brown,Westmarch,Harfoot,77,31,39,Male,9
+446,Samlad,Headstrong,Westmarch,Fallohide,86,30,91,Male,5
+503,Peregrin,Tuk,Westfarthing,Stoor,75,37,37,Male,6
+502,Bilbo,Baggins,Shire,Harfoot,74,37,70,Male,4
+504,Sam,Gamgee,Marish,Harfoot,83,24,66,Male,7
+505,Merry,Brandybuck,Marish,Stoor,92,27,81,Male,9
+508,Berylla,Hlothran,Marish,Fallohide,74,33,65,Female,7
+507,Dianthus,Lightfoot,Woody End,Harfoot,61,28,92,Female,10
+510,Gilly,Burrow,Westfarthing,Fallohide,76,35,64,Female,7
+512,Amarylla,Burrow,Shire,Fallohide,64,32,75,Female,3
+514,Viola,Hogg,Woody End,Stoor,89,39,58,Female,8
+515,Daffodila,Galbasi,Southfarthing,Harfoot,90,22,55,Female,6
+513,Camella,Twofoot,Tuckborough,Fallohide,93,38,52,Female,1
+511,Narcissa,Oldbuck,Southfarthing,Harfoot,67,31,69,Female,10
+518,Calamintha,Noaks,Southfarthing,Harfoot,84,21,64,Female,1
+520,Bell,Sandyman,Tuckborough,Fallohide,65,22,61,Female,10
+521,Daffodila,Sandyman,Southfarthing,Stoor,63,24,33,Female,3
+522,Dahlia,Townsend,Green Hill,Fallohide,97,39,45,Female,2
+517,Lalia,Harfoot,Westfarthing,Harfoot,84,24,65,Female,5
+519,Peony,Fallohide,Eastfarthing,Stoor,92,20,83,Female,4
+509,Hilda,Burrows,Bywater,Fallohide,89,33,60,Female,6
+506,Lyla,Goold,Bridgefields,Harfoot,71,32,33,Female,8
+525,Dahlia,Hornblower,Green Hill,Fallohide,79,25,59,Female,4
+528,Belba,Galpsi,Bridgefields,Fallohide,60,26,63,Female,10
+527,Camella,Longholes,Westmarch,Harfoot,97,24,66,Female,1
+526,Alchemilla,Lightfoot,Bridgefields,Harfoot,71,24,71,Female,1
+531,Jade,Noaks,Buckland,Harfoot,84,20,49,Female,7
+529,Agate,Butcher,Bywater,Harfoot,74,32,46,Female,4
+532,Diamond,Gamgee,Bywater,Stoor,68,33,72,Female,5
+534,Lamia,Brockhouse,Northfarthing,Stoor,81,33,38,Female,3
+516,Calaminth,Lightfoot,Tookland,Stoor,98,34,75,Female,3
+530,Anagellis,Goodenough,Eastfarthing,Harfoot,86,24,47,Female,7
+536,Celeste,Sandyman,Marish,Harfoot,86,39,81,Female,8
+537,Diamond,Proudfoot,Eastfarthing,Fallohide,88,35,68,Female,6
+535,Virginia,Marsh,Woody End,Stoor,64,29,59,Female,7
+523,Peona,Longholes,Bywater,Fallohide,95,27,53,Female,5
+538,Belladonna,Bunce,Marish,Harfoot,62,29,56,Female,3
+541,Canna,Longhole,Westmarch,Fallohide,88,25,63,Female,9
+543,Hildibrand,Twofoot,Westmarch,Stoor,69,35,66,Female,10
+542,Angelona,Burrow,Northfarthing,Fallohide,82,39,44,Female,6
+533,Celeste,Headstrong,Bywater,Stoor,98,35,84,Female,5
+540,Amsonia,Goold,Woody End,Harfoot,67,21,49,Female,2
+546,Hanna,Lightfoot,Tookland,Stoor,96,36,71,Female,3
+548,Celosia,Longholes,Tookland,Fallohide,78,29,72,Female,1
+524,Cercis,Gawkroger,Bridgefields,Harfoot,77,20,92,Female,2
+544,Gilly,Galpsi,Eastfarthing,Fallohide,91,31,87,Female,1
+551,Chica,Greenholm,Westmarch,Fallohide,96,28,42,Female,4
+552,Emerald,Underhill,Buckland,Harfoot,71,37,36,Female,8
+553,Melilot,Sandheaver,Tuckborough,Harfoot,87,29,33,Female,10
+549,Calla,Burrows,Bywater,Fallohide,91,24,68,Female,8
+555,Heather,Burrow,Bywater,Fallohide,87,36,80,Female,4
+556,Crocosmia,Oldbuck,Bridgefields,Stoor,70,25,40,Female,1
+545,Nemisa,Pott,Westmarch,Harfoot,79,37,73,Female,3
+558,Camassia,Goold,Shire,Stoor,98,22,33,Female,3
+559,Gerbera,Whitfoot,Tuckborough,Fallohide,79,32,56,Female,9
+560,Lavender,Proudfoot,Westmarch,Fallohide,64,26,79,Female,1
+547,Berylla,Longholes,Marish,Harfoot,90,21,77,Female,9
+557,Belladonna,Marsh,Tuckborough,Fallohide,71,32,35,Female,5
+561,Camomile,Noaks,Bywater,Fallohide,61,25,82,Female,1
+564,Petunia,Banks,Bywater,Stoor,81,22,67,Female,8
+563,Dandelion,Puddifoot,Marish,Stoor,72,21,38,Female,9
+550,Calla,Fallohide,Eastfarthing,Fallohide,79,33,71,Female,2
+562,Gaura,Longhole,Woody End,Fallohide,62,35,59,Female,9
+566,Ruby,Hayward,Bridgefields,Harfoot,85,29,45,Female,9
+569,Opal,Pott,Bywater,Stoor,90,29,68,Female,9
+568,Beryl,Whitfoot,Westfarthing,Stoor,97,21,36,Female,3
+570,Azalea,Tuk,Westfarthing,Fallohide,78,39,85,Female,5
+567,Anemone,Rumble,Hobbiton,Harfoot,83,22,79,Female,9
+572,Belba,Longholes,Shire,Stoor,93,21,92,Female,4
+573,Malva,Tunnelly,Green Hill,Harfoot,80,29,89,Female,10
+571,Primula,Goldworthy,Buckland,Harfoot,78,27,91,Female,1
+539,Sapphire,Stoor,Buckland,Fallohide,65,25,56,Female,3
+574,Canna,Smallburrow,Woody End,Fallohide,99,29,68,Female,9
+578,Brunnera,Gardner,Buckland,Fallohide,68,21,42,Female,4
+577,Monarda,Smallburrow,Southfarthing,Stoor,75,37,61,Female,8
+580,Zinnia,Headstrong,Green Hill,Harfoot,81,29,51,Female,3
+554,Peona,Gamwich,Marish,Harfoot,77,25,38,Female,6
+579,Malva,Tunnelly,Hobbiton,Stoor,66,21,44,Female,8
+584,Elanor,Stoor,Buckland,Harfoot,70,30,64,Female,7
+582,Cercis,Chubb,Westfarthing,Fallohide,75,33,48,Female,8
+581,Maple,Mugwort,Westfarthing,Fallohide,99,31,71,Female,3
+583,Belladonna,Smallburrow,Westfarthing,Fallohide,74,21,44,Female,1
+565,Verbena,Sackville,Buckland,Stoor,77,26,64,Female,5
+587,Brunnera,Brownlock,Buckland,Stoor,60,27,53,Female,7
+588,Gazania,Meadows,Green Hill,Stoor,69,24,64,Female,3
+586,Narcissa,Greenholm,Hobbiton,Fallohide,89,32,60,Female,4
+589,Adamanta,Longhole,Hobbiton,Fallohide,63,33,66,Female,7
+591,Dandelia,Rumble,Bridgefields,Stoor,62,21,84,Female,9
+575,Pimpernel,Cotton,Eastfarthing,Harfoot,93,28,82,Female,1
+593,Hilda,Whitfoot,Hobbiton,Harfoot,77,35,78,Female,9
+594,Lyla,Roper,Tookland,Harfoot,70,30,39,Female,7
+592,Pearl,Hornblower,Shire,Stoor,66,34,47,Female,10
+596,Calla,Goodenough,Hobbiton,Harfoot,63,37,84,Female,10
+595,Crocosmia,Greenhand,Southfarthing,Fallohide,88,29,47,Female,7
+597,Camassia,Diggle,Westfarthing,Fallohide,60,24,47,Female,4
+599,Celosia,Pott,Eastfarthing,Stoor,78,37,50,Female,8
+598,Cosma,Cotton,Hobbiton,Harfoot,98,25,92,Female,4
+600,Anagelli,Tunnelly,Westfarthing,Harfoot,99,33,80,Female,4
+601,Pimpanella,Clayhanger,Westfarthing,Fallohide,83,25,37,Female,5
+576,Celeste,Gammidge,Hobbiton,Harfoot,70,33,40,Female,10
+590,Anagelli,Pott,Shire,Stoor,99,22,53,Female,9
+585,Iris,Gammidge,Green Hill,Fallohide,93,35,41,Female,6
+604,Belladonna,Brockhouse,Woody End,Harfoot,70,21,43,Female,4
+607,Heliconia,Stoor,Southfarthing,Fallohide,97,38,48,Female,8
+609,Malva,Goold,Eastfarthing,Harfoot,66,29,52,Female,5
+608,Diamond,Brandagamba,Marish,Stoor,71,22,69,Female,2
+605,Adaldrida,Greenhand,Hobbiton,Harfoot,70,28,54,Female,1
+606,Begona,Brockhouse,Tuckborough,Harfoot,80,24,52,Female,9
+611,Gaura,Underhill,Woody End,Harfoot,60,22,49,Female,1
+610,Celosa,Sandheaver,Bridgefields,Fallohide,97,39,62,Female,4
+612,Coryda,Roper,Bridgefields,Stoor,62,31,79,Female,5
+614,Gerania,Galpsi,Bywater,Fallohide,93,31,72,Female,1
+616,Calendine,Labingi,Bywater,Stoor,75,38,72,Female,5
+615,Viola,Underhill,Green Hill,Fallohide,96,35,44,Female,7
+618,Heliconia,Burrowes,Tuckborough,Harfoot,97,33,88,Female,4
+620,Lily,Diggle,Tookland,Stoor,82,39,36,Female,7
+621,Malva,Cotton,Woody End,Harfoot,80,38,33,Female,4
+622,Amarantha,Goodbody,Westmarch,Fallohide,60,26,85,Female,3
+617,Celosa,Cotton,Bywater,Harfoot,97,24,62,Female,5
+623,Narcissa,Burrow,Marish,Fallohide,97,31,47,Female,10
+603,Lily,Burrowes,Shire,Fallohide,97,35,89,Female,6
+627,Cleome,Maggot,Buckland,Stoor,77,37,72,Female,4
+624,Calceola,Gardner,Tuckborough,Stoor,84,32,57,Female,4
+619,Lotus,Townsend,Hobbiton,Fallohide,61,25,75,Female,9
+625,Pearl,Chubb,Bywater,Fallohide,90,37,79,Female,7
+613,Veronica,Twofoot,Hobbiton,Harfoot,69,20,91,Female,1
+630,Holly,Goold,Westmarch,Stoor,79,36,75,Female,2
+602,Tulip,Brown,Hobbiton,Stoor,99,32,44,Female,3
+631,Cleoma,Brownlock,Westmarch,Harfoot,84,36,45,Female,7
+633,Eglantine,Whitfoot,Northfarthing,Stoor,98,29,53,Female,9
+635,Lonicera,Bolger,Woody End,Stoor,61,29,60,Female,4
+632,Amsonia,Gardner,Westmarch,Fallohide,91,37,84,Female,8
+634,Dicentra,Bolger,Northfarthing,Fallohide,69,27,33,Female,10
+628,Jasmina,Took,Bridgefields,Stoor,98,33,76,Female,5
+636,Eglantine,Harfoot,Westmarch,Harfoot,73,24,37,Female,7
+638,Chica,Labingi,Tuckborough,Harfoot,78,20,72,Female,4
+641,Camellia,Burrow,Tookland,Harfoot,75,38,40,Female,4
+642,Viola,Butcher,Shire,Harfoot,91,32,40,Female,2
+640,Diascia,Longhole,Bywater,Harfoot,94,31,34,Female,5
+639,Adaldrida,Goodbody,Bridgefields,Stoor,94,38,69,Female,6
+644,Daffodila,Gamwich,Northfarthing,Stoor,91,36,86,Female,7
+645,Malva,Hornblower,Marish,Stoor,92,30,64,Female,6
+646,Myrtle,Hayward,Southfarthing,Fallohide,69,31,75,Female,8
+648,Gladiola,Meadows,Marish,Stoor,78,22,45,Female,1
+643,Alyssa,Puddifoot,Bridgefields,Stoor,71,24,38,Female,9
+647,Lamia,Gardner,Green Hill,Stoor,94,22,72,Female,9
+651,Elanor,Brandybuck,Hobbiton,Fallohide,65,22,85,Female,9
+649,Emerald,Hlothran,Woody End,Stoor,62,31,53,Female,10
+650,Peona,Gamwich,Bywater,Stoor,75,32,68,Female,7
+653,Lobelia,Goodenough,Tuckborough,Harfoot,67,36,37,Female,5
+652,Gilly,Cotton,Westfarthing,Stoor,71,28,85,Female,7
+654,Lamia,Longhole,Hobbiton,Stoor,61,24,85,Female,2
+655,Calla,Oldbuck,Buckland,Harfoot,80,23,48,Female,4
+656,Camomila,Maggot,Hobbiton,Stoor,87,21,69,Female,2
+658,Amaryllis,Hogg,Hobbiton,Stoor,87,30,92,Female,8
+629,Diascia,Oldbuck,Westfarthing,Harfoot,69,29,90,Female,3
+660,Primula,Banks,Bywater,Fallohide,90,36,41,Female,10
+661,Melilot,Goodenough,Eastfarthing,Harfoot,82,26,35,Female,9
+659,Camomila,Burrowes,Woody End,Stoor,67,32,83,Female,5
+663,Lantana,Smallburrow,Southfarthing,Fallohide,88,22,43,Female,1
+662,Poinsetta,Gawkroger,Hobbiton,Stoor,86,21,66,Female,7
+665,Gardenia,Goldworthy,Green Hill,Stoor,79,22,90,Female,2
+664,Veronica,Puddifoot,Bridgefields,Stoor,95,32,42,Female,10
+666,Chica,Gardner,Hobbiton,Fallohide,65,30,72,Female,2
+669,Belladonna,Took,Hobbiton,Fallohide,98,20,53,Female,7
+668,Forsythia,Whitfoot,Green Hill,Fallohide,90,35,36,Female,6
+667,Laura,Labingi,Westfarthing,Harfoot,82,24,65,Female,2
+671,Eranthis,Headstrong,Westmarch,Stoor,76,21,92,Female,1
+672,Achilla,Cotton,Buckland,Fallohide,71,21,80,Female,1
+670,Forsythia,Fairbairn,Bridgefields,Harfoot,68,39,35,Female,7
+657,Calamintha,Greenholm,Southfarthing,Fallohide,93,20,59,Female,2
+626,Heliconia,Longhole,Marish,Fallohide,63,30,54,Female,7
+676,Hildibrand,Hayward,Marish,Stoor,99,24,82,Female,6
+678,Lobelia,Burrow,Woody End,Fallohide,86,33,86,Female,7
+675,Diascia,Sandyman,Westfarthing,Fallohide,98,21,77,Female,6
+677,Peona,Gawkroger,Northfarthing,Stoor,64,38,33,Female,9
+679,Angelica,Whitfoot,Green Hill,Stoor,90,27,37,Female,8
+680,Berylla,Clayhanger,Eastfarthing,Fallohide,70,22,42,Female,2
+682,Camomile,Stoor,Tuckborough,Harfoot,94,36,76,Female,2
+683,Cleoma,Stoor,Bywater,Harfoot,65,33,58,Female,1
+681,Dandelion,Mugwort,Hobbiton,Harfoot,69,32,55,Female,1
+685,Myrtle,Galpsi,Marish,Harfoot,99,23,87,Female,1
+684,Pearl,Goodbody,Southfarthing,Stoor,65,24,41,Female,7
+686,Clover,Fairbairn,Tuckborough,Harfoot,65,22,58,Female,4
+688,Hildigrim,Gamwich,Bywater,Stoor,75,20,84,Female,2
+687,Iris,Chubb,Buckland,Harfoot,65,21,44,Female,7
+689,Canna,Diggle,Shire,Stoor,60,21,40,Female,3
+690,Achilla,Twofoot,Marish,Fallohide,76,27,52,Female,6
+691,Melilot,Hogg,Green Hill,Harfoot,81,28,52,Female,5
+692,Lobelia,Harfoot,Bridgefields,Stoor,64,33,60,Female,8
+674,Dianthus,Boffin,Marish,Harfoot,67,22,45,Female,4
+695,Jasmina,Marsh,Tuckborough,Harfoot,68,21,54,Female,3
+637,Jasmina,Mugwort,Northfarthing,Fallohide,62,32,36,Female,5
+698,Mahonia,Brockhouse,Marish,Harfoot,81,25,87,Female,3
+694,Estella,Galbasi,Marish,Fallohide,87,37,75,Female,8
+697,Rose,Longhole,Northfarthing,Harfoot,75,38,77,Female,4
+699,Hanna,Mugwort,Woody End,Fallohide,87,25,47,Female,6
+700,Agate,Zaragamba,Shire,Harfoot,97,20,39,Female,10
+673,Begonia,Tuk,Eastfarthing,Stoor,72,36,74,Female,8
+702,Lyla,Twofoot,Eastfarthing,Fallohide,80,21,62,Female,9
+704,Calyca,Brownlock,Shire,Harfoot,94,20,50,Female,1
+701,Dora,Chubb,Green Hill,Harfoot,89,26,81,Female,3
+705,Canna,Bophin,Bridgefields,Harfoot,83,20,90,Female,8
+707,Rosa,Headstrong,Woody End,Stoor,61,32,85,Female,1
+706,Berylla,Labingi,Bridgefields,Stoor,74,39,34,Female,8
+709,Cercis,Whitfoot,Tuckborough,Fallohide,94,30,82,Female,2
+693,Jasmina,Mugwort,Marish,Stoor,98,23,35,Female,7
+710,Anagelli,Marsh,Buckland,Fallohide,80,38,77,Female,4
+712,Lyla,Townsend,Northfarthing,Stoor,63,23,55,Female,10
+711,Peony,Hlothran,Hobbiton,Harfoot,82,25,38,Female,7
+713,Gladiola,Gamgee,Buckland,Stoor,98,39,91,Female,2
+715,Lalia,Hlothran,Green Hill,Harfoot,86,30,38,Female,10
+714,Lunaria,Burrows,Westmarch,Fallohide,87,29,61,Female,1
+703,Dahlia,Twofoot,Tookland,Harfoot,76,21,46,Female,3
+716,Viola,Sandyman,Woody End,Harfoot,95,21,88,Female,10
+718,Datura,Sandheaver,Bywater,Fallohide,77,26,71,Female,2
+720,Celeste,Marsh,Bywater,Harfoot,89,23,48,Female,5
+719,Pimpernel,Stoor,Hobbiton,Fallohide,73,37,36,Female,4
+721,Azalea,Greenhand,Westfarthing,Stoor,60,27,38,Female,8
+723,Melilot,Harfoot,Tuckborough,Harfoot,90,35,49,Female,9
+724,Verbena,Greenholm,Westfarthing,Fallohide,91,22,38,Female,4
+722,Meadow,Noaks,Bridgefields,Stoor,69,32,59,Female,3
+726,Gaura,Brandagamba,Green Hill,Harfoot,79,32,67,Female,1
+725,Narcissa,Marsh,Shire,Stoor,83,21,45,Female,1
+728,Hanna,Sandheaver,Westmarch,Stoor,66,26,70,Female,8
+727,Catalpa,Hayward,Buckland,Fallohide,74,33,34,Female,4
+730,Clematis,Hayward,Bywater,Harfoot,93,33,83,Female,8
+729,Anagellis,Gawkroger,Eastfarthing,Fallohide,80,27,34,Female,10
+696,Gerbera,Burrows,Eastfarthing,Stoor,64,35,44,Female,5
+731,Liatris,Goodenough,Green Hill,Fallohide,79,39,65,Female,1
+734,Lavenda,Goldworthy,Buckland,Harfoot,62,23,76,Female,4
+732,Dandelion,Brandagamba,Westmarch,Stoor,64,31,58,Female,1
+736,Meadow,Goldworthy,Bridgefields,Harfoot,63,27,38,Female,6
+735,Liatra,Underhill,Hobbiton,Fallohide,65,27,64,Female,3
+738,Brodia,Bracegirdle,Westfarthing,Fallohide,85,25,72,Female,9
+708,Calaminth,Brandybuck,Westfarthing,Harfoot,74,34,75,Female,2
+739,Hilda,Sandyman,Bridgefields,Harfoot,75,20,37,Female,10
+741,Petunia,Brockhouse,Westmarch,Harfoot,81,26,51,Female,2
+737,Monarda,Stoor,Hobbiton,Fallohide,91,37,41,Female,7
+743,Dianthus,Clayhanger,Westfarthing,Harfoot,62,21,56,Female,5
+740,Lavender,Underhill,Westmarch,Stoor,79,21,83,Female,9
+745,Clematis,Gamwich,Hobbiton,Stoor,64,39,50,Female,2
+746,Catalpa,Tuk,Bridgefields,Harfoot,83,22,56,Female,10
+744,Meadow,Lightfoot,Tookland,Harfoot,79,39,51,Female,7
+747,Nemisa,Gawkroger,Southfarthing,Stoor,64,31,85,Female,2
+748,Belba,Maggot,Shire,Fallohide,85,20,57,Female,6
+749,Dianthus,Underhill,Woody End,Fallohide,75,33,71,Female,3
+742,Lobelia,Goodchild,Westfarthing,Harfoot,66,21,41,Female,2
+751,Adamanta,Greenhand,Eastfarthing,Harfoot,62,31,89,Female,10
+752,Liatra,Bolger,Bridgefields,Stoor,98,21,55,Female,9
+753,Calendine,Pott,Southfarthing,Harfoot,65,29,78,Female,7
+755,Garnette,Whitfoot,Southfarthing,Harfoot,63,30,74,Female,3
+756,Adaldrida,Roper,Hobbiton,Harfoot,74,35,77,Female,1
+717,Garnette,Marsh,Hobbiton,Stoor,96,25,89,Female,7
+757,Lila,Labingi,Tuckborough,Fallohide,80,31,55,Female,2
+758,Brunnera,Burrowes,Eastfarthing,Fallohide,60,28,55,Female,4
+760,Opal,Bolger,Tuckborough,Fallohide,71,28,79,Female,1
+761,Rosa,Tunnelly,Hobbiton,Stoor,97,39,77,Female,3
+759,Primrose,Fairbairn,Tookland,Fallohide,73,23,61,Female,2
+763,Dandelia,Clayhanger,Buckland,Harfoot,61,21,89,Female,2
+762,Opal,Goodenough,Hobbiton,Stoor,68,35,37,Female,6
+764,Salvia,Hayward,Woody End,Fallohide,82,24,69,Female,2
+765,Daisy,Marsh,Bywater,Fallohide,78,28,64,Female,1
+767,Heliconia,Brockhouse,Green Hill,Stoor,93,20,60,Female,5
+768,Lotus,Hornblower,Buckland,Stoor,84,39,66,Female,10
+766,Rose,Bolger,Southfarthing,Harfoot,90,35,55,Female,1
+769,Meadow,Whitfoot,Hobbiton,Harfoot,90,32,83,Female,6
+733,Nemisa,Zaragamba,Tookland,Harfoot,66,35,80,Female,6
+754,Donnamira,Brockhouse,Eastfarthing,Fallohide,89,22,81,Female,6
+772,Anagella,Brandybuck,Woody End,Harfoot,98,21,57,Female,7
+750,Lysima,Bolger,Eastfarthing,Fallohide,95,35,48,Female,5
+773,Asphodel,Pott,Tuckborough,Fallohide,60,28,72,Female,4
+775,Pearl,Headstrong,Bywater,Harfoot,76,38,81,Female,7
+778,Dicentra,Boffin,Tookland,Harfoot,94,25,50,Female,9
+776,Poinsetta,Whitfoot,Buckland,Stoor,73,21,33,Female,1
+777,Laura,Brockhouse,Marish,Stoor,96,26,34,Female,8
+780,Adamanta,Labingi,Hobbiton,Harfoot,64,32,73,Female,3
+781,Allia,Butcher,Bywater,Stoor,89,39,44,Female,10
+779,Monarda,Oldbuck,Green Hill,Stoor,95,31,91,Female,7
+782,Nigella,Pott,Bywater,Stoor,71,38,39,Female,3
+783,Angelica,Zaragamba,Bywater,Stoor,61,27,80,Female,5
+785,Sapphire,Lightfoot,Green Hill,Fallohide,64,31,68,Female,8
+786,Gilly,Harfoot,Shire,Harfoot,60,34,83,Female,9
+784,Lily,Gammidge,Northfarthing,Stoor,61,29,45,Female,5
+787,Catalpa,Galbasi,Woody End,Stoor,87,35,78,Female,9
+789,Begona,Harfoot,Bridgefields,Fallohide,73,20,87,Female,2
+788,Adamanta,Twofoot,Bywater,Harfoot,75,28,61,Female,6
+790,Zinnia,Banks,Bywater,Harfoot,85,30,38,Female,5
+792,Anagellis,Mugwort,Buckland,Fallohide,89,23,72,Female,9
+770,Tulip,Rumble,Westmarch,Harfoot,95,27,79,Female,10
+793,Cercis,Took,Hobbiton,Fallohide,79,23,81,Female,10
+794,Silene,Galpsi,Tookland,Stoor,80,33,52,Female,6
+796,Opal,Bolger,Bywater,Stoor,77,32,59,Female,5
+771,Esmerelda,Smallburrow,Westmarch,Harfoot,94,34,40,Female,10
+797,Lalia,Proudfoot,Southfarthing,Harfoot,73,24,41,Female,8
+798,Nigella,Tuk,Buckland,Fallohide,97,27,64,Female,6
+800,Peony,Stoor,Marish,Stoor,62,24,45,Female,2
+799,Gazania,Pott,Hobbiton,Fallohide,96,25,68,Female,4
+802,Amaranth,Tuk,Southfarthing,Stoor,84,32,47,Female,6
+801,Hildibrand,Mugwort,Eastfarthing,Fallohide,70,32,65,Female,1
+774,Cleome,Goodbody,Northfarthing,Harfoot,69,33,76,Female,6
+806,Calaminth,Goodbody,Westmarch,Fallohide,72,33,63,Female,10
+805,Marigold,Took,Tuckborough,Fallohide,67,23,53,Female,4
+803,Valera,Banks,Westfarthing,Stoor,66,30,61,Female,7
+807,Liatra,Greenholm,Northfarthing,Fallohide,74,21,76,Female,5
+809,Diascia,Tuk,Buckland,Fallohide,97,29,56,Female,3
+808,Angelona,Greenholm,Tuckborough,Harfoot,69,27,40,Female,9
+810,Camella,Banks,Hobbiton,Harfoot,60,39,74,Female,1
+811,Diamond,Butcher,Westmarch,Harfoot,86,29,68,Female,4
+812,Maple,Butcher,Woody End,Harfoot,80,30,48,Female,1
+814,Sapphire,Gammidge,Tuckborough,Harfoot,92,32,50,Female,8
+813,Dora,Sandheaver,Shire,Stoor,76,34,62,Female,9
+816,Jasmina,Gamwich,Westfarthing,Fallohide,63,22,60,Female,10
+815,Pearl,Fairbairn,Northfarthing,Harfoot,79,28,64,Female,10
+818,Lavender,Bophin,Bridgefields,Harfoot,74,36,54,Female,8
+817,Agate,Galpsi,Bywater,Harfoot,74,21,33,Female,8
+819,Forsythia,Roper,Eastfarthing,Stoor,73,39,51,Female,8
+820,Scilla,Gamwich,Marish,Stoor,98,39,50,Female,1
+822,Camomila,Chubb,Westmarch,Stoor,99,35,44,Female,4
+823,Adaldrida,Twofoot,Southfarthing,Fallohide,62,35,64,Female,5
+821,Anagelli,Butcher,Northfarthing,Harfoot,64,36,70,Female,1
+824,Jasmina,Goldworthy,Buckland,Stoor,76,23,49,Female,9
+826,Estella,Puddifoot,Westmarch,Fallohide,67,33,92,Female,9
+825,Calaminth,Butcher,Westfarthing,Fallohide,88,32,57,Female,3
+827,Opal,Longhole,Bywater,Stoor,82,36,68,Female,2
+828,Lavenda,Hogg,Hobbiton,Fallohide,64,28,66,Female,5
+829,Laura,Brown,Bridgefields,Harfoot,67,20,74,Female,8
+830,Lyla,Proudfoot,Bridgefields,Fallohide,93,33,42,Female,6
+831,Pimpanella,Burrows,Marish,Fallohide,84,36,58,Female,1
+832,Brunnera,Brandybuck,Green Hill,Harfoot,74,21,78,Female,4
+834,Peony,Labingi,Woody End,Harfoot,94,21,70,Female,4
+833,Hanna,Burrow,Tuckborough,Fallohide,62,31,76,Female,5
+836,Achilla,Lightfoot,Buckland,Stoor,96,33,45,Female,5
+837,Lantana,Brockhouse,Bridgefields,Fallohide,85,34,36,Female,2
+835,Beryl,Baggins,Westfarthing,Stoor,70,33,92,Female,5
+838,Angelica,Bunce,Bridgefields,Fallohide,77,37,46,Female,1
+841,Dora,Sackville,Hobbiton,Harfoot,76,32,47,Female,3
+839,Alyssa,Bracegirdle,Westmarch,Harfoot,75,32,52,Female,9
+842,Agate,Tuk,Hobbiton,Fallohide,71,36,46,Female,10
+840,Amsonia,Pott,Woody End,Stoor,85,23,76,Female,1
+843,Hyacynth,Hornblower,Westmarch,Fallohide,77,35,57,Female,6
+845,Poinsetta,Fallohide,Bridgefields,Stoor,89,37,43,Female,3
+844,Holly,Galbasi,Woody End,Fallohide,63,24,92,Female,2
+847,Tanta,Oldbuck,Marish,Stoor,61,21,82,Female,5
+846,Catalpa,Bolger,Hobbiton,Stoor,68,22,47,Female,9
+849,Primula,Harfoot,Bywater,Fallohide,95,21,42,Female,1
+848,Tulip,Hogg,Westmarch,Stoor,94,34,43,Female,10
+851,Melilot,Bracegirdle,Westmarch,Fallohide,68,23,85,Female,1
+850,Primula,Banks,Shire,Stoor,76,25,88,Female,9
+853,Lysima,Clayhanger,Hobbiton,Fallohide,97,24,49,Female,10
+854,Peona,Cotton,Woody End,Stoor,64,35,43,Female,3
+852,Rose,Burrow,Bridgefields,Stoor,90,33,58,Female,1
+791,Celesta,Harfoot,Westmarch,Harfoot,64,32,82,Female,9
+855,Gardenia,Smallburrow,Bywater,Harfoot,78,36,75,Female,4
+857,Nemisia,Fallohide,Woody End,Fallohide,67,30,87,Female,7
+858,Peony,Lightfoot,Southfarthing,Fallohide,71,24,88,Female,10
+860,Dora,Took,Hobbiton,Stoor,90,38,52,Female,3
+859,Meadow,Gammidge,Shire,Stoor,68,39,90,Female,7
+862,Nemisia,Twofoot,Tuckborough,Fallohide,61,33,37,Female,1
+861,Linaria,Hornblower,Green Hill,Stoor,83,34,81,Female,7
+865,Amsonia,Underhill,Bridgefields,Harfoot,77,23,52,Female,2
+864,Ruby,Longhole,Buckland,Stoor,68,27,64,Female,3
+795,Hyacynth,Gammidge,Green Hill,Fallohide,67,28,46,Female,10
+866,Holly,Headstrong,Bywater,Fallohide,86,23,36,Female,4
+856,Gaura,Cotton,Northfarthing,Stoor,62,31,49,Female,8
+869,Dahlia,Hlothran,Bywater,Harfoot,98,22,64,Female,10
+868,Diascia,Greenhand,Bywater,Fallohide,71,23,70,Female,7
+870,Amaryllis,Labingi,Tookland,Stoor,68,21,56,Female,10
+871,Rowan,Tuk,Shire,Harfoot,64,21,92,Female,7
+872,Amaryllis,Stoor,Green Hill,Fallohide,91,20,37,Female,3
+873,Gladiola,Whitfoot,Green Hill,Stoor,68,33,69,Female,2
+863,Camella,Tuk,Northfarthing,Harfoot,76,34,69,Female,3
+876,Peony,Burrow,Westmarch,Stoor,71,36,70,Female,9
+875,Cerasta,Boffin,Shire,Fallohide,86,22,36,Female,8
+874,Calla,Bracegirdle,Shire,Fallohide,93,29,78,Female,4
+878,Celosia,Chubb,Tuckborough,Stoor,87,21,46,Female,4
+880,Poppy,Greenholm,Bywater,Stoor,79,29,33,Female,5
+881,Gerania,Cotton,Tookland,Harfoot,98,35,65,Female,8
+879,Estella,Goold,Southfarthing,Harfoot,81,29,50,Female,8
+882,Petunia,Greenhand,Woody End,Harfoot,72,20,62,Female,6
+884,Lunaria,Smallburrow,Tookland,Fallohide,69,28,77,Female,10
+804,Berylla,Burrowes,Southfarthing,Harfoot,99,39,41,Female,2
+867,Bessera,Hayward,Tuckborough,Harfoot,87,39,54,Female,8
+887,Goldilocks,Pott,Tuckborough,Fallohide,66,34,82,Female,3
+886,Iris,Mugwort,Tuckborough,Stoor,94,26,44,Female,7
+888,Cleoma,Gamwich,Green Hill,Fallohide,85,22,57,Female,4
+889,Achilla,Burrow,Green Hill,Fallohide,75,31,91,Female,6
+891,Holly,Gawkroger,Tuckborough,Harfoot,84,35,50,Female,5
+885,Celeste,Bunce,Marish,Stoor,89,39,84,Female,9
+892,Lonicera,Hayward,Shire,Harfoot,85,34,78,Female,5
+893,Lunaria,Bolger,Bridgefields,Harfoot,62,28,79,Female,5
+894,Monarda,Labingi,Northfarthing,Harfoot,61,20,56,Female,7
+877,Zinnia,Stoor,Hobbiton,Stoor,85,31,66,Female,8
+883,Achilla,Pott,Westmarch,Fallohide,96,37,36,Female,7
+897,Calceola,Lightfoot,Tookland,Fallohide,74,21,42,Female,6
+898,Hyacinth,Goodenough,Buckland,Harfoot,95,39,74,Female,9
+899,Cerasta,Sandheaver,Buckland,Stoor,89,36,85,Female,10
+900,Cleoma,Goodchild,Hobbiton,Stoor,78,21,85,Female,3
+901,Gazania,Bunce,Green Hill,Fallohide,78,20,88,Female,1
+903,Dicentra,Mugwort,Marish,Fallohide,95,34,90,Female,4
+902,Monarda,Hornblower,Bywater,Stoor,60,30,36,Female,8
+904,Celosia,Rumble,Northfarthing,Fallohide,60,30,55,Female,5
+905,Salva,Clayhanger,Northfarthing,Stoor,94,28,73,Female,4
+907,Gazania,Goodchild,Hobbiton,Fallohide,68,35,47,Female,8
+906,Agate,Banks,Bridgefields,Fallohide,64,35,43,Female,1
+909,Anagellis,Rumble,Shire,Fallohide,75,26,68,Female,6
+910,Maple,Harfoot,Green Hill,Stoor,69,22,91,Female,6
+908,Amaranth,Goodenough,Green Hill,Fallohide,62,22,36,Female,6
+911,Eranthis,Proudfoot,Tuckborough,Harfoot,73,23,84,Female,2
+912,Magnolia,Maggot,Bywater,Stoor,67,23,62,Female,3
+913,Holly,Bunce,Woody End,Stoor,62,36,73,Female,2
+914,Anagella,Underhill,Tookland,Fallohide,96,34,75,Female,8
+916,Eglantine,Tunnelly,Bywater,Harfoot,98,30,75,Female,2
+915,Esmerelda,Sackville,Bywater,Harfoot,82,21,43,Female,6
+918,Caltha,Brandybuck,Southfarthing,Stoor,66,30,48,Female,3
+917,Celosa,Labingi,Bywater,Harfoot,93,26,92,Female,7
+896,Dahlia,Burrowes,Bywater,Stoor,76,38,39,Female,6
+895,Gardenia,Sackville,Bridgefields,Fallohide,96,27,49,Female,5
+890,Pimpernel,Proudfoot,Marish,Fallohide,74,22,58,Female,9
+920,Lily,Mugwort,Eastfarthing,Harfoot,62,22,42,Female,7
+921,Nemisa,Hlothran,Bywater,Stoor,67,23,67,Female,7
+919,Primrose,Diggle,Westmarch,Harfoot,66,27,67,Female,9
+922,Pearl,Tuk,Marish,Harfoot,99,32,59,Female,1
+925,Angelica,Goodbody,Tookland,Fallohide,96,25,55,Female,4
+927,Mahonia,Goodbody,Northfarthing,Fallohide,61,36,47,Female,3
+928,Gilly,Marsh,Woody End,Fallohide,67,25,92,Female,1
+923,Gladiola,Maggot,Bywater,Harfoot,93,38,87,Female,8
+930,Gerbera,Cotton,Green Hill,Harfoot,84,26,34,Female,10
+926,Lobelia,Gamwich,Bridgefields,Stoor,84,22,66,Female,6
+933,Gerania,Tunnelly,Westfarthing,Stoor,64,24,62,Female,1
+932,Marigold,Stoor,Southfarthing,Harfoot,81,21,60,Female,1
+934,Monarda,Pott,Westmarch,Stoor,65,29,78,Female,5
+935,Lunaria,Townsend,Bywater,Stoor,97,37,63,Female,5
+936,Iris,Gamwich,Westmarch,Fallohide,65,29,62,Female,10
+937,Melilot,Brockhouse,Bridgefields,Harfoot,71,22,44,Female,10
+938,Lantana,Clayhanger,Eastfarthing,Fallohide,85,32,54,Female,2
+939,Amarylla,Burrowes,Green Hill,Harfoot,93,28,53,Female,7
+941,Rosa,Tunnelly,Buckland,Harfoot,70,31,77,Female,7
+940,Hilda,Banks,Bridgefields,Stoor,96,25,74,Female,2
+924,Myrtle,Bophin,Tookland,Harfoot,83,26,43,Female,7
+931,Adamanta,Gawkroger,Northfarthing,Harfoot,99,30,53,Female,10
+944,Anagelli,Whitfoot,Bridgefields,Stoor,84,35,79,Female,4
+946,Datura,Longhole,Westmarch,Stoor,90,32,88,Female,10
+945,Corna,Pott,Hobbiton,Fallohide,99,35,36,Female,6
+947,Daisy,Townsend,Tuckborough,Harfoot,72,23,80,Female,5
+949,Hilda,Goodbody,Marish,Fallohide,72,21,43,Female,6
+948,Marigold,Puddifoot,Shire,Harfoot,99,36,44,Female,1
+951,Cleome,Pott,Tookland,Stoor,73,24,51,Female,10
+952,Brunnera,Galbasi,Eastfarthing,Fallohide,67,36,41,Female,10
+943,Goldilocks,Longholes,Buckland,Harfoot,79,26,60,Female,10
+950,Calaminth,Puddifoot,Marish,Stoor,83,29,92,Female,8
+942,Forsythia,Pott,Southfarthing,Stoor,78,38,39,Female,2
+954,Gladiola,Marsh,Bridgefields,Harfoot,71,22,68,Female,8
+958,Iris,Bracegirdle,Tuckborough,Stoor,96,39,48,Female,6
+955,Azalea,Goodchild,Northfarthing,Harfoot,93,34,35,Female,1
+953,Gilly,Twofoot,Marish,Stoor,77,20,44,Female,3
+959,Lily,Hornblower,Green Hill,Stoor,66,37,82,Female,4
+960,Lantana,Brown,Tuckborough,Harfoot,80,37,54,Female,10
+961,Datura,Bophin,Buckland,Harfoot,65,24,45,Female,4
+962,Cercis,Gammidge,Bywater,Fallohide,82,34,35,Female,5
+957,Salva,Goodchild,Westmarch,Fallohide,79,32,89,Female,8
+966,Silene,Burrows,Bridgefields,Harfoot,60,25,36,Female,8
+964,Asphodel,Cotton,Green Hill,Harfoot,66,30,88,Female,5
+963,Dianthus,Brandagamba,Buckland,Fallohide,60,24,41,Female,6
+967,Calceola,Gamwich,Marish,Harfoot,72,32,55,Female,8
+969,Gerbera,Fairbairn,Eastfarthing,Stoor,64,27,67,Female,6
+968,Dicentra,Goldworthy,Southfarthing,Stoor,68,20,56,Female,9
+970,Celesta,Clayhanger,Northfarthing,Stoor,63,34,69,Female,8
+971,Nemisia,Bracegirdle,Buckland,Harfoot,86,32,41,Female,8
+973,Menegilda,Gammidge,Marish,Fallohide,66,36,63,Female,5
+972,Alyssa,Hlothran,Shire,Harfoot,70,22,65,Female,10
+974,Sapphire,Sandheaver,Southfarthing,Harfoot,73,33,34,Female,4
+976,Eranthis,Baggins,Northfarthing,Harfoot,94,28,77,Female,2
+975,Hildigrim,Gammidge,Bywater,Stoor,86,38,58,Female,6
+977,Gaura,Brownlock,Hobbiton,Stoor,70,32,41,Female,7
+978,Diamond,Greenholm,Westmarch,Stoor,97,36,51,Female,6
+979,Adaldrida,Labingi,Hobbiton,Stoor,97,30,57,Female,6
+980,Ruellia,Goodbody,Woody End,Fallohide,76,29,90,Female,9
+981,Pearl,Oldbuck,Woody End,Harfoot,70,21,55,Female,7
+982,Mahonia,Brandybuck,Tuckborough,Harfoot,91,21,49,Female,10
+983,Bessera,Proudfoot,Hobbiton,Harfoot,94,29,84,Female,9
+985,Lyla,Gamgee,Eastfarthing,Harfoot,71,20,35,Female,6
+984,Viola,Burrow,Southfarthing,Stoor,62,29,56,Female,8
+986,Crocosmia,Mugwort,Westmarch,Fallohide,83,36,85,Female,9
+987,Diascia,Gamwich,Buckland,Stoor,87,39,52,Female,4
+988,Linaria,Sackville,Woody End,Harfoot,98,35,77,Female,5
+989,Meadow,Noaks,Tookland,Stoor,93,21,62,Female,2
+990,Dandelia,Twofoot,Woody End,Harfoot,84,35,37,Female,10
+992,Alyssa,Galpsi,Southfarthing,Harfoot,62,20,91,Female,2
+991,Poinsetta,Bolger,Marish,Stoor,74,31,63,Female,10
+965,Heliconia,Boffin,Bywater,Harfoot,79,24,44,Female,4
+956,Rowan,Bracegirdle,Southfarthing,Fallohide,63,38,80,Female,7
+929,Holly,Bracegirdle,Westmarch,Harfoot,73,36,79,Female,3
+996,Camellia,Sackville,Southfarthing,Fallohide,78,36,87,Female,8
+998,Daffodil,Baggins,Buckland,Fallohide,89,39,67,Female,3
+997,Dahlia,Brownlock,Tuckborough,Stoor,81,25,67,Female,3
+1000,Corna,Gamwich,Green Hill,Stoor,99,22,53,Female,7
+1002,Celosa,Twofoot,Westmarch,Harfoot,81,38,78,Female,4
+999,Amaryllis,Headstrong,Green Hill,Fallohide,96,34,57,Female,2
+994,Pearl,Took,Hobbiton,Stoor,89,36,51,Female,10
+993,Gaura,Tuk,Buckland,Harfoot,62,39,39,Female,4
+1001,Lonicera,Brownlock,Eastfarthing,Harfoot,78,33,70,Female,10
+995,Melilot,Stoor,Green Hill,Stoor,84,38,85,Female,1
+1004,Gilly,Longhole,Marish,Stoor,79,33,68,Female,8
+1003,Salvia,Oldbuck,Northfarthing,Stoor,84,32,83,Female,3
+1005,Heather,Goodchild,Marish,Harfoot,95,34,37,Female,6

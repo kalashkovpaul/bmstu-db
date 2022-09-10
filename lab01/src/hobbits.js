@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "id, name, surname, residence, class, height, weight, gender, age, adventure", (err) => {if (err) console.log(err);});
+fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "id, name, surname, residence, class, height, weight, gender, age, adventure",(err) => {if (err) console.log(err);});
 
 const possibleResidences = [
     "Shire",
@@ -47,15 +47,15 @@ function writeHobbit(name, surname, gender) {
     let adventure = (Math.floor(Math.random() * 10) + 1).toString();
     let hobbit = String.prototype.concat(
         "\n",
-        id, ", ",
-        name, ", ",
-        surname, ", ",
-        residence, ", ",
-        hobbitClass, ", ",
-        height, ", ",
-        weight, ", ",
-        gender, ", ",
-        age, ", ",
+        id, ",",
+        name, ",",
+        surname, ",",
+        residence, ",",
+        hobbitClass, ",",
+        height, ",",
+        weight, ",",
+        age, ",",
+        gender, ",",
         adventure
     );
     id++;
@@ -67,7 +67,7 @@ const maleHobbitInterface = readline.createInterface({
 });
 
 maleHobbitInterface.on('line', function(line) {
-    let [name, surname] = line.split(" ", 2);
+    let [name, surname] = line.split(" ",2);
     writeHobbit(name, surname, "Male");
 });
 
@@ -77,7 +77,7 @@ maleHobbitInterface.on('close', () => {
     });
 
     femaleHobbitInterface.on('line', function(line) {
-        let [name, surname] = line.split(" ", 2);
+        let [name, surname] = line.split(" ",2);
         writeHobbit(name, surname, "Female");
     });
 });

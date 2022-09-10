@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${humansFilename}`, "id, name, gender, age, country, skill, purpose", (err) => {if (err) console.log(err);});
+fs.writeFile(`${csvDirectory}/${humansFilename}`, "id, name, gender, age, country, skill, purpose",(err) => {if (err) console.log(err);});
 
 const possibleCountries = [
     "Numenor",
@@ -180,12 +180,12 @@ function writeHuman(name, gender) {
     let age = (Math.floor(Math.random() * 60) + 33).toString();
     let human = String.prototype.concat(
         "\n",
-        id, ", ",
-        name, ", ",
-        gender, ", ",
-        age, ", ",
-        country, ", ",
-        skill, ", ",
+        id, ",",
+        name, ",",
+        gender, ",",
+        age, ",",
+        country, ",",
+        skill, ",",
         purpose
     );
     id++;
