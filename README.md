@@ -1,2 +1,3 @@
-# bmstu-db
-Data Base course, BMSTU IU7, V semester, 2022
+# Data Base course, BMSTU IU7, V semester, 2022
+
+
