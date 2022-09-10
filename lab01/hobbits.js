@@ -10,7 +10,7 @@ if (!fs.existsSync(dataDirectory)) {
 if (!fs.existsSync(csvDirectory)) {
     fs.mkdirSync(csvDirectory)
 }
-fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "name, surname, residence, class, height, weight, gender, age, adventure", (err) => {console.log(err)});
+fs.writeFile(`${csvDirectory}/${hobbitsFilename}`, "name, surname, residence, class, height, weight, gender, age, adventure", (err) => {if (err) console.log(err);});
 
 const possibleResidences = [
     "Shire",
@@ -37,34 +37,43 @@ const possibleClasses = [
 ];
 
 function writeHobbit(name, surname, gender) {
-    let hobbit = name + ", " + surname + ", " +
-        possibleResidences[Math.floor(Math.random()*possibleResidences.length)] + ", "
-        possibleClasses[Math.floor(Math.random()*possibleClasses.length)] + ", " +
-        (Math.floor(Math.random() * 40) + 60) + ", " +
-        (Math.floor(Math.random() * 20) + 20) + ", " +
-        gender + ", " +
-        (Math.floor(Math.random() * 60) + 33) + ", " +
-        (Math.floor(Math.random() * 10) + 1);
-    fs.appendFile(`${csvDirectory}/${hobbitsFilename}`, hobbit, (err) => {console.log(err);});
+    let residence = possibleResidences[Math.floor(Math.random()*possibleResidences.length)];
+    let hobbitClass = possibleClasses[Math.floor(Math.random()*possibleClasses.length)];
+    let height = (Math.floor(Math.random() * 40) + 60).toString();
+    let weight = (Math.floor(Math.random() * 20) + 20).toString();
+    let age = (Math.floor(Math.random() * 60) + 33).toString();
+    let adventure = (Math.floor(Math.random() * 10) + 1).toString();
+    let hobbit = String.prototype.concat(
+        "\n",
+        name, ", ",
+        surname, ", ",
+        residence, ", ",
+        hobbitClass, ", ",
+        height, ", ",
+        weight, ", ",
+        gender, ", ",
+        age, ", ",
+        adventure
+    );
+    fs.appendFile(`${csvDirectory}/${hobbitsFilename}`, hobbit , (err) => {if (err) console.log(err);});
 }
 
 const maleHobbitInterface = readline.createInterface({
     input: fs.createReadStream(`${dataDirectory}/hobbitsMaleNames.txt`),
 });
 
-const femaleHobbitInterface = readline.createInterface({
-    input: fs.createReadStream(`${dataDirectory}/hobbitsFemaleNames.txt`),
-});
-
 maleHobbitInterface.on('line', function(line) {
-    let name, surname = line.split();
+    let [name, surname] = line.split(" ", 2);
     writeHobbit(name, surname, "Male");
 });
 
-femaleHobbitInterface.on('line', function(line) {
-    let name, surname = line.split();
-    writeHobbit(name, surname, "Female");
+maleHobbitInterface.on('close', () => {
+    const femaleHobbitInterface = readline.createInterface({
+        input: fs.createReadStream(`${dataDirectory}/hobbitsFemaleNames.txt`),
+    });
+
+    femaleHobbitInterface.on('line', function(line) {
+        let [name, surname] = line.split(" ", 2);
+        writeHobbit(name, surname, "Female");
+    });
 });
-
-
-// fs.appendFile(`${dataDirectory}/tralala.txt`, JSON.stringify(content), (err) => {console.log(err);});
