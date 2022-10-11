@@ -30,9 +30,10 @@ where exists (select battles.id from battles
 			   and battles.duration > 3600);
 
 -- 6. Инструкция select, использующая предикат сравнения с квантором.
+explain
 select d.id, d.name, d.height
 from dwarfs as d
-where d.height >= all(select height from dwarfs);
+where d.height = (select max(height) from dwarfs);
 
 -- 7. Инструкция select, использующая агрегатные функции в выражениях столбцов.
 select avg(height) as "avg height", sum(age) / count(age) as "avg age"
@@ -47,10 +48,10 @@ from hobbits as h;
 
 -- 9. Инструкция select, использующая простое выражение case.
 select d.id, d.name, d.height, d.skill,
-	case
-		when d.height > 100 then 'tall'
-		when d.height > 80 then 'average'
-		when d.height > 60 then 'short'
+	case (d.height)
+		when 100 then 'tall'
+		when 80 then 'average'
+		when 60 then 'short'
 		else 'very short'
 	end as "height meaning"
 from dwarfs as d;
@@ -141,7 +142,7 @@ group by master, danger
 -- 15. Инструкция  SELECT, консолидирующая данные с помощью предложения
 -- GROUP BY и предложения HAVING.
 
-select o.master, o.bravery,
+select o.master,
 	case
 		when o.bravery > 7 then 'very brave'
 		when o.bravery > 4 then 'brave'
@@ -149,8 +150,8 @@ select o.master, o.bravery,
 		else 'goblin'
 	end as "bravery state"
 from orcs as o
-group by master, bravery
-having bravery > (
+group by master
+having avg(bravery) > (
 	select avg(orcs.bravery)
 	from orcs
 )
@@ -265,7 +266,7 @@ from tallHobbits as th
 
 with recursive dwarfshierarchy(id, name, skill, height, skilllevel) as
 (
-	select d2.id, d1.skill, d2.name, d1.height, 1 as skilllevel
+	select distinct on (d1.skill) d2.id, d2.name, d1.skill, d1.height, 1 as skilllevel
 	from
 	(
 		(select d.skill, max(height) as height
@@ -279,18 +280,20 @@ with recursive dwarfshierarchy(id, name, skill, height, skilllevel) as
 	)
 
 	union all
-	select d3.id, d3.name, d3.skill, d3.height, d4.skilllevel + 1
-	from dwarfs as d3, dwarfshierarchy as d4
+	select distinct on (d3.id) d3.id, d3.name, d3.skill, d3.height, d4.skilllevel + 1
+	from dwarfs as d3 join dwarfshierarchy as d4 on d3.skill = d4.skill
+	where d4.height - d3.height = 10
 )
-select *
-from dwarfshierarchy
+select * from dwarfshierarchy
+
+select * from dwarfs
 
 -- 24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
 
 select distinct h.residence, h."class",
 	avg(h.height) over(partition by h."class", h.residence) as "avg height",
-	min(h.height) over(partition by h."class", h.residence) as "min height",
-	max(h.height) over(partition by h."class", h.residence) as "max height"
+	min(h.height) over(partition by h."name" , h.residence) as "min height",
+	max(h.height) over(partition by h.age , h.residence) as "max height"
 from hobbits as h
 
 -- 25. Оконные фнкции для устранения дублей
@@ -325,3 +328,54 @@ select residence, "class", "avg height", "min height", "max height"
 from cta
 where row_nu = 1
 
+-- Защита
+
+select column_name, data_type from information_schema.columns
+where data_type = 'integer'
+
+-- Доп. задача 1
+
+create table if not exists Table1
+(
+	id int,
+	var1 char,
+	date_from date,
+	date_to date
+);
+
+create table if not exists Table2
+(
+    id int,
+	var2 char,
+	date_from date,
+	date_to date
+);
+
+delete from table1
+
+insert into Table1 values (1, 'A', '2022-10-01', '2022-10-17');
+insert into Table1 values (1, 'B', '2022-10-18', '5999-12-31');
+
+insert into Table2 values (1, 'A', '2022-10-01', '2022-10-18');
+insert into Table2 values (1, 'B', '2022-10-19', '5999-12-31');
+insert into Table2 values (2, 'B', '2022-10-01', '5999-12-31');
+
+select * from Table1;
+select * from Table2;
+
+select coalesce(t1.id, t2.id) as id, t1.var1, t2.var2,
+		case
+			when t1.date_from >= t2.date_from
+				then t1.date_from
+				else t2.date_from
+		end,
+		case
+			when t1.date_to <= t2.date_to
+				then t1.date_to
+				else t2.date_to
+		end
+--select t1.*, t2.*
+from Table1 t1 full join Table2 t2 on t1.id = t2.id
+where t1.date_from <= t2.date_to
+	  and t2.date_from <= t1.date_to
+	  or var1 is null or var2 is null
