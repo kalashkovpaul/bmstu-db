@@ -103,6 +103,25 @@ select get_soldier('2') -- false
 
 -- 4.4 Изменить XML/JSON документ
 
+insert into soldiers values('{"id": 3, "weapon": {"hand": "light blade", "belt": "crocodile"}}');
 
+select doc || '{"id": 33}'::jsonb
+from soldiers
 
+update soldiers
+set doc = doc || '{"id": 33}'::jsonb
+where (doc -> 'id')::int = 3
 
+select * from soldiers
+
+-- 4.5 Разделить XML/JSON документ на несколько строк по узлам
+
+create table if not exists fighters(doc json)
+
+insert into fighters values
+('[{"fighter_id": 0, "battle_id": 1}, {"fighter_id": 1, "battle_id": 1}, {"fighter_id": 2, "battle_id": 0}]');
+
+select * from fighters
+
+select jsonb_array_elements(doc::jsonb)
+from fighters
