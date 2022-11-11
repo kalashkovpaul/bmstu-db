@@ -1,3 +1,11 @@
+--- Защита: всех харфутов в json
+\copy (select json_agg(select row_to_json(h) result from (select * from hobbits where hobbits.class = 'Harfoot')) to '/home/paul/Desktop/bmstu-db/lab05/harfoots.json';
+
+create table if not exists harfoots_import (data jsonb)
+
+select (jsonb_array_elements("data")::jsonb)->>'id' from harfoots_import;
+
+
 -- 1. Из таблиц базы данных, созданной в первой лабораторной работе, извлечь
 -- данные в  XML  (MSSQL) или  JSON(Oracle,  Postgres). Для выгрузки в  XML
 -- проверить все режимы конструкции FOR XML
@@ -26,7 +34,7 @@ CREATE TABLE IF NOT EXISTS battles_copy
 
 create table if not exists battles_import(doc json)
 
-\copy battles_import from '/home/paul/Desktop/bmstu-db/lab05/battles.json'; -- from psql with sudo or pgAdming's psql
+\copy battles_import from '/home/paul/Desktop/bmstu-db/lab05/battles.json'; -- from psql with sudo or pgAdming's psql or cmod 777 <file>
 
 select * from battles_import
 
