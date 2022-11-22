@@ -79,3 +79,106 @@ export async function query3() {
         console.log("Что-то пошло не так");
     }
 }
+
+export async function query4() {
+    try {
+        const columns = await db.many({
+            'text': "select column_name, data_type from information_schema.columns \
+            where data_type = 'integer'"
+        });
+        columns.forEach((column) => {
+            console.log(`Название колонки: ${column.column_name}, тип: ${column.data_type}`);
+        });
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
+
+export async function query5() {
+    try {
+        const avg = await db.one({
+            'text': 'select get_avg_hobbits_height() as avg_height;'
+        });
+        console.log(`Средний рост хоббитов: ${avg.avg_height} дюймов`);
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
+
+export async function query6() {
+    try {
+        const hobbits = await db.many({
+            'text': 'select * from get_tall_or_experienced_hobbits(120, 7900);'
+        });
+        hobbits.forEach((hobbit) => {
+            console.log(`ID хоббита: ${hobbit.hobbit_id}, его рост: ${hobbit.hobbit_height} дюймов`);
+        });
+        console.log();
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
+
+export async function query7() {
+    try {
+        await db.none({
+            'text': `call insert_orc(5555, 'Mighty Orc', 'Sauron', 9, 9, 9);`
+        });
+        console.log("Могучий орк добавлен!")
+    } catch {
+        console.log("Такой орк уже существует, может быть только один могучий орк!");
+    }
+}
+
+export async function query7_1() {
+    try {
+        await db.none({
+            'text': "delete from orcs where name = 'Mighty Orc';"
+        });
+        console.log("Никогда мир не увидит такого могучего орка...");
+    } catch {
+        console.log("Что-то пошло не так, могучего орка не так просто удалить!");
+    }
+}
+
+export async function query8() {
+    try {
+        const info = await db.one({
+            'text': "select current_database(), current_user;"
+        });
+        console.log(`Название текущей базы данных: ${info.current_database}, а Вы - ${info.current_user}`);
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
+
+export async function query9() {
+    try {
+        await db.none({
+            'text': "create table if not exists nazguls (\
+                id INT NOT NULL PRIMARY KEY,\
+                name VARCHAR(20) DEFAULT 'Theo',\
+                kind VARCHAR(20) DEFAULT 'Human',\
+                master VARCHAR(20) DEFAULT 'Sauron');",
+        });
+        console.log("Таблица назгулов создана!");
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
+
+export async function query10(name, kind, master) {
+    try {
+        const amount = await db.one({
+            text: 'select count(*) from nazguls;'
+        });
+        const id = amount.count + 1;
+        await db.none ({
+            text: "insert into nazguls values ($1, $2, $3, $4);",
+            values: [id, name, kind, master]
+        });
+        console.log(`Назгул по имени ${name} добавлен!`);
+    } catch {
+        console.log("Что-то пошло не так");
+    }
+}
