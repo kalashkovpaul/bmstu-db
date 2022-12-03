@@ -178,7 +178,12 @@ export async function query10(name, kind, master) {
             values: [id, name, kind, master]
         });
         console.log(`Назгул по имени ${name} добавлен!`);
-    } catch {
-        console.log("Что-то пошло не так");
+    } catch (e) {
+        if (e.routine === 'parserOpenTable') {
+            console.log(e.message);
+        } else {
+            console.log("Что-то пошло не так");
+        }
+        console.log(e.constructor.name);
     }
 }
