@@ -17,7 +17,7 @@ def query_3(dwarfs):
     return result
 
 def query_4(dwarfs):
-    return dwarfs.group_by(key_names=['skill'], key=lambda d: d['skill']).select(lambda g: {'key': g.key.skill, 'count': g.count()})
+    return dwarfs.group_by(key_names=['skill'], key=lambda d: d['skill']).select(lambda g: {'skill': g.key.skill, 'amount': g.count()})
 
 def query_5(dwarfs):
     drinks = Enumerable([

@@ -31,7 +31,8 @@ class dwarf():
         }
 
     def __str__(self):
-        return f"{self.id:<2} {self.name:<20} {self.gender:<20} {self.height:<120} {self.beird:<50} {self.weight:<70} {self.age:<400}"
+        s = f"id: {self.id}, name: {self.name}, gender: {self.gender}, height: {self.height}, beird: {self.beird}, weight: {self.weight}, age: {self.age}"
+        return s
 
 def create_users(filename):
     file = open(filename, 'r')
