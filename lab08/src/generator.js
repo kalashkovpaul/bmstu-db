@@ -60,7 +60,7 @@ const maleHobbitInterface = readline.createInterface({
 maleHobbitInterface.on('line', function(line) {
     let [name, surname] = line.split(" ",2);
     maleNames.push({name, surname});
-    // writeHobbit(name, surname, "Male");
+    writeHobbit(name, surname, "Male");
 });
 
 maleHobbitInterface.on('close', () => {
@@ -71,13 +71,12 @@ maleHobbitInterface.on('close', () => {
     femaleHobbitInterface.on('line', function(line) {
         let [name, surname] = line.split(" ",2);
         femaleNames.push({name, surname});
-        // writeHobbit(name, surname, "Female");
+        writeHobbit(name, surname, "Female");
     });
 });
 
-let i = 0;
 
-setInterval(() => {
-    writeHobbit(maleNames[i].name, maleNames[i].surname, "Male");
-    i++
-}, 1000);
+// setInterval(() => {
+//     writeHobbit(maleNames[i].name, maleNames[i].surname, "Male");
+//     i++
+// }, 1);
