@@ -6,23 +6,36 @@ from datetime import *
 
 
 TASK_2_1 = """
-
+select department
+from employee
+group by department
+having count(id) > 10;
 """
 
 TASK_2_2 = """
-
+select id
+from employee
+where id not in(
+	select employee_id
+	from (
+		select employee_id, rdate, rtype, count(*)
+		from record
+		group by employee_id, rdate, rtype
+		having rtype=2 and count(*) > 1
+		) as tmp
+);
 """
 
 TASK_2_3 = """
-
+// ниже в виде строки для форматирования
 """
 
 con = PostgresqlDatabase(
     database="postgres",
     user="root",
     password="postgres",
-    host="127.0.0.1",  # Адрес сервера базы данных.
-    port=5432	   # Номер порта.
+    host="127.0.0.1",
+    port=5432
 )
 class BaseModel(Model):
     class Meta:
@@ -63,20 +76,21 @@ def print_query(query):
 		print(elem)
 
 
-def task_0():
+def task_sql():
     global con
 
     cur = con.cursor()
 
     cur.execute(TASK_2_1)
-    print("Задание 1:")
+    print("Запрос 2.1 (SQL команда):")
     output(cur)
 
     cur.execute(TASK_2_2)
-    print("Задание 2:")
+    print("Запрос 2(SQL команда):")
 
     output(cur)
 
+    print("Запрос 3(SQL команда):")
     dat = input("Введите дату: (ГГГГ-ММ-ДД) ")
     query = '''
             select distinct department
@@ -94,37 +108,25 @@ def task_0():
                 ) as tmp
             );'''
     cur.execute(query, (dat, ))
-    print("Задание 3:")
     output(cur)
 
     cur.close()
 
-# Найти все отделы, в которых работает более 10 сотрудников
-def task_1():
-    print("1. Найти все отделы, в которых работает более 10 сотрудников")
+def task_1_app():
+    print("Запрос 1(на уровне приложения): ")
     now = datetime.now()
     now = now.strftime("%Y-%m-%d")
-    tmp = now - Employee.birthdate
     query = Employee\
         .select(Employee.department)\
         .group_by(Employee.department)\
         .having(fn.Count(Employee.id) > 10)
-
     print_query(query)
 
 # Найти сотрудников, которые не выходят с рабочего места
 # в течение всего рабочего дня
-def task_2():
-    data = '21-12-2022'
-    print("2. Найти сотрудников, которые не выходят с рабочего места в течение всего рабочего дня")
-    # query = Record\
-    #         .select(Record.employee_id).distinct()\
-    #         .where(Record.rtype == 2)\
-    #         .group_by(Record.employee_id, Record.rdate, Record.rtype)\
-    #         .having(fn.count(Record.employee_id) > 1)
-
-    # query1 = Employee.select(Employee.id).where(Employee.id.not_in(query))
-    # print_query(query1)
+def task_2_app():
+    data = '2022-12-20'
+    print("Запрос 2 (на уровне приложения):")
 
     t1 = Record\
         .select(Record.employee_id, Record.rdate)\
@@ -132,32 +134,48 @@ def task_2():
         .where(Record.rdate == data)\
         .group_by(Record.employee_id, Record.rdate)\
         .having(fn.count(Record.employee_id) == 1).alias('res1')
-    print_query(t1)
-
     t2 = Record\
         .select(Record.employee_id, Record.rdate)\
         .where(Record.rtype == 2)\
-        .where(Record.rtime >= '17:30')\
+        .where(Record.rtime >= '18:00')\
         .group_by(Record.employee_id, Record.rdate)\
         .having(fn.count(Record.employee_id) == 1).alias('res2')
-    print_query(t2)
-
 
     res = Employee\
-        .select(fn.Distinct(Employee.fullname), Employee.fullname)\
+        .select(fn.Distinct(Employee.id), Employee.id)\
         .join(t1, on=Employee.id == SQL('res1.employee_id'))\
         .join(t2, on=Employee.id == SQL('res2.employee_id'))\
 
-    print_query(res)
+    # ПРИМЕЧАНИЕ: далее идёт способ, в котором получаемый запрос имеет ту же структуру,
+    # что и запрос на SQL для этого задания (см. выше). ОДНАКО он работает лишь из-за
+    # найденного случайно "хака" по тому, как делать запросы с подзапросами - посредством
+    # костыльного и захардкоженного написания алиаса t2, который для peewee является
+    # системным алиасом. Поэтому, если запустить лишь query (без res) то это не сработает.
+    # Оставил код ниже просто потому, что не хочется удалять, не зря же его писал)
+    # Способ выше, тем не менее, для учёта сотрудников требует, чтобы сотрудник имел
+    # ровно одну запись входа и ровно одну запись выхода
 
-    print(res)
+    # query = Record\
+    #     .select(Record.employee_id)\
+    #     .from_(Record\
+    #         .select(Record.employee_id, Record.rdate, Record.rtype, fn.count(Record.employee_id))\
+    #         .group_by(Record.employee_id, Record.rdate, Record.rtype)\
+    #         .having(Record.rtype == 2, fn.count(Record.employee_id) > 1).alias('t2'))
+
+
+    # res = Employee\
+    #     .select(Employee.id)\
+    #     .where(Employee.id.not_in(query))
+    # print(res)
+
+    print_query(res)
 
 
 # Найти все отделы, в которых есть сотрудники, опоздавшие \
 # в определенную дату. Дату передавать с клавиатуры
-def task_3():
-    print("3. Найти все отделы, в которых есть сотрудники, опоздавшие в определенную дату. Дату передавать с клавиатуры")
-    dat = '2022-12-21'
+def task_3_app():
+    print("Задание 3 (на уровне приложения")
+    dat = input("Введите дату: (ГГГГ-ММ-ДД) ")
 
     res = (Employee
             .select(fn.Distinct(Employee.department), Employee.department)\
@@ -175,258 +193,11 @@ def task_3():
             .group_by(Employee.department))
     print_query(res)
 
-# Отделы, в которых сотрудники опаздывают более 2х раз в неделю
-def task_4():
-    Record1 = Record.alias()
-    query = (Record1\
-        .select(Record1.employee_id, fn.Date_part('week', Record1.rdate).alias('data1'))\
-        .where(Record1.rtype == 1)\
-        .group_by(Record1.employee_id, Record1.rdate)\
-        .having(fn.min(Record1.rtime) > '9:00'))
-
-    print(query)
-
-    print_query(query)
-
-    query1 = Employee\
-        .select(Employee.department, fn.count(Employee.id))\
-        .join(query, on=(query.c.employee_id==Employee.id))\
-        .group_by(query.c.data1, Employee.department)\
-        .having(fn.count(query.c.employee_id) > 2)
-
-    print_query(query1)
-
-# Найти средний возраст сотрудников, не находящихся
-# на рабочем месте 8 часов в день.
-def task_5():
-    now = datetime.now().year
-
-    query = Employee\
-        .select(fn.avg(now - fn.Date_part('year', Employee.birthdate)))\
-        .from_(
-            Record\
-                .select(fn.Distinct(SQL('employee_id'), SQL('rdate')), SQL('employee_id'), SQL('rdate'), (fn.sum(SQL('tmp_dur')).over(partition_by=[SQL('employee_id'), SQL('rdate')])).alias('day_dur'))\
-                .from_(
-                    Record\
-                        .select(SQL('employee_id'),
-                                SQL('rdate'),
-                                SQL('rtime'),
-                                SQL('rtype'),
-                                fn.Lag(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('prev_time'),
-                                (Record.rtime - fn.Lag(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate])).alias('tmp_dur'),
-                                )\
-                        .order_by(Record.employee_id, Record.rdate, Record.rtime)
-                ).alias('small_durations')\
-        ).alias('day_durations')\
-        .join(Employee, on=(Employee.id==SQL('employee_id')))\
-        .where(SQL('day_dur') < '11:00:00')
-
-    print_query(query)
-
-# Все отделы и кол-во сотрудников
-# Хоть раз опоздавших за всю историю учета.
-def task_6():
-    query = Employee\
-        .select(Employee.department, fn.count(SQL('employee_id').distinct()))\
-        .from_(Record\
-            .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                    SQL('employee_id'),
-                    SQL('rdate'),
-                    fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-            .where(Record.rtype==1)).alias('r')\
-        .join(Employee, on=(Employee.id == SQL('employee_id')))\
-        .where(SQL('time_in') > '09:00:00')\
-        .group_by(Employee.department)
-
-    print_query(query)
-
-# Найти самого старшего сотрудника в бухгалтерии
-def task_7():
-    Employee1 = Employee.alias()
-    min_bir = (Employee\
-        .select(fn.min(Employee.birthdate).alias('mb'))\
-        .where(Employee.department == 'IT'))
-    print_query(min_bir)
-
-    query = Employee\
-        .select(Employee.id, Employee.fullname, Employee.birthdate)\
-        .where(Employee.department=='IT' and Employee.birthdate == min_bir)
-
-    print_query(query)
-
-# Найти сотрудников, выходивших больше 3-х раз с рабочего места
-def task_8():
-    Record1 = Record.alias()
-    query = Record1\
-        .select(Record1.employee_id, fn.count(Record1.employee_id).alias('cnt')).distinct()\
-        .where(Record1.rtype == 2)\
-        .group_by(Record1.employee_id, Record1.rdate)\
-        .having(fn.count(Record1.employee_id) > 2)
-
-    print_query(query)
-
-    query1 = Employee.select(Employee.id, Employee.fullname, query.c.cnt).join(query, on=(query.c.employee_id==Employee.id))
-    print_query(query1)
-
-# Найти сотрудника, который пришел сегодня последним
-def task_9():
-    Record1 = Record.alias()
-    dat = '21-12-2022'
-    query1 = Record1\
-        .select(Record1.rdate,
-                fn.min(Record1.rtime)\
-                    .over(partition_by=[Record1.employee_id, Record1.rdate]).alias('time_in'))\
-        .where(Record1.rtype == 1)\
-        .where(Record1.rdate == dat)\
-        .order_by(SQL('time_in').desc())\
-        .distinct()\
-        .limit(1)
-    print_query(query1)
-
-
-# В идеале сравнить время с максимумом за нужную дату....
-# Но что-то пошло не так
-# Поэтому сортировка и беру первую
-    query = Employee\
-    .select(Employee.id, Employee.fullname, SQL('time_in'), SQL('rdate'))\
-    .from_(Record\
-        .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                SQL('employee_id'),
-                SQL('rdate'),
-                fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-        .where(Record.rtype==1)).alias('r')\
-    .join(Employee, on=(Employee.id == SQL('employee_id')))\
-    .where(SQL('rdate') == dat)\
-    .order_by(SQL('time_in').desc())\
-    .limit(1)
-    # .where(SQL('time_in') == query1.c.time_in)
-
-    print_query(query)
-
-#  Найти все отделы, в которых нет сотрудников моложе 25 лет
-def task_10():
-    now = datetime.now().year
-    query = Employee\
-        .select(Employee.department)\
-        .where((now - fn.Date_part('year', Employee.birthdate)) < 25)\
-        .distinct()
-
-    res = Employee\
-        .select(Employee.department)\
-        .where(Employee.department.not_in(query))
-
-    print_query(res)
-
-# Найти сотружника, который пришел сегодня раньше всех на работу
-def task_11():
-    dat = '23-12-2022'
-    query = Employee\
-    .select(Employee.id, Employee.fullname, SQL('time_in'), SQL('rdate'))\
-    .from_(Record\
-        .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                SQL('employee_id'),
-                SQL('rdate'),
-                fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-        .where(Record.rtype==1)).alias('r')\
-    .join(Employee, on=(Employee.id == SQL('employee_id')))\
-    .where(SQL('rdate') == dat)\
-    .order_by(SQL('time_in'))\
-    .limit(1)
-
-    print_query(query)
-
-#  Найти сотрудников, опоздавших не менее 5-ти раз
-def task_12():
-    query = Employee\
-    .select(Employee.id, Employee.fullname, fn.count(SQL('employee_id')))\
-    .from_(Record\
-        .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                SQL('employee_id'),
-                SQL('rdate'),
-                fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-        .where(Record.rtype==1)).alias('r')\
-    .join(Employee, on=(Employee.id == SQL('employee_id')))\
-    .where(SQL('time_in') > '09:00')\
-    .group_by(Employee.id, Employee.fullname)\
-    .having(fn.count(SQL('employee_id')) > 3)
-
-    print_query(query)
-
-# Найти сотрудников, опоздавших сегодня меньше, чем на 5 минут
-def task_13():
-    dat = '23-12-2022'
-    query = Employee\
-    .select(Employee.id, Employee.fullname)\
-    .from_(Record\
-        .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                SQL('employee_id'),
-                SQL('rdate'),
-                fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-        .where(Record.rtype==1)).alias('r')\
-    .join(Employee, on=(Employee.id == SQL('employee_id')))\
-    .where(SQL('time_in') > '09:00')\
-    .where(SQL('time_in') <= '09:05')\
-    .where(SQL('rdate') == dat)
-
-    print_query(query)
-
-def task_14():
-    now = datetime.now().year
-    dt = '21-12-2022'
-
-    query = Record\
-                .select(fn.Distinct(SQL('employee_id')))\
-                .from_(
-                    Record\
-                        .select(SQL('employee_id'),
-                                SQL('rdate'),
-                                SQL('rtime'),
-                                SQL('rtype'),
-                                fn.Lag(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('prev_time'),
-                                (Record.rtime - fn.Lag(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate])).alias('tmp_dur'),
-                                )\
-                        .order_by(Record.employee_id, Record.rdate, Record.rtime)
-                ).alias('small_durations')\
-        .join(Employee, on=(Employee.id==SQL('employee_id')))\
-        .where(SQL('tmp_dur') > '00:10:00')\
-        .where(SQL('rdate') == dt)\
-        .group_by(SQL('employee_id'))\
-        .having(fn.count(SQL('employee_id')) > 1)
-
-    print_query(query)
-
-def task_15():
-    query = Employee\
-    .select(fn.Distinct(Employee.id, Employee.fullname), Employee.id, Employee.fullname)\
-    .from_(Record\
-        .select(fn.Distinct(SQL('employee_id'), SQL('rdate')),
-                SQL('employee_id'),
-                SQL('rdate'),
-                fn.min(Record.rtime).over(partition_by=[Record.employee_id, Record.rdate]).alias('time_in'))\
-        .where(Record.rtype==1)).alias('r')\
-    .join(Employee, on=(Employee.id == SQL('employee_id')))\
-    .where(Employee.department == 'IT')\
-    .where(SQL('time_in') <= '9:00')
-
-    print_query(query)
-
-def task_16():
-    now = datetime.now().year
-
-    query = Employee\
-        .select(Employee.department)\
-        .where((now - fn.Date_part('year', Employee.birthdate)) == 25)\
-        .group_by(Employee.department)\
-        .having(fn.count(Employee.id) >= 2)
-
-    print_query(query)
-
-# def task_17():
-#     pass
-
-
 def main():
-    task_3()
+    task_sql()
+    task_1_app()
+    task_2_app()
+    task_3_app()
 
 
 if __name__ == '__main__':
