@@ -5,6 +5,7 @@ create table if not exists harfoots_import (data jsonb)
 
 select (jsonb_array_elements("data")::jsonb)->>'id' from harfoots_import;
 
+copy (select json_agg(row) from (select row_to_json(h) result from (select age+100 as "height", name, gender, country, skill from humans) as h) as "row") to '/Users/p.kalashkov/Desktop/fifthTerm/bmstu-aa/lab06/src/data/humans.json';
 
 -- 1. Из таблиц базы данных, созданной в первой лабораторной работе, извлечь
 -- данные в  XML  (MSSQL) или  JSON(Oracle,  Postgres). Для выгрузки в  XML
